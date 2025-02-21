@@ -111,7 +111,7 @@ A simpler version, **TikTok Platinum**, is also available. While it offers fewer
 
 ---
 
-# xManager for Spotify
+# xManager
 
 **FR : 🇫🇷**
 xManager est un outil puissant permettant de gérer et d'installer différentes versions modifiées de Spotify sur Android. Il offre une interface intuitive et simplifiée, permettant aux utilisateurs d'accéder à des fonctionnalités avancées, notamment la suppression des publicités et des restrictions de lecture. Grâce à xManager, il est possible de télécharger et d'installer la version de Spotify la mieux adaptée à vos besoins, avec ou sans root.  
