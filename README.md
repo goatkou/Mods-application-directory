@@ -7,10 +7,12 @@ Bienvenue dans la liste des mods Android ! Retrouvez ici quelques applications m
 ---
 
 ## YouTube ReVanced
-**FR :** YouTube ReVanced est une version modifiée de YouTube qui permet d’accéder aux fonctionnalités premium et bien plus encore.  
+**FR :** YouTube ReVanced est une version modifiée de l'application YouTube officielle qui offre une expérience sans publicité, la possibilité de lire des vidéos en arrière-plan et de nombreuses options de personnalisation. Contrairement à l'application officielle, YouTube ReVanced permet de bloquer les publicités, de lire des vidéos en arrière-plan et d'offrir une interface épurée et intuitive.  
+
 **Accessibilité :** (Root - Non-root)
 
-**EN :** YouTube ReVanced is a modified version of YouTube with premium features unlocked and much more.  
+**EN :** YouTube ReVanced is a modified version of the official YouTube app that provides an ad-free experience, background playback, and extensive customization options. Unlike the official app, YouTube ReVanced allows ad-blocking, background playback, and offers a clean and intuitive interface.  
+
 **Accessibility:** (Root - Non-root)
 
 [🌐 Web Page](https://revanced.app/)
@@ -18,10 +20,12 @@ Bienvenue dans la liste des mods Android ! Retrouvez ici quelques applications m
 ---
 
 ## YouTube ReVanced Extended
-**FR :** Une version améliorée de ReVanced avec encore plus de fonctionnalités.  
+**FR :** Une version améliorée de ReVanced avec encore plus de fonctionnalités, notamment des options de personnalisation avancées et une meilleure gestion des vidéos en arrière-plan.  
+
 **Accessibilité :** (Root - Non-root)
 
-**EN :** An improved version of ReVanced with even more features.  
+**EN :** An improved version of ReVanced with even more features, including advanced customization options and better background video management.  
+
 **Accessibility:** (Root - Non-root)
 
 [📢 Telegram Group](https://t.me/revanced_extended)
@@ -29,10 +33,12 @@ Bienvenue dans la liste des mods Android ! Retrouvez ici quelques applications m
 ---
 
 ## TikTok Private Plus
-**FR :** TikTok Private Plus est une version modifiée de TikTok qui rajoute des options comme le téléchargement des TikToks sans les mentions, retire les publicités et bien plus encore avec TikTok Plugin. Une extension du mod TikTok Private Plus qui permet également de filtrer les TikToks par vues spécifiques, etc. Il existe aussi une version plus basique sous le nom TikTok Platinum.  
+**FR :** TikTok Private Plus est une version modifiée de TikTok qui offre des fonctionnalités telles que le téléchargement de vidéos sans filigrane, la suppression des publicités. Il est également possible d'ajouter des fonctionnalités supplémentaires grâce à app sous le nom TikTok plugin. Une version plus simple de ce mod, sous le nom de TikTok Platinum, existe également et offre moins de fonctionnalités, mais reste efficace pour une expérience sans publicité.
+
 **Accessibilité :** (Non-root)
 
-**EN :** TikTok Private Plus is a modified version of TikTok that adds options like downloading TikToks without mentions, removes ads, and more with TikTok Plugin. An extension of TikTok Private Plus mod also allows you to filter TikToks by specific views, etc. A more basic version is available under the name TikTok Platinum.  
+**EN :** TikTok Private Plus is a modified version of TikTok that offers features such as watermark-free video downloads, ad removal. Additional functionalities can be added through a app under the name TikTok plugin . There is also a simpler version of this mod, named TikTok Platinum, which provides fewer features but still offers an ad-free experience.
+
 **Accessibility:** (Non-root)
 
 [📢 Telegram Group](https://t.me/tiktokupdatez)
@@ -40,12 +46,12 @@ Bienvenue dans la liste des mods Android ! Retrouvez ici quelques applications m
 ---
 
 ## MyInsta/InstaDM
-**FR :** MyInsta et InstaDM sont des versions modifiées d'Instagram qui rajoutent des options comme le téléchargement des stories et un mode fantôme permettant de voir divers contenus sans que les autres utilisateurs ne le sachent.  
-**Quelle est la différence entre MyInsta et InstaDM ?** MyInsta est la version stable du mod, avec moins de bugs. InstaDM est une version bêta, qui peut contenir des bugs, mais propose parfois plus de fonctionnalités.  
+**FR :** MyInsta et InstaDM sont des versions modifiées d'Instagram qui permettent de télécharger des stories et offrent un mode fantôme pour visualiser du contenu sans que les autres utilisateurs ne le sachent. MyInsta est la version stable avec moins de bugs, tandis qu'InstaDM est une version bêta avec plus de fonctionnalités mais potentiellement plus de bugs.  
+
 **Accessibilité :** (Non-root)
 
-**EN :** MyInsta and InstaDM are modified versions of Instagram that add options such as downloading stories and a ghost mode, which lets you view content without others noticing.  
-**What's the difference between MyInsta and InstaDM?** MyInsta is the stable version with fewer bugs. InstaDM is a beta version with potential bugs but might offer more features.  
+**EN :** MyInsta and InstaDM are modified versions of Instagram that allow downloading stories and offer a ghost mode to view content without others noticing. MyInsta is the stable version with fewer bugs, while InstaDM is a beta version with more features but potentially more bugs.  
+
 **Accessibility:** (Non-root)
 
 [📢 Telegram Group](https://t.me/instasmashrepo)
@@ -53,37 +59,38 @@ Bienvenue dans la liste des mods Android ! Retrouvez ici quelques applications m
 ---
 
 ## SnapEnhance
-**FR :** SnapEnhance est une version modifiée de l'application Snapchat qui ajoute la plupart des options de l'abonnement payant Snapchat +, et bien plus encore. Comme pour ReVanced, il est nécessaire de patcher Snapchat avec "core.apk" disponible sur le Telegram : [SnapEnhanceCi](https://t.me/snapenhance_ci) via LSPatch.  
-Pour plus d'informations sur l'installation : [Guide d'installation](https://github.com/rhunk/SnapEnhance/wiki/Installation-Guide)
+**FR :** SnapEnhance est une version modifiée de Snapchat qui ajoute des fonctionnalités de l'abonnement payant Snapchat+, telles que la possibilité de voir les messages supprimés, de les éditer et d'accéder à des salons privés. L'application nécessite un patchage via LSPatch et "core.apk" disponible sur Telegram.  
 
 **Accessibilité :** (Root - Non-root)
 
-**EN :** SnapEnhance is a modified version of the Snapchat app that adds most features from the paid Snapchat + subscription and more. Just like ReVanced, Snapchat needs to be patched with "core.apk" which is available on Telegram: [SnapEnhanceCi](https://t.me/snapenhance_ci) via LSPatch.  
-For more installation information: [Installation Guide](https://github.com/rhunk/SnapEnhance/wiki/Installation-Guide)
+**EN :** SnapEnhance is a modified version of Snapchat that adds features from the paid Snapchat+ subscription, such as viewing deleted messages, editing them, and accessing private channels. The app requires patching via LSPatch and "core.apk" available on Telegram.  
+
+**Accessibility:** (Root - Non-root)
 
 [📢 Telegram Group](https://t.me/snapenhance)
 
 ---
 
 ## Xtra
-**FR :** Xtra est une version modifiée de Twitch qui permet de regarder des rediffusions payantes gratuitement et d’accéder à des emotes 7TV, BTTV, FFZ, etc.  
+**FR :** Xtra est une version modifiée de Twitch qui permet de regarder des rediffusions payantes gratuitement et d'accéder à des emotes 7TV, BTTV, FFZ, etc.  
 **Accessibilité :** (Non-root)
 
-**EN :** Xtra is a modified version of Twitch that allows you to watch paid replays for free and access 7TV, BTTV, FFZ emotes, etc.  
-**Accessibility :** (Non-root)
+**EN :** Xtra is a modified version of Twitch that allows watching paid replays for free and accessing 7TV, BTTV, FFZ emotes, etc.  
+
+**Accessibility:** (Non-root)
 
 [😺 Lien Github](https://github.com/crackededed/Xtra)
 
 ---
 
 ## Piko
-**FR :** Piko est une version modifiée de Twitter (X) qui permet de télécharger des vidéos directement depuis l'application et d'avoir certaines options premium. Vous pouvez obtenir ce mod soit en utilisant ReVanced Manager, soit en allant directement sur leur canal Telegram.
-
-[Guide d'installation (ReVanced Manager)](https://github.com/crimera/piko/blob/main/docs/images/manager.png)  
+**FR :** Piko est une version modifiée de Twitter (X) qui permet de télécharger des vidéos directement depuis l'application et offre certaines options premium. Le mod peut être obtenu via ReVanced Manager ou leur canal Telegram.  
 
 **Accessibilité :** (Non-root)
 
-**EN :** Piko is a modified version of Twitter (X) that lets you upload videos directly from the app and have certain premium options. You can get the mod either by using ReVanced Manager or by going directly to their Telegram channel.
+**EN :** Piko is a modified version of Twitter (X) that allows downloading videos directly from the app and offers certain premium options. The mod can be obtained via ReVanced Manager or their Telegram channel.  
+
+**Accessibility:** (Non-root)
 
 [Installation guide (ReVanced Manager)](https://github.com/crimera/piko/blob/main/docs/images/manager.png)  
 
@@ -92,12 +99,12 @@ For more installation information: [Installation Guide](https://github.com/rhunk
 ---
 
 ## Revenge
-**FR :** Revenge est une version modifiée de Discord permettant de voir les messages supprimés, de les éditer et de voir les salons privés des serveurs, etc.  
-Tout comme ReVanced, Discord doit être patché via Revenge Manager. L'installation est plus simple, mais pour activer les options mentionnées, il faut installer des plugins disponibles sur leur serveur Discord ou le [serveur Bunny](https://discord.gg/XjYgWXHb9Q) (ancien mod Discord).  
+**FR :** Revenge est une version modifiée de Discord permettant de voir les messages supprimés, de les voir avant éditation et d'accéder à des salons privés. L'application nécessite un patchage via Revenge Manager et l'installation de plugins disponibles sur leur serveur Discord ou le [serveur Bunny](https://discord.gg/XjYgWXHb9Q)
+
 **Accessibilité :** (Root - Non-root) et iOS
 
-**EN :** Revenge is a modified version of Discord that allows you to view deleted messages, edit them, and view private server channels, etc.  
-Like ReVanced, Discord needs to be patched via Revenge Manager. Installation is simpler, but to enable the mentioned features, you need to install plugins available on their Discord server or [Bunny's server](https://discord.gg/XjYgWXHb9Q) (old Discord mod).  
+**EN :** Revenge is a modified version of Discord that allows viewing deleted messages, to see them before editing, and accessing private channels. The app requires patching via Revenge Manager and installing plugins available on their Discord server or [Bunny's server](https://discord.gg/XjYgWXHb9Q).  
+
 **Accessibility:** (Root - Non-root) and iOS
 
 [😺 Lien Github](https://github.com/revenge-mod)
@@ -105,10 +112,12 @@ Like ReVanced, Discord needs to be patched via Revenge Manager. Installation is 
 ---
 
 ## NinjaGram
-**FR :** NinjaGram est une version modifiée de Telegram qui permet d'obtenir des fonctionnalités premium, telles que la possibilité de voir les messages supprimés, etc.  
+**FR :** NinjaGram est une version modifiée de Telegram qui offre des fonctionnalités premium, telles que la possibilité de voir les messages supprimés.  
+
 **Accessibilité :** (Non-root)
 
-**EN :** NinjaGram is a modified version of Telegram that offers premium features such as viewing deleted messages, etc.  
+**EN :** NinjaGram is a modified version of Telegram that offers premium features, such as viewing deleted messages.  
+
 **Accessibility:** (Non-root)
 
 [📢 Telegram Group](https://t.me/tele_ninja)
