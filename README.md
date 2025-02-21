@@ -59,13 +59,15 @@ Bienvenue dans la liste des mods Android ! Retrouvez ici quelques applications m
 ---
 
 ## SnapEnhance
-**FR :** SnapEnhance est une version modifiée de Snapchat qui ajoute des fonctionnalités de l'abonnement payant Snapchat+, telles que la possibilité de voir les messages supprimés, de les éditer et d'accéder à des salons privés. L'application nécessite un patchage via LSPatch et "core.apk" disponible sur Telegram.  
+**FR :** SnapEnhance est une version modifiée de Snapchat qui ajoute des fonctionnalités de l'abonnement payant Snapchat+, telles que la possibilité de voir les messages supprimés, de les éditer. L'application nécessite un patchage via LSPatch
 
 **Accessibilité :** (Root - Non-root)
 
-**EN :** SnapEnhance is a modified version of Snapchat that adds features from the paid Snapchat+ subscription, such as viewing deleted messages, editing them, and accessing private channels. The app requires patching via LSPatch and "core.apk" available on Telegram.  
+**EN :** SnapEnhance is a modified version of Snapchat that adds features from the paid Snapchat+ subscription, such as viewing deleted messages, editing them. The app requires patching via LSPatch
 
 **Accessibility:** (Root - Non-root)
+
+[Installation guide](https://github.com/rhunk/SnapEnhance/wiki/Installation-Guide(
 
 [📢 Telegram Group](https://t.me/snapenhance)
 
