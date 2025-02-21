@@ -81,7 +81,7 @@ Bienvenue dans la liste des mods Android ! Retrouvez ici quelques applications m
 
 **Accessibility:** (Non-root)
 
-[😺 Lien Github](https://github.com/crackededed/Xtra)
+[😺 Github Link](https://github.com/crackededed/Xtra)
 
 ---
 
@@ -109,7 +109,7 @@ Bienvenue dans la liste des mods Android ! Retrouvez ici quelques applications m
 
 **Accessibility:** (Root - Non-root) and iOS
 
-[😺 Lien Github](https://github.com/revenge-mod)
+[😺 Github Link](https://github.com/revenge-mod)
 
 ---
 
