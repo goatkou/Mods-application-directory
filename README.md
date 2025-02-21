@@ -3,57 +3,48 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Répertoire de Mods</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-            text-align: center;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            color: #333;
-        }
-        .mod-list {
-            list-style: none;
-            padding: 0;
-        }
-        .mod-item {
-            background: #ddd;
-            margin: 10px 0;
-            padding: 15px;
-            border-radius: 5px;
-        }
-        .mod-item a {
-            text-decoration: none;
-            color: #007BFF;
-        }
-    </style>
+    
+    
 </head>
 <body>
-    <div class="container">
-        <h1>Répertoire des Mods</h1>
-        <ul class="mod-list">
-            <li class="mod-item">
-                <strong>Nom du Mod 1</strong><br>
-                Description du mod.<br>
-                <a href="#">Télécharger</a>
-            </li>
-            <li class="mod-item">
-                <strong>Nom du Mod 2</strong><br>
-                Description du mod.<br>
-                <a href="#">Télécharger</a>
-            </li>
-        </ul>
+    <h1>List of app mods</h1>
+    <div class="mod">
+        <h2>YouTube ReVanced</h2>
+        <p>YouTube ReVanced
+
+FR
+
+YouTube ReVanced est une version modifiée de YouTube contenant d'innombrables paramètres permettant d'accéder aux fonctionnalités premium de YouTube et bien d'autres
+
+Accessibilité : (Root - Non-root)
+
+____
+
+EN
+
+YouTube ReVanced is a modified version of YouTube, with countless settings that give you access to YouTube's premium features and much more
+
+Accessibility : (Root - Non-root)</p>
+        <a href="https://revanced.app/" class="download-btn" target="_blank">Web Page</a>
     </div>
-</body>
-</html>
+    <div class="mod">
+        <h2>YouTube ReVanced Extended</h2>
+        <p>YouTube ReVanced Extended
+
+FR
+
+YouTube ReVanced Extended est une version modifiée de YouTube également mais avec beaucoup plus de paramètres que ReVanced
+
+Accessibilité : (Root - Non-root)
+
+____
+
+EN
+
+YouTube ReVanced Extended is also a modified version of YouTube, but with many more parameters than ReVanced
+
+Accessibility: (Root - Non-root)</p>
+<a href="https://t.me/revanced_extended" class="download-btn" target="_blank">Group Telegram</a>
+    </div>
+    <div class="mod">
+        
