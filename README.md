@@ -47,3 +47,22 @@ Welcome to the list of Android mods! Here are some modified apps with their feat
 **Accessibility:** (Non-root)
 
 [📢 Telegram Group](https://t.me/instasmashrepo)
+
+---
+
+## SnapEnhance
+**FR :** SnapEnhance est une version modifiée de l'application Snapchat rajoutant la plupart des options de l'abonnement payant Snapchat +, et autres, tout comme ReVanced il est nécessaire de patcher Snapchat avec "core.apk" qui est disponible sur le Telegram : [SnapEnhanceCi](https://t.me/snapenhance_ci) via LSPatch
+
+Pour plus d'informations sur l'installation : [Guide d'installation](https://github.com/rhunk/SnapEnhance/wiki/Installation-Guide) <!-- Remplacez # par le lien du guide d'installation -->
+
+**Accessibilité :** (Root - Non-root)
+
+____
+
+**EN :** SnapEnhance is a modified version of the Snapchat application adding most of the options of the paid subscription Snapchat +, and others, just like ReVanced it is necessary to patch Snapchat with "core.apk" which is available on the Telegram: [SnapEnhanceCi](https://t.me/snapenhance_ci) via LSPatch
+
+For more information on installation: [Installation Guide](https://github.com/rhunk/SnapEnhance/wiki/Installation-Guide) <!-- Remplacez # par le lien du guide d'installation -->
+
+**Accessibility:** (Root - Non-root)
+
+[📢 Telegram Group](https://t.me/snapenhance)
