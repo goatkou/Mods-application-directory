@@ -1,7 +1,6 @@
 # 📱 Liste des Mods Android / Android Mods List
 
 Bienvenue dans la liste des mods Android ! Retrouvez ici quelques applications modifiées et leurs fonctionnalités.  
-
 Welcome to the list of Android mods! Here are some modified apps with their features.
 
 ## YouTube ReVanced
@@ -23,3 +22,14 @@ Welcome to the list of Android mods! Here are some modified apps with their feat
 **Accessibility:** (Root - Non-root)
 
 [📢 Telegram Group](https://t.me/revanced_extended)
+
+---
+
+## TikTok Private Plus
+**FR :** TikTok Private Plus est une version modifiée de TikTok qui rajoute des options comme le téléchargement des TikToks sans les mentions, retire les pubs et autres avec TikTok Plugin, une extension du mod TikTok Private Plus qui rajoute des options comme le filtrage de TikToks par vues spécifiques, etc... il existe une version plus banales sous le nom TikTok Platinium
+**Accessibilité :** (Non-root)
+
+**EN :** TikTok Private Plus is a modified version of TikTok that adds options like downloading TikToks without mentions, removes ads and more with TikTok Plugin, an extension of mod TikTok Private Plus that adds options like filtering TikToks by specific views, etc...  there's a more ordinary version under the name TikTok Platinium
+**Accessibility:** (Non-root)
+
+[📢 Telegram Group](https://t.me/tiktokupdatez) <!-- Remplacez le # par le lien réel de la page de TikTok Private Plus -->
