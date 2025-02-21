@@ -51,18 +51,39 @@ Welcome to the list of Android mods! Here are some modified apps with their feat
 ---
 
 ## SnapEnhance
-**FR :** SnapEnhance est une version modifiée de l'application Snapchat rajoutant la plupart des options de l'abonnement payant Snapchat +, et autres, tout comme ReVanced il est nécessaire de patcher Snapchat avec "core.apk" qui est disponible sur le Telegram : [SnapEnhanceCi](https://t.me/snapenhance_ci) via LSPatch
-
+**FR :** SnapEnhance est une version modifiée de l'application Snapchat rajoutant la plupart des options de l'abonnement payant Snapchat +, et autres, tout comme ReVanced il est nécessaire de patcher Snapchat avec "core.apk" qui est disponible sur le Telegram : [SnapEnhanceCi](https://t.me/snapenhance_ci) via LSPatchm
 Pour plus d'informations sur l'installation : [Guide d'installation](https://github.com/rhunk/SnapEnhance/wiki/Installation-Guide) <!-- Remplacez # par le lien du guide d'installation -->
 
 **Accessibilité :** (Root - Non-root)
 
-____
-
 **EN :** SnapEnhance is a modified version of the Snapchat application adding most of the options of the paid subscription Snapchat +, and others, just like ReVanced it is necessary to patch Snapchat with "core.apk" which is available on the Telegram: [SnapEnhanceCi](https://t.me/snapenhance_ci) via LSPatch
 
-For more information on installation: [Installation Guide](https://github.com/rhunk/SnapEnhance/wiki/Installation-Guide) <!-- Remplacez # par le lien du guide d'installation -->
-
-**Accessibility:** (Root - Non-root)
+For more information on installation: [Installation Guide](https://github.com/rhunk/SnapEnhance/wiki/Installation-Guide)
 
 [📢 Telegram Group](https://t.me/snapenhance)
+
+---
+
+## Xtra
+**FR :** Xtra est une version modifiée de Twitch permettant de regarder des rediffusions payantes gratuitement, d'avoir des emotes 7TV, BTTV, FFZ, etc...  
+**Accessibilité :** (Non-root)
+
+**EN :** Xtra is a modified version of Twitch that allows you to watch paid replays for free, get 7TV emotes, BTTV, FFZ, etc...  
+**Accessibility :** (Non-root)
+
+[😺 Lien Github](https://github.com/crackededed/Xtra)
+
+---
+
+## Piko
+**FR :** Piko est une version modifiée de Twitter (X) qui permet de télécharger des vidéos directement depuis l'application, et avoir certaines options premium, vous pouvez avoir le mod soit en utilisant ReVanced Manager soit en allant directement sur leur canal Telegram.
+
+[Guide d'installation (ReVanced Manager)](https://github.com/crimera/piko/blob/main/docs/images/manager.png) <!-- Remplacez # par le lien réel du guide d'installation -->
+
+**Accessibilité :** (Non-root)
+
+**EN :** Piko is a modified version of Twitter (X) that lets you upload videos directly from the app, and have certain premium options, you can get the mod either by using ReVanced Manager or by going directly to their Telegram channel.
+
+[Installation guide (ReVanced Manager)](https://github.com/crimera/piko/blob/main/docs/images/manager.png) <!-- Remplacez # par le lien réel du guide d'installation -->
+
+[📢 Telegram Group](https://github.com/crimera/piko)
