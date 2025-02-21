@@ -67,7 +67,7 @@ Bienvenue dans la liste des mods Android ! Retrouvez ici quelques applications m
 
 **Accessibility:** (Root - Non-root)
 
-[Installation guide](https://github.com/rhunk/SnapEnhance/wiki/Installation-Guide(
+[Installation guide](https://github.com/rhunk/SnapEnhance/wiki/Installation-Guide)
 
 [📢 Telegram Group](https://t.me/snapenhance)
 
