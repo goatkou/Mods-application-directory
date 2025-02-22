@@ -41,8 +41,7 @@ YouTube ReVanced is a modified version of the official YouTube app that provides
 
 # YouTube ReVanced Extended  
 
-**FR : 🇫🇷**  
-YouTube ReVanced Extended est une version améliorée de YouTube ReVanced, offrant encore plus de fonctionnalités et d'options de personnalisation avancées. Il intègre une meilleure gestion de la lecture en arrière-plan et des options supplémentaires pour optimiser votre expérience utilisateur.  
+**FR : 🇫🇷**  YouTube ReVanced Extended est une version améliorée de YouTube ReVanced, offrant encore plus de fonctionnalités et d'options de personnalisation avancées. Il intègre une meilleure gestion de la lecture en arrière-plan et des options supplémentaires pour optimiser votre expérience utilisateur.  
 
 ### 🎯 Fonctionnalités  
 - 🚫 Suppression des publicités  
@@ -56,8 +55,7 @@ YouTube ReVanced Extended est une version améliorée de YouTube ReVanced, offra
 
 **Accessibilité :** (Root - Non-root)  
 
-**EN : 🇬🇧**  
-YouTube ReVanced Extended is an enhanced version of YouTube ReVanced, offering even more features and advanced customization options. It includes improved background playback management and additional settings to optimize your user experience.  
+**EN : 🇬🇧**  YouTube ReVanced Extended is an enhanced version of YouTube ReVanced, offering even more features and advanced customization options. It includes improved background playback management and additional settings to optimize your user experience.  
 
 ### 🎯 Features  
 - 🚫 Ad removal  
@@ -78,8 +76,7 @@ YouTube ReVanced Extended is an enhanced version of YouTube ReVanced, offering e
 
 # TikTok Private Plus  
 
-**FR : 🇫🇷**  
-TikTok Private Plus est une version modifiée de TikTok qui propose des fonctionnalités avancées pour améliorer votre expérience utilisateur. Il permet notamment de télécharger des vidéos sans filigrane et de supprimer les publicités. De plus, des fonctionnalités supplémentaires peuvent être ajoutées via une application complémentaire appelée **TikTok Plugin**.  
+**FR : 🇫🇷**  TikTok Private Plus est une version modifiée de TikTok qui propose des fonctionnalités avancées pour améliorer votre expérience utilisateur. Il permet notamment de télécharger des vidéos sans filigrane et de supprimer les publicités. De plus, des fonctionnalités supplémentaires peuvent être ajoutées via une application complémentaire appelée **TikTok Plugin**.  
 
 Une version plus simple, **TikTok Platinum**, est également disponible. Bien qu’elle offre moins de fonctionnalités, elle reste efficace pour profiter d’une expérience sans publicité.  
 
@@ -92,8 +89,7 @@ Une version plus simple, **TikTok Platinum**, est également disponible. Bien qu
 
 **Accessibilité :** (Non-root)  
 
-**EN : 🇬🇧**  
-TikTok Private Plus is a modified version of TikTok that provides advanced features to enhance your user experience. It allows you to download videos without watermarks and remove ads. Additionally, extra functionalities can be added through a complementary app called **TikTok Plugin**.  
+**EN : 🇬🇧**  TikTok Private Plus is a modified version of TikTok that provides advanced features to enhance your user experience. It allows you to download videos without watermarks and remove ads. Additionally, extra functionalities can be added through a complementary app called **TikTok Plugin**.  
 
 A simpler version, **TikTok Platinum**, is also available. While it offers fewer features, it still ensures an ad-free experience.  
 
@@ -142,8 +138,7 @@ xManager is a powerful tool for managing and installing various modified version
 
 # MyInsta / InstaDM  
 
-**FR : 🇫🇷**  
-MyInsta et InstaDM sont des versions modifiées d'Instagram offrant des fonctionnalités avancées pour améliorer votre expérience. Elles permettent notamment de télécharger des stories et d’activer un **mode fantôme** pour consulter du contenu en toute discrétion.  
+**FR : 🇫🇷**  MyInsta et InstaDM sont des versions modifiées d'Instagram offrant des fonctionnalités avancées pour améliorer votre expérience. Elles permettent notamment de télécharger des stories et d’activer un **mode fantôme** pour consulter du contenu en toute discrétion.  
 
 - **MyInsta** : Version stable avec moins de bugs, idéale pour une utilisation quotidienne.  
 - **InstaDM** : Version bêta avec plus de fonctionnalités, mais pouvant contenir des bugs.  
@@ -157,8 +152,7 @@ MyInsta et InstaDM sont des versions modifiées d'Instagram offrant des fonction
 
 **Accessibilité :** (Non-root)  
 
-**EN : 🇬🇧**  
-MyInsta and InstaDM are modified versions of Instagram that provide advanced features to enhance your experience. They allow story downloads and include a **ghost mode** to view content without others knowing.  
+**EN : 🇬🇧**  MyInsta and InstaDM are modified versions of Instagram that provide advanced features to enhance your experience. They allow story downloads and include a **ghost mode** to view content without others knowing.  
 
 - **MyInsta**: Stable version with fewer bugs, perfect for daily use.  
 - **InstaDM**: Beta version with more features but potentially more bugs.  
@@ -181,8 +175,7 @@ MyInsta and InstaDM are modified versions of Instagram that provide advanced fea
 
 # SnapEnhance  
 
-**FR : 🇫🇷**  
-SnapEnhance est une version modifiée de Snapchat qui intègre des fonctionnalités avancées inspirées de l'abonnement **Snapchat+**, offrant une expérience enrichie aux utilisateurs. Parmi ces fonctionnalités, il est possible de voir et d’éditer les messages supprimés.  
+**FR : 🇫🇷**  SnapEnhance est une version modifiée de Snapchat qui intègre des fonctionnalités avancées inspirées de l'abonnement **Snapchat+**, offrant une expérience enrichie aux utilisateurs. Parmi ces fonctionnalités, il est possible de voir et d’éditer les messages supprimés.  
 
 L'application nécessite un **patchage via LSPatch** pour fonctionner correctement.  
 
@@ -194,8 +187,7 @@ L'application nécessite un **patchage via LSPatch** pour fonctionner correcteme
 
 **Accessibilité :** (Root - Non-root)  
 
-**EN : 🇬🇧**  
-SnapEnhance is a modified version of Snapchat that integrates advanced features inspired by the **Snapchat+** subscription, providing an enhanced user experience. These features include the ability to view and edit deleted messages.  
+**EN : 🇬🇧**  SnapEnhance is a modified version of Snapchat that integrates advanced features inspired by the **Snapchat+** subscription, providing an enhanced user experience. These features include the ability to view and edit deleted messages.  
 
 The app requires **patching via LSPatch** to function properly.  
 
@@ -217,8 +209,7 @@ The app requires **patching via LSPatch** to function properly.
 
 # Xtra  
 
-**FR : 🇫🇷**  
-Xtra est une version modifiée de Twitch qui débloque des fonctionnalités exclusives pour améliorer l'expérience utilisateur. Il permet de **regarder des rediffusions payantes gratuitement** et d'accéder aux **emotes personnalisées** de plateformes comme **7TV, BTTV et FFZ**.  
+**FR : 🇫🇷** Xtra est une version modifiée de Twitch qui débloque des fonctionnalités exclusives pour améliorer l'expérience utilisateur. Il permet de **regarder des rediffusions payantes gratuitement** et d'accéder aux **emotes personnalisées** de plateformes comme **7TV, BTTV et FFZ**.  
 
 ### 🎯 Fonctionnalités  
 - 📺 Accès gratuit aux rediffusions payantes  
@@ -228,8 +219,7 @@ Xtra est une version modifiée de Twitch qui débloque des fonctionnalités excl
 
 **Accessibilité :** (Non-root)  
 
-**EN : 🇬🇧**  
-Xtra is a modified version of Twitch that unlocks exclusive features to enhance the user experience. It allows you to **watch paid replays for free** and access **custom emotes** from platforms like **7TV, BTTV, and FFZ**.  
+**EN : 🇬🇧** Xtra is a modified version of Twitch that unlocks exclusive features to enhance the user experience. It allows you to **watch paid replays for free** and access **custom emotes** from platforms like **7TV, BTTV, and FFZ**.  
 
 ### 🎯 Features  
 - 📺 Free access to paid replays  
@@ -245,8 +235,7 @@ Xtra is a modified version of Twitch that unlocks exclusive features to enhance 
 
 # Piko  
 
-**FR : 🇫🇷**  
-Piko est une version modifiée de **Twitter (X)** qui ajoute des fonctionnalités exclusives pour une meilleure expérience utilisateur. Il permet notamment de **télécharger des vidéos directement depuis l’application** et d’accéder à certaines **options premium**.  
+**FR : 🇫🇷** Piko est une version modifiée de **Twitter (X)** qui ajoute des fonctionnalités exclusives pour une meilleure expérience utilisateur. Il permet notamment de **télécharger des vidéos directement depuis l’application** et d’accéder à certaines **options premium**.  
 
 Le mod est disponible via **ReVanced Manager** ou sur leur **canal Telegram**.  
 
@@ -259,8 +248,7 @@ Le mod est disponible via **ReVanced Manager** ou sur leur **canal Telegram**.
 
 **Accessibilité :** (Non-root)  
 
-**EN : 🇬🇧**  
-Piko is a modified version of **Twitter (X)** that adds exclusive features for an enhanced user experience. It allows **video downloads directly from the app** and provides access to **certain premium options**.  
+**EN : 🇬🇧** Piko is a modified version of **Twitter (X)** that adds exclusive features for an enhanced user experience. It allows **video downloads directly from the app** and provides access to **certain premium options**.  
 
 The mod is available via **ReVanced Manager** or their **Telegram channel**.  
 
@@ -282,8 +270,7 @@ The mod is available via **ReVanced Manager** or their **Telegram channel**.
 
 # Revenge  
 
-**FR : 🇫🇷**  
-Revenge est une version modifiée de **Discord** qui offre des fonctionnalités avancées pour améliorer l'expérience utilisateur. Il permet notamment de **voir les messages supprimés**, de **voir les messages avant édition** et d'**accéder aux salons privés**, où seuls les noms des salons et la date du dernier message sont visibles.  
+**FR : 🇫🇷** Revenge est une version modifiée de **Discord** qui offre des fonctionnalités avancées pour améliorer l'expérience utilisateur. Il permet notamment de **voir les messages supprimés**, de **voir les messages avant édition** et d'**accéder aux salons privés**, où seuls les noms des salons et la date du dernier message sont visibles.  
 
 L'application nécessite un **patchage via Revenge Manager** et l'installation de **plugins** disponibles sur leur serveur Discord ou le [serveur Bunny](https://discord.gg/XjYgWXHb9Q).  
 
@@ -296,8 +283,7 @@ L'application nécessite un **patchage via Revenge Manager** et l'installation d
 
 **Accessibilité :** (Root - Non-root) et iOS  
 
-**EN : 🇬🇧**  
-Revenge is a modified version of **Discord** that provides advanced features to enhance the user experience. It allows you to **view deleted messages**, **see messages before editing**, and **access private channels**, where only the names of the channels and the date of the last message are visible.  
+**EN : 🇬🇧** Revenge is a modified version of **Discord** that provides advanced features to enhance the user experience. It allows you to **view deleted messages**, **see messages before editing**, and **access private channels**, where only the names of the channels and the date of the last message are visible.  
 
 The app requires **patching via Revenge Manager** and installing **plugins** available on their Discord server or [Bunny's server](https://discord.gg/XjYgWXHb9Q).  
 
@@ -317,8 +303,7 @@ The app requires **patching via Revenge Manager** and installing **plugins** ava
 
 # NinjaGram  
 
-**FR : 🇫🇷**  
-NinjaGram est une version modifiée de **Telegram** qui propose des fonctionnalités premium pour améliorer l'expérience utilisateur. Parmi les fonctionnalités disponibles, il est possible de **voir les messages supprimés**.  
+**FR : 🇫🇷** NinjaGram est une version modifiée de **Telegram** qui propose des fonctionnalités premium pour améliorer l'expérience utilisateur. Parmi les fonctionnalités disponibles, il est possible de **voir les messages supprimés**.  
 
 ### 🎯 Fonctionnalités  
 - 👀 Voir les messages supprimés  
@@ -328,8 +313,7 @@ NinjaGram est une version modifiée de **Telegram** qui propose des fonctionnali
 
 **Accessibilité :** (Non-root)  
 
-**EN : 🇬🇧**  
-NinjaGram is a modified version of **Telegram** that offers premium features to enhance the user experience. One of the available features is the ability to **view deleted messages**.  
+**EN : 🇬🇧** NinjaGram is a modified version of **Telegram** that offers premium features to enhance the user experience. One of the available features is the ability to **view deleted messages**.  
 
 ### 🎯 Features  
 - 👀 View deleted messages  
