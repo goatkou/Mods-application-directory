@@ -18,8 +18,9 @@
 - [📺 Xtra](#-xtra)
 - [🐦 Piko](#-piko)
 - [💬 Revenge](#-revenge)
-- [✉️ NinjaGram](#-ninjagram-1)
-- [🗨️ ReVanced Extended Reddit](#-revanced-extended-reddit-1)
+- [✉️ NinjaGram](#️-ninjagram)
+- [🗨️ ReVanced Extended Reddit](#️-revanced-extended-reddit)
+
 
 ---
 
