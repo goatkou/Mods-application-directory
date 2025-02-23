@@ -223,4 +223,4 @@
 
 ---
 
-*Dernière mise à jour / Last updated: 22 février 2025*
+*Dernière mise à jour / Last updated: 23 février 2025*
