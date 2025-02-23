@@ -1,11 +1,14 @@
 # 📱 Liste de Mods Android / Android Mods List
 
-**Bienvenue dans la liste des mods Android ! Retrouvez ici quelques applications modifiées avec leurs fonctionnalités et options.**  
-**Welcome to the list of Android mods! Here are some modified apps with their features and options.**
+**🇫🇷 Bienvenue dans la liste des mods Android ! Retrouvez ici une sélection d’applications modifiées avec leurs fonctionnalités et options pour améliorer votre expérience utilisateur.**  
+**🇬🇧 Welcome to the list of Android mods! Discover a selection of modified apps with their features and options to enhance your user experience.**
+
+> **🇫🇷 Note :** Ces mods ne sont pas affiliés aux applications originales. Utilisez-les à vos propres risques et respectez les lois locales.  
+> **🇬🇧 Note:** These mods are not affiliated with the original apps. Use them at your own risk and comply with local laws.
 
 ---
 
-## YouTube ReVanced  
+## 🎥 YouTube ReVanced  
 
 **FR : 🇫🇷** YouTube ReVanced est une version modifiée de l'application YouTube officielle qui offre une expérience sans publicité, la possibilité de lire des vidéos en arrière-plan et de nombreuses options de personnalisation. Contrairement à l'application officielle, YouTube ReVanced permet de bloquer les publicités, de lire des vidéos en arrière-plan et d'offrir une interface épurée et intuitive.  
 
@@ -17,14 +20,15 @@
 - 🌓 Mode AMOLED pour économiser la batterie / AMOLED mode for battery saving  
 - 🎨 Personnalisation avancée de l'interface / Advanced UI customization  
 - 💬 Intégration des commentaires YouTube Shorts / YouTube Shorts comments integration  
-- 📱 Fonctionne sur les appareils root et non-root / Works on rooted and non-rooted devices  
+- 📱 Compatible root et non-root / Works on rooted and non-rooted devices  
 
 **Accessibilité / Accessibility:** (Root - Non-root)  
-[**🌐 Page Web / Web Page**](https://revanced.app/)  
+
+[**🌐 Site officiel / Official Website**](https://revanced.app/)  
 
 ---
 
-## YouTube ReVanced Extended  
+## 📹 YouTube ReVanced Extended  
 
 **FR : 🇫🇷** YouTube ReVanced Extended est une version améliorée de YouTube ReVanced, offrant encore plus de fonctionnalités et d'options de personnalisation avancées. Il intègre une meilleure gestion de la lecture en arrière-plan et des options supplémentaires pour optimiser votre expérience utilisateur.  
 
@@ -38,14 +42,15 @@
 - 📌 Boutons personnalisables et plus d'options d'affichage / Customizable buttons and more display options  
 - 🔧 Paramètres avancés pour une meilleure optimisation / Advanced settings for better optimization  
 - 💬 Intégration améliorée des commentaires YouTube Shorts / Enhanced YouTube Shorts comments integration  
-- 📱 Fonctionne sur les appareils root et non-root / Works on rooted and non-rooted devices  
+- 📱 Compatible root et non-root / Works on rooted and non-rooted devices  
 
 **Accessibilité / Accessibility:** (Root - Non-root)  
-[**📢 Groupe Telegram / Telegram Group**](https://t.me/revanced_extended)  
+
+[**📢 Telegram**](https://t.me/revanced_extended)  
 
 ---
 
-## TikTok Private Plus  
+## 🎵 TikTok Private Plus  
 
 **FR : 🇫🇷** TikTok Private Plus est une version modifiée de TikTok qui propose des fonctionnalités avancées pour améliorer votre expérience utilisateur. Il permet notamment de télécharger des vidéos sans filigrane et de supprimer les publicités. De plus, des fonctionnalités supplémentaires peuvent être ajoutées via une application complémentaire appelée **TikTok Plugin**. Une version plus simple, **TikTok Platinum**, est également disponible. Bien qu’elle offre moins de fonctionnalités, elle reste efficace pour profiter d’une expérience sans publicité.  
 
@@ -56,14 +61,15 @@
 - 🎥 Téléchargement de vidéos sans filigrane / Watermark-free video downloads  
 - 🔧 Ajout de fonctionnalités via **TikTok Plugin** / Additional features via **TikTok Plugin**  
 - 🛠️ Options avancées de personnalisation / Advanced customization options  
-- 📱 Compatible avec les appareils **non-root** / Compatible with **non-root** devices  
+- 📱 Compatible non-root / Compatible with non-rooted devices  
 
 **Accessibilité / Accessibility:** (Non-root)  
-[**📢 Groupe Telegram / Telegram Group**](https://t.me/tiktokupdatez)  
+
+[**📢 Telegram**](https://t.me/tiktokupdatez)  
 
 ---
 
-## xManager  
+## 🎧 xManager  
 
 **FR : 🇫🇷** xManager est un outil puissant permettant de gérer et d'installer différentes versions modifiées de Spotify sur Android. Il offre une interface intuitive et simplifiée, permettant aux utilisateurs d'accéder à des fonctionnalités avancées, notamment la suppression des publicités et des restrictions de lecture. Grâce à xManager, il est possible de télécharger et d'installer la version de Spotify la mieux adaptée à vos besoins, avec ou sans root.  
 
@@ -73,14 +79,15 @@
 - 📌 Gestionnaire de versions Spotify (choisissez celle qui vous convient) / Spotify version manager (choose the one that suits you)  
 - 🚫 Suppression des publicités / Ad removal  
 - 🔓 Contournement des restrictions de lecture / Playback restriction bypass  
-- 🛠️ Compatible avec les appareils root et non-root / Compatible with rooted and non-rooted devices  
+- 🛠️ Compatible root et non-root / Compatible with rooted and non-rooted devices  
 
-**Accessibilité / Accessibility:** (Non-root)  
-[**📢 Groupe Telegram / Telegram Group**](https://t.me/xManagerUpdates)  
+**Accessibilité / Accessibility:** (Root - Non-root)  
+
+[**📢 Telegram**](https://t.me/xManagerUpdates)  
 
 ---
 
-## MyInsta / InstaDM  
+## 📸 MyInsta / InstaDM  
 
 **FR : 🇫🇷** MyInsta et InstaDM sont des versions modifiées d'Instagram offrant des fonctionnalités avancées pour améliorer votre expérience. Elles permettent notamment de télécharger des stories et d’activer un **mode fantôme** pour consulter du contenu en toute discrétion.  
 - **MyInsta** : Version stable avec moins de bugs, idéale pour une utilisation quotidienne.  
@@ -95,14 +102,15 @@
 - 👻 Mode fantôme pour voir du contenu sans être détecté / Ghost mode to view content undetected  
 - 📨 Améliorations des messages directs (DM) / Improved direct messaging (DM) features  
 - 🔧 Options avancées de personnalisation / Advanced customization options  
-- 📱 Compatible avec les appareils **non-root** / Compatible with **non-root** devices  
+- 📱 Compatible non-root / Compatible with non-rooted devices  
 
 **Accessibilité / Accessibility:** (Non-root)  
-[**📢 Groupe Telegram / Telegram Group**](https://t.me/instasmashrepo)  
+
+[**📢 Telegram**](https://t.me/instasmashrepo)  
 
 ---
 
-## SnapEnhance  
+## 📷 SnapEnhance  
 
 **FR : 🇫🇷** SnapEnhance est une version modifiée de Snapchat qui intègre des fonctionnalités avancées inspirées de l'abonnement **Snapchat+**, offrant une expérience enrichie aux utilisateurs. Parmi ces fonctionnalités, il est possible de voir et d’éditer les messages supprimés. L'application nécessite un **patchage via LSPatch** pour fonctionner correctement.  
 
@@ -112,16 +120,16 @@
 - 👀 Voir les messages supprimés / View deleted messages  
 - ✏️ Modifier les messages envoyés / Edit sent messages  
 - 🔓 Déblocage de certaines fonctionnalités premium de Snapchat+ / Unlock certain Snapchat+ premium features  
-- 📱 Compatible avec les appareils **root** et **non-root** / Compatible with **rooted** and **non-rooted** devices  
+- 📱 Compatible root et non-root / Compatible with rooted and non-rooted devices  
 
 **Accessibilité / Accessibility:** (Root - Non-root)  
-[**⚙️ Guide d’installation / Installation Guide**](https://github.com/rhunk/SnapEnhance/wiki/Installation-Guide)  
 
-[**📢 Groupe Telegram / Telegram Group**](https://t.me/snapenhance)  
+[**⚙️ Guide d’installation / Installation Guide**](https://github.com/rhunk/SnapEnhance/wiki/Installation-Guide)  
+[**📢 Telegram**](https://t.me/snapenhance)  
 
 ---
 
-## Xtra  
+## 📺 Xtra  
 
 **FR : 🇫🇷** Xtra est une version modifiée de Twitch qui débloque des fonctionnalités exclusives pour améliorer l'expérience utilisateur. Il permet de **regarder des rediffusions payantes gratuitement** et d'accéder aux **emotes personnalisées** de plateformes comme **7TV, BTTV et FFZ**.  
 
@@ -131,14 +139,15 @@
 - 📺 Accès gratuit aux rediffusions payantes / Free access to paid replays  
 - 😀 Intégration des emotes **7TV, BTTV, FFZ** / Integration of **7TV, BTTV, FFZ** emotes  
 - 🚫 Suppression de certaines limitations de l'application officielle / Removal of certain limitations from the official app  
-- 📱 Compatible avec les appareils **non-root** / Compatible with **non-root** devices  
+- 📱 Compatible non-root / Compatible with non-rooted devices  
 
 **Accessibilité / Accessibility:** (Non-root)  
-[**😺 Lien GitHub / GitHub Link**](https://github.com/crackededed/Xtra)  
+
+[**😺 GitHub**](https://github.com/crackededed/Xtra)  
 
 ---
 
-## Piko  
+## 🐦 Piko  
 
 **FR : 🇫🇷** Piko est une version modifiée de **Twitter (X)** qui ajoute des fonctionnalités exclusives pour une meilleure expérience utilisateur. Il permet notamment de **télécharger des vidéos directement depuis l’application** et d’accéder à certaines **options premium**. Le mod est disponible via **ReVanced Manager** ou sur leur **canal Telegram**.  
 
@@ -149,16 +158,16 @@
 - 🚫 Suppression de certaines limitations de Twitter (X) / Removal of certain Twitter (X) limitations  
 - 🌟 Accès à certaines options premium / Access to some premium options  
 - 🔧 Interface optimisée et personnalisable / Optimized and customizable interface  
-- 📱 Compatible avec les appareils **non-root** / Compatible with **non-root** devices  
+- 📱 Compatible non-root / Compatible with non-rooted devices  
 
 **Accessibilité / Accessibility:** (Non-root)  
-[**⚙️ Guide d’installation (ReVanced Manager) / Installation Guide (ReVanced Manager)**](https://github.com/crimera/piko/blob/main/docs/images/manager.png)  
 
-[**📢 Groupe Telegram / Telegram Group**](https://github.com/crimera/piko)  
+[**⚙️ Guide d’installation / Installation Guide**](https://github.com/crimera/piko/blob/main/docs/images/manager.png)  
+[**😺 GitHub**](https://github.com/crimera/piko)  
 
 ---
 
-## Revenge  
+## 💬 Revenge  
 
 **FR : 🇫🇷** Revenge est une version modifiée de **Discord** qui offre des fonctionnalités avancées pour améliorer l'expérience utilisateur. Il permet notamment de **voir les messages supprimés**, de **voir les messages avant édition** et d'**accéder aux salons privés**, où seuls les noms des salons et la date du dernier message sont visibles. L'application nécessite un **patchage via Revenge Manager** et l'installation de **plugins** disponibles sur leur serveur Discord ou le [serveur Bunny](https://discord.gg/XjYgWXHb9Q).  
 
@@ -169,14 +178,15 @@
 - ✏️ Voir les messages avant édition / See messages before editing  
 - 🔐 Accéder aux salons privés (voir les noms des salons et la date du dernier message) / Access private channels (view channel names and the date of the last message)  
 - 🛠️ Installation de plugins via **Revenge Manager** / Install plugins via **Revenge Manager**  
-- 📱 Compatible avec les appareils **root** et **non-root** ainsi que **iOS** / Compatible with **rooted** and **non-rooted** devices and **iOS**  
+- 📱 Compatible root, non-root et iOS / Compatible with rooted, non-rooted devices and iOS  
 
-**Accessibilité / Accessibility:** (Root - Non-root) et iOS  
-[**😺 Lien GitHub / GitHub Link**](https://github.com/revenge-mod)  
+**Accessibilité / Accessibility:** (Root - Non-root - iOS)  
+
+[**😺 GitHub**](https://github.com/revenge-mod)  
 
 ---
 
-## NinjaGram  
+## ✉️ NinjaGram  
 
 **FR : 🇫🇷** NinjaGram est une version modifiée de **Telegram** qui propose des fonctionnalités premium pour améliorer l'expérience utilisateur. Parmi les fonctionnalités disponibles, il est possible de **voir les messages supprimés**.  
 
@@ -186,9 +196,31 @@
 - 👀 Voir les messages supprimés / View deleted messages  
 - 🚫 Suppression des publicités / Ad removal  
 - 🛠️ Options avancées de personnalisation / Advanced customization options  
-- 📱 Compatible avec les appareils **non-root** / Compatible with **non-root** devices  
+- 📱 Compatible non-root / Compatible with non-rooted devices  
 
 **Accessibilité / Accessibility:** (Non-root)  
-[**📢 Groupe Telegram / Telegram Group**](https://t.me/tele_ninja)  
+
+[**📢 Telegram**](https://t.me/tele_ninja)  
 
 ---
+
+## 🗨️ ReVanced Extended Reddit  
+
+**FR : 🇫🇷** ReVanced Extended Reddit est une version modifiée de l'application officielle Reddit qui améliore l'expérience utilisateur avec des fonctionnalités avancées. Elle offre une navigation sans publicités, des options de personnalisation supplémentaires et la possibilité de débloquer certaines fonctionnalités premium de Reddit.  
+
+**EN : 🇬🇧** ReVanced Extended Reddit is a modified version of the official Reddit app that enhances the user experience with advanced features. It provides an ad-free browsing experience, additional customization options, and the ability to unlock certain Reddit premium features.  
+
+### 🎯 Fonctionnalités / Features  
+- 🚫 Suppression des publicités / Ad removal  
+- 🎨 Personnalisation avancée de l'interface / Advanced UI customization  
+- 🌟 Accès à certaines fonctionnalités premium / Access to some premium features  
+- 🔧 Options de navigation améliorées / Enhanced navigation options  
+- 📱 Compatible root et non-root / Compatible with rooted and non-rooted devices  
+
+**Accessibilité / Accessibility:** (Root - Non-root)  
+
+[**📢 Telegram**](https://t.me/revanced_extended)  
+
+---
+
+*Dernière mise à jour / Last updated: 22 février 2025*
