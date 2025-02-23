@@ -2,11 +2,11 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/ton-repo?style=social)](https://github.com/ton-repo)
 
-**🇫🇷 Bienvenue dans la liste des mods Android ! Retrouvez ici une sélection d’applications modifiées pour améliorer votre expérience utilisateur.**  
-**🇬🇧 Welcome to the list of Android mods! Discover a selection of modified apps to enhance your user experience.**
+**🇫🇷 Bienvenue dans la liste des mods Android ! Voici une sélection d’applications modifiées pour personnaliser et optimiser votre utilisation.**  
+**🇬🇧 Welcome to the list of Android mods! Here’s a selection of modified apps to customize and optimize your experience.**
 
-> **🇫🇷 Note :** Ces mods ne sont pas affiliés aux applications originales. Utilisez-les à vos propres risques et respectez les lois locales.  
-> **🇬🇧 Note:** These mods are not affiliated with the original apps. Use them at your own risk and comply with local laws.
+> **🇫🇷 Note :** Ces mods ne sont pas liés aux applications officielles. À utiliser à vos risques et en respectant les lois locales.  
+> **🇬🇧 Note:** These mods are not affiliated with the original apps. Use at your own risk and follow local laws.
 
 ## Table des matières / Table of Contents
 - [🎥 YouTube ReVanced](#-youtube-revanced)
@@ -21,22 +21,20 @@
 - [✉️ NinjaGram](#️-ninjagram)
 - [🗨️ ReVanced Extended Reddit](#️-revanced-extended-reddit)
 
-
 ---
 
 ## 🎥 YouTube ReVanced  
 
-**FR : 🇫🇷** YouTube ReVanced est une version modifiée de YouTube offrant une expérience sans pub, avec lecture en arrière-plan et personnalisation avancée.  
-
-**EN : 🇬🇧** YouTube ReVanced is a modified YouTube version providing an ad-free experience, background playback, and advanced customization.  
+**FR : 🇫🇷** YouTube ReVanced est une version modifiée de YouTube qui supprime les pubs et ajoute des options comme la lecture en arrière-plan ou la personnalisation de l’interface.  
+**EN : 🇬🇧** YouTube ReVanced is a modified version of YouTube that removes ads and adds features like background playback or UI customization.  
 
 ### 🎯 Fonctionnalités / Features  
-- 🚫 Suppression des pubs / Ad removal  
-- 🔄 Lecture en arrière-plan / Background playback  
-- 🌓 Mode AMOLED / AMOLED mode  
-- 🎨 Interface personnalisable / Customizable UI  
-- 💬 Commentaires Shorts / Shorts comments  
-- 📱 Root et non-root / Root and non-root  
+- 🚫 Pas de pubs (vidéos ou bannières) / No ads (videos or banners)  
+- 🔄 Lecture en arrière-plan, écran éteint inclus / Background playback, screen off included  
+- 🌓 Mode sombre AMOLED / AMOLED dark mode  
+- 🎨 Changement de thèmes ou d’icônes / Theme or icon changes  
+- 💬 Commentaires accessibles dans les Shorts / Shorts comments available  
+- 📱 Fonctionne avec ou sans root / Works with or without root  
 
 **Accessibilité / Accessibility:** (Root - Non-root)  
 
@@ -46,19 +44,18 @@
 
 ## 📹 YouTube ReVanced Extended  
 
-**FR : 🇫🇷** YouTube ReVanced Extended améliore ReVanced avec plus de personnalisation et une meilleure gestion de la lecture en arrière-plan.  
-
-**EN : 🇬🇧** YouTube ReVanced Extended enhances ReVanced with more customization and improved background playback management.  
+**FR : 🇫🇷** YouTube ReVanced Extended est une version enrichie de ReVanced, avec des options supplémentaires pour la lecture et une interface plus ajustable.  
+**EN : 🇬🇧** YouTube ReVanced Extended is an enhanced version of ReVanced, offering extra playback options and a more adjustable interface.  
 
 ### 🎯 Fonctionnalités / Features  
-- 🚫 Suppression des pubs / Ad removal  
-- 🔄 Lecture améliorée / Improved playback  
-- 🌓 Mode AMOLED / AMOLED mode  
-- 🎨 UI avancée / Advanced UI  
-- 📌 Boutons personnalisables / Customizable buttons  
-- 🔧 Paramètres optimisés / Optimized settings  
-- 💬 Shorts améliorés / Enhanced Shorts  
-- 📱 Root et non-root / Root and non-root  
+- 🚫 Suppression des pubs, y compris sponsorisés / Ad removal, including sponsored segments  
+- 🔄 Contrôles de lecture améliorés / Improved playback controls  
+- 🌓 Mode AMOLED ajusté / Adjusted AMOLED mode  
+- 🎨 Interface avec plus de thèmes / Interface with more themes  
+- 📌 Boutons modifiables (like, dislike) / Modifiable buttons (like, dislike)  
+- 🔧 Réglages pour meilleures performances / Settings for better performance  
+- 💬 Options ajoutées pour les Shorts / Added Shorts options  
+- 📱 Root ou non-root / Root or non-root  
 
 **Accessibilité / Accessibility:** (Root - Non-root)  
 
@@ -68,34 +65,35 @@
 
 ## 🎵 TikTok Private Plus  
 
-**FR : 🇫🇷** TikTok Private Plus est une version modifiée de TikTok avec téléchargement sans filigrane et suppression des pubs, enrichie par TikTok Plugin.  
-
-**EN : 🇬🇧** TikTok Private Plus is a modified TikTok version with watermark-free downloads and ad removal, enhanced by TikTok Plugin.  
+**FR : 🇫🇷** TikTok Private Plus est une version modifiée de TikTok qui permet de télécharger sans filigrane et supprime les pubs, avec des options via TikTok Plugin, une appli séparée liée au mod.  
+**EN : 🇬🇧** TikTok Private Plus is a modified TikTok version that enables watermark-free downloads and removes ads, with extras via TikTok Plugin, a separate app tied to the mod.  
 
 ### 🎯 Fonctionnalités / Features  
-- 🚫 Suppression des pubs / Ad removal  
-- 🎥 Téléchargements sans filigrane / Watermark-free downloads  
-- 🔧 TikTok Plugin / TikTok Plugin features  
-- 🛠️ Personnalisation avancée / Advanced customization  
-- 📱 Non-root / Non-root compatible  
+- 🚫 Pas de pubs dans l’appli / No in-app ads  
+- 🎥 Vidéos téléchargeables sans filigrane en HD / Videos downloadable without watermark in HD  
+- 🔧 TikTok Plugin (appli séparée) pour ajouts / TikTok Plugin (separate app) for extras  
+- 🛠️ Réglages de thèmes ou vitesse / Theme or speed settings  
+- 📱 Uniquement non-root / Non-root only  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
 [**📢 Telegram**](https://t.me/tiktokupdatez)  
 
+> **🇫🇷 Note :** Une version plus basique, **TikTok Platinum**, offre téléchargements et suppression des pubs, sans options avancées.  
+> **🇬🇧 Note:** A simpler version, **TikTok Platinum**, provides downloads and ad removal, without advanced options.
+
 ---
 
 ## 🎧 xManager  
 
-**FR : 🇫🇷** xManager gère et installe des versions modifiées de Spotify avec suppression des pubs et restrictions.  
-
-**EN : 🇬🇧** xManager manages and installs modified Spotify versions with ad and restriction removal.  
+**FR : 🇫🇷** xManager est une appli pour installer et gérer des versions modifiées de Spotify, sans pubs ni limites d’écoute.  
+**EN : 🇬🇧** xManager is an app to install and manage modified Spotify versions, without ads or listening limits.  
 
 ### 🎯 Fonctionnalités / Features  
-- 📌 Gestionnaire Spotify / Spotify manager  
-- 🚫 Suppression des pubs / Ad removal  
-- 🔓 Restrictions supprimées / Restriction bypass  
-- 📱 Root et non-root / Root and non-root  
+- 📌 Gestion facile des versions Spotify / Easy Spotify version management  
+- 🚫 Pas de pubs audio ou visuelles / No audio or visual ads  
+- 🔓 Sauts illimités et restrictions levées / Unlimited skips and restrictions lifted  
+- 📱 Root ou non-root / Root or non-root  
 
 **Accessibilité / Accessibility:** (Root - Non-root)  
 
@@ -105,16 +103,20 @@
 
 ## 📸 MyInsta / InstaDM  
 
-**FR : 🇫🇷** MyInsta et InstaDM modifient Instagram avec téléchargement de stories et mode fantôme (stable pour MyInsta, bêta pour InstaDM).  
+**FR : 🇫🇷** MyInsta et InstaDM sont des versions modifiées d’Instagram offrant des fonctionnalités comme le téléchargement de contenu ou un mode discret :  
+- **MyInsta** : Version stable et éprouvée pour une utilisation fiable.  
+- **InstaDM** : Version bêta avec des options expérimentales en cours de test.  
 
-**EN : 🇬🇧** MyInsta and InstaDM modify Instagram with story downloads and ghost mode (stable for MyInsta, beta for InstaDM).  
+**EN : 🇬🇧** MyInsta and InstaDM are modified Instagram versions with features like content downloads or a discreet mode:  
+- **MyInsta**: Stable and proven version for reliable use.  
+- **InstaDM**: Beta version with experimental features still in testing.  
 
 ### 🎯 Fonctionnalités / Features  
-- 📥 Téléchargements stories / Story downloads  
-- 👻 Mode fantôme / Ghost mode  
-- 📨 DM améliorés / Enhanced DMs  
-- 🔧 Personnalisation / Customization  
-- 📱 Non-root / Non-root compatible  
+- 📥 Téléchargement de stories, posts, reels / Download stories, posts, reels  
+- 👻 Mode fantôme pour voir sans être vu / Ghost mode to view without being seen  
+- 📨 Options ajoutées pour les DM / Added DM options  
+- 🔧 Thèmes ou polices ajustables / Adjustable themes or fonts  
+- 📱 Non-root uniquement / Non-root only  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -124,15 +126,14 @@
 
 ## 📷 SnapEnhance  
 
-**FR : 🇫🇷** SnapEnhance modifie Snapchat avec des fonctions Snapchat+ comme voir et éditer les messages supprimés (via LSPatch).  
-
-**EN : 🇬🇧** SnapEnhance modifies Snapchat with Snapchat+ features like viewing and editing deleted messages (via LSPatch).  
+**FR : 🇫🇷** SnapEnhance modifie Snapchat avec des options comme voir ou éditer les messages supprimés, installé via LSPatch.  
+**EN : 🇬🇧** SnapEnhance modifies Snapchat with options like viewing or editing deleted messages, installed via LSPatch.  
 
 ### 🎯 Fonctionnalités / Features  
-- 👀 Messages supprimés / Deleted messages  
-- ✏️ Édition messages / Message editing  
-- 🔓 Fonctions premium / Premium features  
-- 📱 Root et non-root / Root and non-root  
+- 👀 Messages supprimés visibles / Deleted messages visible  
+- ✏️ Édition possible après envoi / Editing possible after sending  
+- 🔓 Accès à certaines fonctions premium / Access to some premium features  
+- 📱 Root ou non-root / Root or non-root  
 
 **Accessibilité / Accessibility:** (Root - Non-root)  
 
@@ -143,15 +144,14 @@
 
 ## 📺 Xtra  
 
-**FR : 🇫🇷** Xtra modifie Twitch pour offrir des rediffusions gratuites et des emotes personnalisées (7TV, BTTV, FFZ).  
-
-**EN : 🇬🇧** Xtra modifies Twitch to provide free replays and custom emotes (7TV, BTTV, FFZ).  
+**FR : 🇫🇷** Xtra modifie Twitch pour donner accès aux rediffusions et ajouter des emotes personnalisées sans restrictions.  
+**EN : 🇬🇧** Xtra modifies Twitch to provide replay access and add custom emotes without restrictions.  
 
 ### 🎯 Fonctionnalités / Features  
-- 📺 Rediffusions gratuites / Free replays  
-- 😀 Emotes 7TV, BTTV, FFZ / 7TV, BTTV, FFZ emotes  
-- 🚫 Limites supprimées / Limits removed  
-- 📱 Non-root / Non-root compatible  
+- 📺 Rediffusions sans abonnement / Replays without subscription  
+- 😀 Emotes 7TV, BTTV, FFZ disponibles / 7TV, BTTV, FFZ emotes available  
+- 🚫 Limites de chat supprimées / Chat limits removed  
+- 📱 Non-root uniquement / Non-root only  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -161,16 +161,15 @@
 
 ## 🐦 Piko  
 
-**FR : 🇫🇷** Piko modifie Twitter (X) avec téléchargement de vidéos et options premium (via ReVanced Manager).  
-
-**EN : 🇬🇧** Piko modifies Twitter (X) with video downloads and premium options (via ReVanced Manager).  
+**FR : 🇫🇷** Piko ajuste Twitter (X) avec des téléchargements vidéo et des options premium, géré via ReVanced Manager.  
+**EN : 🇬🇧** Piko tweaks Twitter (X) with video downloads and premium options, managed via ReVanced Manager.  
 
 ### 🎯 Fonctionnalités / Features  
-- 📥 Téléchargements vidéos / Video downloads  
-- 🚫 Limites supprimées / Limits removed  
-- 🌟 Options premium / Premium options  
-- 🔧 Interface optimisée / Optimized UI  
-- 📱 Non-root / Non-root compatible  
+- 📥 Vidéos téléchargeables en bonne qualité / Videos downloadable in good quality  
+- 🚫 Limites levées (ex. tweets longs) / Limits lifted (e.g., long tweets)  
+- 🌟 Certaines options premium incluses / Some premium options included  
+- 🔧 Interface légèrement optimisée / Slightly optimized UI  
+- 📱 Non-root uniquement / Non-root only  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -181,15 +180,14 @@
 
 ## 💬 Revenge  
 
-**FR : 🇫🇷** Revenge modifie Discord pour voir messages supprimés/édités et accéder aux salons privés (via Revenge Manager).  
-
-**EN : 🇬🇧** Revenge modifies Discord to view deleted/edited messages and access private channels (via Revenge Manager).  
+**FR : 🇫🇷** Revenge modifie Discord pour afficher les messages supprimés/édités et les noms des salons privés avec dates (via Revenge Manager).  
+**EN : 🇬🇧** Revenge modifies Discord to show deleted/edited messages and private channel names with dates (via Revenge Manager).  
 
 ### 🎯 Fonctionnalités / Features  
-- 👀 Messages supprimés / Deleted messages  
-- ✏️ Messages avant édition / Pre-edited messages  
-- 🔐 Salons privés / Private channels  
-- 🛠️ Plugins Revenge Manager / Revenge Manager plugins  
+- 👀 Messages supprimés consultables / Deleted messages viewable  
+- ✏️ Historique des éditions visible / Edit history visible  
+- 🔐 Noms des salons privés et dernières dates / Private channel names and last dates  
+- 🛠️ Plugins via Revenge Manager / Plugins via Revenge Manager  
 - 📱 Root, non-root, iOS / Root, non-root, iOS  
 
 **Accessibilité / Accessibility:** (Root - Non-root - iOS)  
@@ -200,15 +198,14 @@
 
 ## ✉️ NinjaGram  
 
-**FR : 🇫🇷** NinjaGram modifie Telegram avec des fonctions premium comme voir les messages supprimés.  
-
-**EN : 🇬🇧** NinjaGram modifies Telegram with premium features like viewing deleted messages.  
+**FR : 🇫🇷** NinjaGram modifie Telegram avec des options comme voir les messages supprimés ou ajuster l’apparence.  
+**EN : 🇬🇧** NinjaGram modifies Telegram with options like viewing deleted messages or adjusting the look.  
 
 ### 🎯 Fonctionnalités / Features  
-- 👀 Messages supprimés / Deleted messages  
-- 🚫 Suppression des pubs / Ad removal  
-- 🛠️ Personnalisation avancée / Advanced customization  
-- 📱 Non-root / Non-root compatible  
+- 👀 Messages supprimés visibles / Deleted messages visible  
+- 🚫 Pas de pubs dans l’appli / No in-app ads  
+- 🛠️ Thèmes ou polices personnalisables / Customizable themes or fonts  
+- 📱 Non-root uniquement / Non-root only  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -218,16 +215,15 @@
 
 ## 🗨️ ReVanced Extended Reddit  
 
-**FR : 🇫🇷** ReVanced Extended Reddit modifie Reddit avec une navigation sans pub et des options premium.  
-
-**EN : 🇬🇧** ReVanced Extended Reddit modifies Reddit with ad-free browsing and premium options.  
+**FR : 🇫🇷** ReVanced Extended Reddit modifie Reddit pour supprimer les pubs et ajouter des options de navigation ou d’apparence.  
+**EN : 🇬🇧** ReVanced Extended Reddit modifies Reddit to remove ads and add navigation or appearance options.  
 
 ### 🎯 Fonctionnalités / Features  
-- 🚫 Suppression des pubs / Ad removal  
-- 🎨 UI personnalisable / Customizable UI  
-- 🌟 Fonctions premium / Premium features  
-- 🔧 Navigation améliorée / Enhanced navigation  
-- 📱 Root et non-root / Root and non-root  
+- 🚫 Pas de pubs sur l’appli / No ads on the app  
+- 🎨 Interface ajustable (thèmes, layouts) / Adjustable UI (themes, layouts)  
+- 🌟 Certaines fonctions premium gratuites / Some premium features free  
+- 🔧 Navigation simplifiée / Simplified navigation  
+- 📱 Root ou non-root / Root or non-root  
 
 **Accessibilité / Accessibility:** (Root - Non-root)  
 
@@ -236,8 +232,8 @@
 ---
 
 ## 🤝 Contributions  
-**🇫🇷** Vous avez une suggestion ou un mod à ajouter ? Ouvrez une issue ou une pull request sur le repo GitHub !  
-**🇬🇧** Have a suggestion or a mod to add? Open an issue or pull request on the GitHub repo!
+**🇫🇷** Une suggestion ou un mod à proposer ? Ouvrez une issue ou une pull request sur GitHub !  
+**🇬🇧** Got a suggestion or mod to add? Open an issue or pull request on GitHub!
 
 ---
 
