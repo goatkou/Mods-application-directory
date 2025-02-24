@@ -148,7 +148,7 @@
 
 **Accessibilité / Accessibility:** (Root - Non-root)  
 
-[**⚙️ Installation Guide / Guide d’installation**](https://github.com/rhunk/SnapEnhance/wiki/Installation-Guide)  
+[**⚙️ Installation Guide**](https://github.com/rhunk/SnapEnhance/wiki/Installation-Guide)  
 [**📢 Telegram**](https://t.me/snapenhance)  
 
 ---
@@ -166,7 +166,7 @@
 
 **Accessibilité / Accessibility:** (Non-root)  
 
-[**⚙️ Installation Guide / Guide d’installation**](https://github.com/crimera/piko/blob/main/docs/images/manager.png)  
+[**⚙️ Installation Guide**](https://github.com/crimera/piko/blob/main/docs/images/manager.png)  
 [**😺 GitHub**](https://github.com/crimera/piko)  
 
 ---
@@ -273,7 +273,7 @@
 
 ## 🆕 Nouveautés / What’s New  
 - Ajout de YT Music ReVanced Extended.  
-- Mise en page améliorer.
+- Mise en page améliorée.
 
 ---
 
