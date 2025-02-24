@@ -45,7 +45,7 @@
 - 🌓 Mode sombre AMOLED / AMOLED dark mode  
 - 🎨 Changement de thèmes ou d’icônes / Theme or icon changes  
 - 💬 Commentaires accessibles dans les Shorts / Shorts comments available  
-- 📱 Fonctionne avec ou sans root / Works with or without root  
+- 📱 Root ou non-root / Root or non-root
 
 **Accessibilité / Accessibility:** (Root - Non-root)  
 
@@ -103,7 +103,7 @@
 - 🎥 Vidéos téléchargeables sans filigrane en HD / Videos downloadable without watermark in HD  
 - 🔧 TikTok Plugin pour ajouts / TikTok Plugin for extras  
 - 🛠️ Réglages de thèmes ou vitesse / Theme or speed settings  
-- 📱 Uniquement non-root / Non-root only  
+- 📱 Non-root uniquement / Non-root only  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -283,4 +283,4 @@
 
 ---
 
-*Dernière mise à jour / Last updated: 23 février 2025*
+*Dernière mise à jour / Last updated: 24 février 2025*
