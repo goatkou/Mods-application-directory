@@ -193,14 +193,13 @@
 
 ### 💬 Revenge  
 
-**FR : 🇫🇷** Revenge modifie Discord pour afficher les messages supprimés/édités et les noms des salons privés avec dates (via Revenge Manager).  
-**EN : 🇬🇧** Revenge modifies Discord to show deleted/edited messages and private channel names with dates (via Revenge Manager).  
+**FR : 🇫🇷** Revenge modifie Discord pour afficher les messages supprimés/édités et les noms des salons privés avec dates.  
+**EN : 🇬🇧** Revenge modifies Discord to show deleted/edited messages and private channel names with dates.  
 
 #### 🎯 Fonctionnalités / Features  
 - 👀 Messages supprimés consultables / Deleted messages viewable  
-- ✏️ Historique des éditions visible / Edit history visible  
-- 🔐 Noms des salons privés et dernières dates / Private channel names and last dates  
-- 🛠️ Plugins via Revenge Manager / Plugins via Revenge Manager  
+- ✏️ Message avant édition visible / Message before visible editing
+- 🔐 Noms des salons privés et dernières dates / Private channel names and last dates 
 - 📱 Root, non-root, iOS / Root, non-root, iOS  
 
 **Accessibilité / Accessibility:** (Root - Non-root - iOS)  
