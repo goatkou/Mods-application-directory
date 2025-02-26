@@ -5,7 +5,7 @@
 **🇫🇷 Bienvenue dans la liste des mods Android ! Voici une sélection d’applications modifiées pour personnaliser et optimiser votre utilisation.**  
 **🇬🇧 Welcome to the list of Android mods! Here’s a selection of modified apps to customize and optimize your experience.**
 
-> **🇫🇷 Note :** Ces mods ne sont pas liés aux applications officielles. À utiliser à vos risques et en respectant les lois locales.  
+> **🇫🇷 Note:** Ces mods ne sont pas liés aux applications officielles. À utiliser à vos risques et en respectant les lois locales.  
 > **🇬🇧 Note:** These mods are not affiliated with the original apps. Use at your own risk and follow local laws.
 
 ## Table des matières / Table of Contents
@@ -45,7 +45,7 @@
 - 🌓 Mode sombre AMOLED / AMOLED dark mode  
 - 🎨 Changement de thèmes ou d’icônes / Theme or icon changes  
 - 💬 Commentaires accessibles dans les Shorts / Shorts comments available  
-- 📱 Root ou non-root / Root or non-root
+- ⏩ Vitesse de lecture ajustable / Adjustable playback speed  
 
 **Accessibilité / Accessibility:** (Root - Non-root)  
 
@@ -66,7 +66,7 @@
 - 📌 Boutons modifiables (like, dislike) / Modifiable buttons (like, dislike)  
 - 🔧 Réglages pour meilleures performances / Settings for better performance  
 - 💬 Options ajoutées pour les Shorts / Added Shorts options  
-- 📱 Root ou non-root / Root or non-root  
+- ⏹️ Blocage des intros automatiques / Auto-intro blocking  
 
 **Accessibilité / Accessibility:** (Root - Non-root)  
 
@@ -83,7 +83,7 @@
 - 📺 Rediffusions sans abonnement / Replays without subscription  
 - 😀 Emotes 7TV, BTTV, FFZ disponibles / 7TV, BTTV, FFZ emotes available  
 - 🚫 Limites de chat supprimées / Chat limits removed  
-- 📱 Non-root uniquement / Non-root only  
+- 🌙 Mode sombre personnalisé / Custom dark mode  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -103,7 +103,7 @@
 - 🎥 Vidéos téléchargeables sans filigrane en HD / Videos downloadable without watermark in HD  
 - 🔧 TikTok Plugin pour ajouts / TikTok Plugin for extras  
 - 🛠️ Réglages de thèmes ou vitesse / Theme or speed settings  
-- 📱 Non-root uniquement / Non-root only  
+- 🔍 Recherche améliorée de vidéos / Enhanced video search  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -126,7 +126,7 @@
 - 👻 Mode fantôme / Ghost mode  
 - 📨 Options pour les DM / Added DM options  
 - 🔧 Thèmes ou polices ajustables / Adjustable themes or fonts  
-- 📱 Non-root uniquement / Non-root only  
+- 🔎 Zoom sur les photos / Photo zoom  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -144,7 +144,7 @@
 - ✏️ Édition après envoi / Editing after sending  
 - 📥 Sauvegarde de snaps et stories sans notification / Saving snaps and stories without notification  
 - 🔓 Accès à certaines fonctions premium / Access to some premium features  
-- 📱 Root ou non-root / Root or non-root  
+- 🎨 Filtres personnalisés / Custom filters  
 
 **Accessibilité / Accessibility:** (Root - Non-root)  
 
@@ -162,7 +162,7 @@
 - 📥 Vidéos téléchargeables en bonne qualité / Videos downloadable in good quality  
 - 🌟 Certaines options premium incluses / Some premium options included  
 - 🔧 Interface légèrement optimisée / Slightly optimized UI  
-- 📱 Non-root uniquement / Non-root only  
+- 🔍 Recherche avancée de tweets / Advanced tweet search  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -181,7 +181,7 @@
 - 🎨 Interface ajustable (thèmes, layouts) / Adjustable UI (themes, layouts)  
 - 🌟 Certaines fonctions premium gratuites / Some premium features free  
 - 🔧 Navigation simplifiée / Simplified navigation  
-- 📱 Root ou non-root / Root or non-root  
+- 📑 Filtrage des posts / Post filtering  
 
 **Accessibilité / Accessibility:** (Root - Non-root)  
 
@@ -198,9 +198,9 @@
 
 #### 🎯 Fonctionnalités / Features  
 - 👀 Messages supprimés consultables / Deleted messages viewable  
-- ✏️ Message avant édition visible / Message before visible editing
-- 🔐 Noms des salons privés et dernières dates / Private channel names and last dates 
-- 📱 Root, non-root, iOS / Root, non-root, iOS  
+- ✏️ Message avant édition visible / Message before visible editing  
+- 🔐 Noms des salons privés et dernières dates / Private channel names and last dates  
+- 🎤 Améliorations vocales / Voice enhancements  
 
 **Accessibilité / Accessibility:** (Root - Non-root - iOS)  
 
@@ -217,7 +217,7 @@
 - 👀 Messages supprimés visibles / Deleted messages visible  
 - 🚫 Pas de pubs dans l’appli / No in-app ads  
 - 🛠️ Thèmes ou polices personnalisables / Customizable themes or fonts  
-- 📱 Non-root uniquement / Non-root only  
+- 🔐 Verrouillage par empreinte / Fingerprint lock  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -236,7 +236,7 @@
 - 📌 Gestion facile des versions Spotify / Easy Spotify version management  
 - 🚫 Pas de pubs audio ou visuelles / No audio or visual ads  
 - 🔓 Sauts illimités et restrictions levées / Unlimited skips and restrictions lifted  
-- 📱 Root ou non-root / Root or non-root  
+- 🎵 Mode hors ligne amélioré / Enhanced offline mode  
 
 **Accessibilité / Accessibility:** (Root - Non-root)  
 
@@ -254,7 +254,7 @@
 - 🔄 Lecture en arrière-plan, écran éteint inclus / Background playback, screen off included  
 - 🎵 Qualité audio supérieure débloquée / Enhanced audio quality unlocked  
 - 🎨 Personnalisation de l’interface / UI customization  
-- 📱 Root ou non-root / Root or non-root  
+- 🔍 Recherche de paroles intégrée / Built-in lyrics search  
 
 **Accessibilité / Accessibility:** (Root - Non-root)  
 
@@ -270,8 +270,7 @@
 
 ---
 
-## 🆕 Nouveautés / What’s New  
-- Ajout de YT Music ReVanced Extended.  
+## 🆕 Nouveautés / What’s New   
 - Mise en page améliorée.
 
 ---
@@ -282,4 +281,4 @@
 
 ---
 
-*Dernière mise à jour / Last updated: 24 février 2025*
+*Dernière mise à jour / Last updated: 26 février 2025*
