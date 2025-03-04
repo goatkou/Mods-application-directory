@@ -18,6 +18,7 @@
 ### Réseaux sociaux
 - [🎵 TikTok Private Plus](#-tiktok-private-plus)
 - [📸 MyInsta / InstaDM](#-myinsta--instadm)
+- [🌑 InstaEclipse](#-instaeclipse)
 - [📷 SnapEnhance](#-snapenhance)
 - [🐦 Piko](#-piko)
 - [🗨️ ReVanced Extended Reddit](#️-revanced-extended-reddit)
@@ -131,6 +132,22 @@
 **Accessibilité / Accessibility:** (Non-root)  
 
 [**📢 Telegram**](https://t.me/instasmashrepo)  
+
+---
+### 🌑 InstaEclipse
+
+**FR : 🇫🇷** InstaEclipse est une version modifiée d’Instagram avec des fonctionnalités avancées pour améliorer l’expérience utilisateur.  
+**EN : 🇬🇧** InstaEclipse is a modified Instagram version with advanced features to enhance the user experience.  
+
+#### 🎯 Fonctionnalités / Features  
+- ⏸️ Désactiver le défilement automatique des stories / Disable Auto Story Flipping
+- 🎬 Désactiver la lecture automatique des vidéos / Disable Auto Play Videos
+- 👻 Mode fantôme / Ghost Mode
+- 🚫 Expérience sans pubs / Ad-Free Experience
+
+**Accessibilité / Accessibility:** (Root - Non-root)  
+
+[📢 **Telegram**](https://t.me/InstaEclipse)  
 
 ---
 
@@ -275,8 +292,9 @@
 
 ---
 
-## 🆕 Nouveautés / What’s New   
-- Ajout note xManager 
+## 🆕 Nouveautés / What’s New  
+- Ajout d'InstaEclipse
+- Ajout note xManager
 - Mise en page améliorée.
 
 ---
