@@ -242,6 +242,11 @@
 
 [**📢 Telegram**](https://t.me/xManagerUpdates)  
 
+> **🇫🇷 Note :** Actuellement, l'utilisation de mods comme **xManager** pour Spotify entraîne le bannissement des comptes. Il est recommandé d'utiliser la version officielle pour éviter tout risque.  
+> **🇬🇧 Note:** Currently, using mods like **xManager** for Spotify results in account bans. It is recommended to use the official version to avoid any risks.
+
+
+
 ---
 
 ### 🎶 YouTube Music ReVanced Extended  
@@ -264,13 +269,14 @@
 
 ## ⚠️ Risques et Précautions / Risks and Precautions  
 - **Téléchargements :** Utilisez uniquement les liens officiels fournis pour éviter les malwares.  
-- **Bannissements :** Certains mods (ex. SnapEnhance) peuvent entraîner un bannissement de compte.  
+- **Bannissements :** Certains mods (ex. SnapEnhance ou xManager) peuvent entraîner un bannissement de compte.  
 - **Sécurité :** Vérifiez les permissions demandées par l’APK avant installation.  
 - **Légalité :** Respectez les lois locales ; certains mods peuvent violer les conditions d’utilisation des apps officielles.
 
 ---
 
 ## 🆕 Nouveautés / What’s New   
+- Ajout note xManager 
 - Mise en page améliorée.
 
 ---
@@ -281,4 +287,4 @@
 
 ---
 
-*Dernière mise à jour / Last updated: 26 février 2025*
+*Dernière mise à jour / Last updated: 4 mars 2025*
