@@ -1,21 +1,21 @@
-# 📱 Liste de Mods Android / Android Mods List
+# 📱 Liste de Mods Android / Android Mods List 🌟
 
 [![GitHub stars](https://img.shields.io/github/stars/ton-repo?style=social)](https://github.com/ton-repo)
 
 **🇫🇷 Bienvenue dans la liste des mods Android ! Voici une sélection d’applications modifiées pour personnaliser et optimiser votre utilisation.**  
-**🇬🇧 Welcome to the list of Android mods! Here’s a selection of modified apps to customize and optimize your experience.**
+**🇬🇧 Welcome to the list of Android mods! Here’s a selection of modified apps to customize and optimize your experience.** ✨
 
-> **🇫🇷 Note:** Ces mods ne sont pas liés aux applications officielles. À utiliser à vos risques et en respectant les lois locales.  
-> **🇬🇧 Note:** These mods are not affiliated with the original apps. Use at your own risk and follow local laws.
+> **🇫🇷 Note:** Ces mods ne sont pas liés aux applications officielles. À utiliser à vos risques et en respectant les lois locales. ⚠️  
+> **🇬🇧 Note:** These mods are not affiliated with the original apps. Use at your own risk and follow local laws. ⚠️
 
-## Table des matières / Table of Contents
+## Table des matières / Table of Contents 📑
 
-### Streaming
+### Streaming 🎬
 - [🎥 YouTube ReVanced](#-youtube-revanced)
 - [📹 YouTube ReVanced Extended](#-youtube-revanced-extended)
 - [📺 Xtra](#-xtra)
 
-### Réseaux sociaux
+### Réseaux sociaux 🌐
 - [🎵 TikTok Private Plus](#-tiktok-private-plus)
 - [📸 MyInsta / InstaDM](#-myinsta--instadm)
 - [🌑 InstaEclipse](#-instaeclipse)
@@ -23,17 +23,18 @@
 - [🐦 Piko](#-piko)
 - [🗨️ ReVanced Extended Reddit](#️-revanced-extended-reddit)
 
-### Messagerie
+### Messagerie 💬
 - [💬 Revenge](#-revenge)
 - [✉️ NinjaGram](#️-ninjagram)
 
-### Musique
+### Musique 🎵
 - [🎧 xManager](#-xmanager)
 - [🎶 YouTube Music ReVanced Extended](#-youtube-music-revanced-extended)
 
+  
 ---
 
-## Streaming
+## Streaming 🎥
 
 ### 🎥 YouTube ReVanced  
 
@@ -48,8 +49,7 @@
 - 💬 Commentaires accessibles dans les Shorts / Shorts comments available  
 - ⏩ Vitesse de lecture ajustable / Adjustable playback speed  
 
-**Accessibilité / Accessibility:** (Root - Non-root)  
-
+**Accessibilité / Accessibility:** (Root - Non-root) 🔐  
 [**🌐 Site officiel / Official Website**](https://revanced.app/)  
 
 ---
@@ -69,8 +69,7 @@
 - 💬 Options ajoutées pour les Shorts / Added Shorts options  
 - ⏹️ Blocage des intros automatiques / Auto-intro blocking  
 
-**Accessibilité / Accessibility:** (Root - Non-root)  
-
+**Accessibilité / Accessibility:** (Root - Non-root) 🔐  
 [**📢 Telegram**](https://t.me/revanced_extended)  
 
 ---
@@ -86,13 +85,12 @@
 - 🚫 Limites de chat supprimées / Chat limits removed  
 - 🌙 Mode sombre personnalisé / Custom dark mode  
 
-**Accessibilité / Accessibility:** (Non-root)  
-
+**Accessibilité / Accessibility:** (Non-root) 🔓  
 [**😺 GitHub**](https://github.com/crackededed/Xtra)  
 
 ---
 
-## Réseaux sociaux
+## Réseaux sociaux 🌍
 
 ### 🎵 TikTok Private Plus  
 
@@ -106,12 +104,11 @@
 - 🛠️ Réglages de thèmes ou vitesse / Theme or speed settings  
 - 🔍 Recherche améliorée de vidéos / Enhanced video search  
 
-**Accessibilité / Accessibility:** (Non-root)  
-
+**Accessibilité / Accessibility:** (Non-root) 🔓  
 [**📢 Telegram**](https://t.me/tiktokupdatez)  
 
-> **🇫🇷 Note :** Une version plus basique, **TikTok Platinum**, offre téléchargements et suppression des pubs, sans options avancées.  
-> **🇬🇧 Note:** A simpler version, **TikTok Platinum**, provides downloads and ad removal, without advanced options.
+> **🇫🇷 Note :** Une version plus basique, **TikTok Platinum**, offre téléchargements et suppression des pubs, sans options avancées. ℹ️  
+> **🇬🇧 Note:** A simpler version, **TikTok Platinum**, provides downloads and ad removal, without advanced options. ℹ️
 
 ---
 
@@ -129,25 +126,24 @@
 - 🔧 Thèmes ou polices ajustables / Adjustable themes or fonts  
 - 🔎 Zoom sur les photos / Photo zoom  
 
-**Accessibilité / Accessibility:** (Non-root)  
-
+**Accessibilité / Accessibility:** (Non-root) 🔓  
 [**📢 Telegram**](https://t.me/instasmashrepo)  
 
 ---
-### 🌑 InstaEclipse
+
+### 🌑 InstaEclipse  
 
 **FR : 🇫🇷** InstaEclipse est une version modifiée d’Instagram avec des fonctionnalités avancées pour améliorer l’expérience utilisateur.  
 **EN : 🇬🇧** InstaEclipse is a modified Instagram version with advanced features to enhance the user experience.  
 
 #### 🎯 Fonctionnalités / Features  
-- ⏸️ Désactiver le défilement automatique des stories / Disable Auto Story Flipping
-- 🎬 Désactiver la lecture automatique des vidéos / Disable Auto Play Videos
-- 👻 Mode fantôme / Ghost Mode
-- 🚫 Expérience sans pubs / Ad-Free Experience
+- ⏸️ Désactiver le défilement automatique des stories / Disable Auto Story Flipping  
+- 🎬 Désactiver la lecture automatique des vidéos / Disable Auto Play Videos  
+- 👻 Mode fantôme / Ghost Mode  
+- 🚫 Expérience sans pubs / Ad-Free Experience  
 
-**Accessibilité / Accessibility:** (Root - Non-root)  
-
-[📢 **Telegram**](https://t.me/InstaEclipse)  
+**Accessibilité / Accessibility:** (Root - Non-root) 🔐  
+[**📢 Telegram**](https://t.me/InstaEclipse)  
 
 ---
 
@@ -163,8 +159,7 @@
 - 🔓 Accès à certaines fonctions premium / Access to some premium features  
 - 🎨 Filtres personnalisés / Custom filters  
 
-**Accessibilité / Accessibility:** (Root - Non-root)  
-
+**Accessibilité / Accessibility:** (Root - Non-root) 🔐  
 [**⚙️ Installation Guide**](https://github.com/rhunk/SnapEnhance/wiki/Installation-Guide)  
 [**📢 Telegram**](https://t.me/snapenhance)  
 
@@ -181,8 +176,7 @@
 - 🔧 Interface légèrement optimisée / Slightly optimized UI  
 - 🔍 Recherche avancée de tweets / Advanced tweet search  
 
-**Accessibilité / Accessibility:** (Non-root)  
-
+**Accessibilité / Accessibility:** (Non-root) 🔓  
 [**⚙️ Installation Guide**](https://github.com/crimera/piko/blob/main/docs/images/manager.png)  
 [**😺 GitHub**](https://github.com/crimera/piko)  
 
@@ -200,13 +194,12 @@
 - 🔧 Navigation simplifiée / Simplified navigation  
 - 📑 Filtrage des posts / Post filtering  
 
-**Accessibilité / Accessibility:** (Root - Non-root)  
-
+**Accessibilité / Accessibility:** (Root - Non-root) 🔐  
 [**📢 Telegram**](https://t.me/revanced_extended)  
 
 ---
 
-## Messagerie
+## Messagerie 📩
 
 ### 💬 Revenge  
 
@@ -219,8 +212,7 @@
 - 🔐 Noms des salons privés et dernières dates / Private channel names and last dates  
 - 🎤 Améliorations vocales / Voice enhancements  
 
-**Accessibilité / Accessibility:** (Root - Non-root - iOS)  
-
+**Accessibilité / Accessibility:** (Root - Non-root - iOS) 🔏  
 [**😺 GitHub**](https://github.com/revenge-mod)  
 
 ---
@@ -236,13 +228,12 @@
 - 🛠️ Thèmes ou polices personnalisables / Customizable themes or fonts  
 - 🔐 Verrouillage par empreinte / Fingerprint lock  
 
-**Accessibilité / Accessibility:** (Non-root)  
-
+**Accessibilité / Accessibility:** (Non-root) 🔓  
 [**📢 Telegram**](https://t.me/tele_ninja)  
 
 ---
 
-## Musique
+## Musique 🎸
 
 ### 🎧 xManager  
 
@@ -255,14 +246,11 @@
 - 🔓 Sauts illimités et restrictions levées / Unlimited skips and restrictions lifted  
 - 🎵 Mode hors ligne amélioré / Enhanced offline mode  
 
-**Accessibilité / Accessibility:** (Root - Non-root)  
-
+**Accessibilité / Accessibility:** (Root - Non-root) 🔐  
 [**📢 Telegram**](https://t.me/xManagerUpdates)  
 
-> **🇫🇷 Note :** Actuellement, l'utilisation de mods comme **xManager** pour Spotify entraîne le bannissement des comptes. Il est recommandé d'utiliser la version officielle pour éviter tout risque.  
-> **🇬🇧 Note:** Currently, using mods like **xManager** for Spotify results in account bans. It is recommended to use the official version to avoid any risks.
-
-
+> **🇫🇷 Note :** Actuellement, l'utilisation de mods comme **xManager** pour Spotify entraîne le bannissement des comptes. Il est recommandé d'utiliser la version officielle pour éviter tout risque. ⚠️  
+> **🇬🇧 Note:** Currently, using mods like **xManager** for Spotify results in account bans. It is recommended to use the official version to avoid any risks. ⚠️
 
 ---
 
@@ -278,13 +266,12 @@
 - 🎨 Personnalisation de l’interface / UI customization  
 - 🔍 Recherche de paroles intégrée / Built-in lyrics search  
 
-**Accessibilité / Accessibility:** (Root - Non-root)  
-
+**Accessibilité / Accessibility:** (Root - Non-root) 🔐  
 [**📢 Telegram**](https://t.me/revanced_extended)  
 
 ---
 
-## ⚠️ Risques et Précautions / Risks and Precautions  
+## ⚠️ Risques et Précautions / Risks and Precautions 🚨  
 - **Téléchargements :** Utilisez uniquement les liens officiels fournis pour éviter les malwares.  
 - **Bannissements :** Certains mods (ex. SnapEnhance ou xManager) peuvent entraîner un bannissement de compte.  
 - **Sécurité :** Vérifiez les permissions demandées par l’APK avant installation.  
@@ -292,17 +279,17 @@
 
 ---
 
-## 🆕 Nouveautés / What’s New  
-- Ajout d'InstaEclipse
-- Ajout note xManager
-- Mise en page améliorée.
+## 🆕 Nouveautés / What’s New   
+- Ajout d'InstaEclipse  
+- Ajout note xManager  
+- Mise en page améliorée  
 
 ---
 
-## 🤝 Contributions  
+## 🤝 Contributions 🙌  
 **🇫🇷** Une suggestion ou un mod à proposer ? Ouvrez une issue ou une pull request sur GitHub !  
 **🇬🇧** Got a suggestion or mod to add? Open an issue or pull request on GitHub!
 
 ---
 
-*Dernière mise à jour / Last updated: 4 mars 2025*
+*Dernière mise à jour / Last updated: 5 mars 2025* ⏰
