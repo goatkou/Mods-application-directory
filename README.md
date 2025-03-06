@@ -260,7 +260,7 @@
 ## 📜 Historique des mises à jour / Changelog  
 - **6 mars 2025** : Mise en page ameliorée
 - **5 mars 2025** : Ajout d’InstaEclipse, note sur xManager
-- **1er mars 2025** : Création initiale du README.
+- **21 février 2025** : Création initiale du README.
 
 ---
 
