@@ -18,7 +18,7 @@
 - [💬 Messagerie](#-messagerie)  
 - [🎵 Musique](#-musique)  
 - [🚨 Risques et Précautions](#️-risques-et-précautions)  
-- [📜 Historique des mises à jour](#-historique-des-mises-à-jour)  
+- [📜 Historique des mises à jour / Changelog](#-historique-des-mises-à-jour--changelog) 
 - [🤝 Contributions](#-contributions)
 
 ---
