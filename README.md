@@ -98,7 +98,7 @@
 ---
 
 ### 📸 MyInsta / InstaDM  
-**FR : 🇫🇷** MyInsta et InstaDM sont des versions modifiées d’Instagram offrant téléchargement de contenu et mode discret :  
+**FR : 🇫🇷** MyInsta et InstaDM sont des versions modifiées d’Instagram offrant téléchargement de contenu et mode discret:  
 **EN : 🇬🇧** MyInsta and InstaDM are modified Instagram versions with content downloads and discreet mode:  
 - **MyInsta** : Stable et fiable / Stable and reliable  
 - **InstaDM** : Bêta avec options expérimentales / Beta with experimental features  
