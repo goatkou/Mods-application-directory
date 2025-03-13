@@ -17,8 +17,8 @@
 - [🌐 Réseaux sociaux](#-réseaux-sociaux)  
 - [💬 Messagerie](#-messagerie)  
 - [🎵 Musique](#-musique)  
-- [🚨 Risques et Précautions](#️-risques-et-précautions)  
-- [📜 Historique des mises à jour / Changelog](#-historique-des-mises-à-jour--changelog) 
+- [🚨 Risques et Précautions](#-risques-et-précautions)  
+- [📜 Historique des mises à jour / Changelog](#-historique-des-mises-à-jour--changelog)  
 - [🤝 Contributions](#-contributions)
 
 ---
@@ -98,7 +98,7 @@
 ---
 
 ### 📸 MyInsta / InstaDM  
-**FR : 🇫🇷** MyInsta et InstaDM sont des versions modifiées d’Instagram offrant téléchargement de contenu et mode discret:  
+**FR : 🇫🇷** MyInsta et InstaDM sont des versions modifiées d’Instagram offrant téléchargement de contenu et mode discret :  
 **EN : 🇬🇧** MyInsta and InstaDM are modified Instagram versions with content downloads and discreet mode:  
 - **MyInsta** : Stable et fiable / Stable and reliable  
 - **InstaDM** : Bêta avec options expérimentales / Beta with experimental features  
@@ -227,7 +227,7 @@
 [**📢 Telegram**](https://t.me/xManagerUpdates)
 
 > <span style="color: #ff4444">⚠️ Note :</span>  
-> **🇫🇷** Actuellement, l'utilisation de mods comme **xManager** pour Spotify entraîne le bannissement des comptes. Il est recommandé d'utiliser la version officielle pour éviter tout risque.  
+> **🇫🇷** Actuellement, l’utilisation de mods comme **xManager** pour Spotify entraîne le bannissement des comptes. Il est recommandé d’utiliser la version officielle pour éviter tout risque.  
 > **🇬🇧** Currently, using mods like **xManager** for Spotify results in account bans. It is recommended to use the official version to avoid any risks.
 
 ---
@@ -258,9 +258,9 @@
 ---
 
 ## 📜 Historique des mises à jour / Changelog  
-- **6 mars 2025** : Mise en page ameliorée
-- **5 mars 2025** : Ajout d’InstaEclipse, note sur xManager
-- **21 février 2025** : Création initiale du README.
+- **6 mars 2025** : Mise en page améliorée  
+- **5 mars 2025** : Ajout d’InstaEclipse, note sur xManager  
+- **21 février 2025** : Création initiale du README  
 
 ---
 
