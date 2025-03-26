@@ -142,6 +142,7 @@
 - 🎨 Filtres personnalisés / Custom filters  
 
 **Compatibilité / Compatibility:** Root / Non-root 🔐  
+
 [**⚙️ Installation Guide**](https://github.com/rhunk/SnapEnhance/wiki/Installation-Guide)  
 [**📢 Telegram**](https://t.me/snapenhance)
 
@@ -158,6 +159,7 @@
 - 🔍 Recherche avancée de tweets / Advanced tweet search  
 
 **Compatibilité / Compatibility:** Non-root 🔓  
+
 [**⚙️ Installation Guide**](https://github.com/crimera/piko/blob/main/docs/images/manager.png)  
 [**😺 GitHub**](https://github.com/crimera/piko)
 
@@ -226,9 +228,25 @@
 **Compatibilité / Compatibility:** Root / Non-root 🔐  
 [**📢 Telegram**](https://t.me/xManagerUpdates)
 
-> <span style="color: #ff4444">⚠️ Note :</span>  
-> **🇫🇷** Actuellement, l’utilisation de mods comme **xManager** pour Spotify entraîne le bannissement des comptes. Il est recommandé d’utiliser la version officielle pour éviter tout risque.  
-> **🇬🇧** Currently, using mods like **xManager** for Spotify results in account bans. It is recommended to use the official version to avoid any risks.
+
+---
+
+### 🎼 ReVanced Spotify  
+**FR : 🇫🇷** ReVanced Spotify est une version modifiée de Spotify, patchée via ReVanced Manager, pour une expérience sans pubs ni restrictions.  
+**EN : 🇬🇧** ReVanced Spotify is a modified version of Spotify, patched through ReVanced Manager, offering an ad-free and unrestricted experience.  
+
+#### 🎯 Fonctionnalités / Features  
+- 📌 Patch facile via ReVanced Manager / Easy patching with ReVanced Manager  
+- 🚫 Suppression des pubs audio et visuelles / Removal of audio and visual ads  
+- 🔓 Sauts illimités et accès premium déverrouillé / Unlimited skips and premium features unlocked  
+
+**Compatibilité / Compatibility:** Root / Non-root 🔐 
+
+[**⚙️ Installation Guide**](https://discord.com/channels/879099907519168542/1029123323298328847/1354431402359394487)  
+[**🌐 Site officiel / Official Website**](https://revanced.app/)
+> **🇫🇷 Note :** **Spotify ReVanced** est plus stable que xManager, qui peut présenter des bugs dus à un blocage récent de Spotify sur les mods. ℹ️  
+> **🇬🇧 Note:** **Spotify ReVanced** is more stable than xManager, which may experience bugs due to a recent Spotify block on mods. ℹ️
+
 
 ---
 
@@ -251,15 +269,15 @@
 ## 🚨 Risques et Précautions  
 > <span style="color: #ff4444">⚠️ Attention :</span>  
 - **Téléchargements :** Utilisez uniquement les liens officiels fournis pour éviter les malwares.  
-- **Bannissements :** Certains mods (ex. SnapEnhance ou xManager) peuvent entraîner un bannissement de compte.  
+- **Bannissements :** Certains mods (ex. SnapEnhance) peuvent entraîner un bannissement de compte.  
 - **Sécurité :** Vérifiez les permissions demandées par l’APK avant installation.  
 - **Légalité :** Respectez les lois locales ; certains mods peuvent violer les conditions d’utilisation des apps officielles.
 
 ---
 
-## 📜 Historique des mises à jour / Changelog  
+## 📜 Historique des mises à jour / Changelog 
+- **26 mars 2025** : Ajout de Spotify ReVanced, suppression de la note sur xManager
 - **6 mars 2025** : Mise en page améliorée  
-- **5 mars 2025** : Ajout d’InstaEclipse, note sur xManager  
 - **21 février 2025** : Création initiale du README  
 
 ---
