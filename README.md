@@ -244,8 +244,8 @@
 
 [**⚙️ Installation Guide**](https://discord.com/channels/879099907519168542/1029123323298328847/1354431402359394487)  
 [**🌐 Site officiel / Official Website**](https://revanced.app/)
-> **🇫🇷 Note :** **Spotify ReVanced** est plus stable que xManager, qui peut présenter des bugs dus à un blocage récent de Spotify sur les mods. ℹ️  
-> **🇬🇧 Note:** **Spotify ReVanced** is more stable than xManager, which may experience bugs due to a recent Spotify block on mods. ℹ️
+> **🇫🇷 Note :** **ReVanced Spotify** est plus stable que xManager, qui peut présenter des bugs dus à un blocage récent de Spotify sur les mods. ℹ️  
+> **🇬🇧 Note:** **ReVanced Spotify** is more stable than xManager, which may experience bugs due to a recent Spotify block on mods. ℹ️
 
 
 ---
@@ -276,7 +276,7 @@
 ---
 
 ## 📜 Historique des mises à jour / Changelog 
-- **26 mars 2025** : Ajout de Spotify ReVanced, suppression de la note sur xManager
+- **26 mars 2025** : Ajout de ReVanced Spotify, suppression de la note sur xManager
 - **6 mars 2025** : Mise en page améliorée  
 - **21 février 2025** : Création initiale du README  
 
