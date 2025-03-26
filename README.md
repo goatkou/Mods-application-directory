@@ -242,7 +242,7 @@
 
 **Compatibilité / Compatibility:** Root / Non-root 🔐 
 
-[**⚙️ Installation Guide**](https://discord.com/channels/879099907519168542/1029123323298328847/1354431402359394487)  
+[**⚙️ Installation Guide**](https://media.discordapp.net/attachments/1348627385918029854/1354332283955576842/lv_0_20250325222218.mp4?ex=67e4e7ba&is=67e3963a&hm=aad33724838cb17b0596ef02e3fc9abab149da37455f6437f89a893614e54159&)  
 [**🌐 Site officiel / Official Website**](https://revanced.app/)
 > **🇫🇷 Note :** **ReVanced Spotify** est plus stable que xManager, qui peut présenter des bugs dus à un blocage récent de Spotify sur les mods. ℹ️  
 > **🇬🇧 Note:** **ReVanced Spotify** is more stable than xManager, which may experience bugs due to a recent Spotify block on mods. ℹ️
