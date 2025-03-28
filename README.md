@@ -184,8 +184,8 @@
 ## 💬 Messagerie
 
 ### 💬 Revenge  
-**FR : 🇫🇷** Revenge modifie Discord pour afficher les messages supprimés/édités et les noms des salons privés avec dates.  
-**EN : 🇬🇧** Revenge modifies Discord to show deleted/edited messages and private channel names with dates.  
+**FR : 🇫🇷** Revenge modifie Discord pour afficher les messages supprimés/édités et les noms des salons privés avec dates via plugins.  
+**EN : 🇬🇧** Revenge modifies Discord to display deleted/edited messages and private channel names with dates via plugins.  
 
 #### 🎯 Fonctionnalités / Features  
 - 👀 Messages supprimés consultables / Deleted messages viewable  
@@ -195,6 +195,8 @@
 
 **Compatibilité / Compatibility:** Root / Non-root / iOS 🔏  
 [**😺 GitHub**](https://github.com/revenge-mod)
+
+> ✨ **Plugins List** : [Explorez la liste ici ! / Explore the list here!](https://purple-eyez.github.io/Plugins-List/)
 
 ---
 
@@ -275,9 +277,10 @@
 
 ---
 
-## 📜 Historique des mises à jour / Changelog 
+## 📜 Historique des mises à jour / Changelog
+- **28 mars 2025** : Ajout d'une liste de plugins pour Revenge
 - **26 mars 2025** : Ajout de ReVanced Spotify, suppression de la note sur xManager
-- **6 mars 2025** : Mise en page améliorée  
+
 - **21 février 2025** : Création initiale du README  
 
 ---
@@ -289,4 +292,4 @@
 
 ---
 
-*Dernière mise à jour / Last updated: 26 mars 2025* ⏰
+*Dernière mise à jour / Last updated: 28 mars 2025* ⏰
