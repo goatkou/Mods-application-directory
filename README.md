@@ -200,18 +200,20 @@
 
 ---
 
-### ✉️ NinjaGram  
-**FR : 🇫🇷** NinjaGram modifie Telegram avec des options comme voir les messages supprimés ou ajuster l’apparence.  
-**EN : 🇬🇧** NinjaGram modifies Telegram with options like viewing deleted messages or adjusting the look.  
+### ✉️ Momogram 
+
+
+**FR : 🇫🇷** Momogram modifie Telegram pour offrir des fonctionnalités avancées comme un choix de fournisseur de traduction et une personnalisation poussée.  
+**EN : 🇬🇧** Momogram enhances Telegram with advanced features like a customizable translation provider and deep customization options.  
 
 #### 🎯 Fonctionnalités / Features  
-- 👀 Messages supprimés visibles / Deleted messages visible  
+- 🌐 Fournisseur de traduction est personnalisable / Customizable translation provider  
 - 🚫 Pas de pubs dans l’appli / No in-app ads  
-- 🛠️ Thèmes ou polices personnalisables / Customizable themes or fonts  
+- 🛠️ Thèmes et polices personnalisables / Customizable themes and fonts  
 - 🔐 Verrouillage par empreinte / Fingerprint lock  
 
 **Compatibilité / Compatibility:** Non-root 🔓  
-[**📢 Telegram**](https://t.me/tele_ninja)
+[**📢 Telegram**](https://t.me/momogram_update)
 
 ---
 
@@ -233,7 +235,7 @@
 
 ---
 
-### 🎼 ReVanced Spotify  
+### 🎼 ReVanced Spotify  (Anddea)
 **FR : 🇫🇷** ReVanced Spotify est une version modifiée de Spotify, patchée via ReVanced Manager, pour une expérience sans pubs ni restrictions.  
 **EN : 🇬🇧** ReVanced Spotify is a modified version of Spotify, patched through ReVanced Manager, offering an ad-free and unrestricted experience.  
 
@@ -244,8 +246,9 @@
 
 **Compatibilité / Compatibility:** Root / Non-root 🔐 
 
-[**⚙️ Installation Guide**](https://media.discordapp.net/attachments/1348627385918029854/1354332283955576842/lv_0_20250325222218.mp4?ex=67e4e7ba&is=67e3963a&hm=aad33724838cb17b0596ef02e3fc9abab149da37455f6437f89a893614e54159&)  
-[**🌐 Site officiel / Official Website**](https://revanced.app/)
+[**🔗Sources**](https://github.com/anddea/revanced-patches/wiki/Sources)
+[**⚙️ Installation Guide**](https://cdn.discordapp.com/attachments/1354927875651928124/1366341055519260724/Video_tutorial.mp4?ex=6813e385&is=68129205&hm=170d3acb59d51446979edf533938864c6125a16d9e8288aef2b70eddbd7240a8&)  
+[**😺 GitHub**](https://github.com/anddea/revanced-patches)
 > **🇫🇷 Note :** **ReVanced Spotify** est plus stable que xManager, qui peut présenter des bugs dus à un blocage récent de Spotify sur les mods. ℹ️  
 > **🇬🇧 Note:** **ReVanced Spotify** is more stable than xManager, which may experience bugs due to a recent Spotify block on mods. ℹ️
 
@@ -278,9 +281,8 @@
 ---
 
 ## 📜 Historique des mises à jour / Changelog
+- **1 mai 2025** : Remplacement de ReVanced Spotify par ReVanced Spotify (Anddea), remplacement de Ninjagram par Momogram
 - **28 mars 2025** : Ajout d'une liste de plugins pour Revenge
-- **26 mars 2025** : Ajout de ReVanced Spotify, suppression de la note sur xManager
-
 - **21 février 2025** : Création initiale du README  
 
 ---
@@ -292,4 +294,4 @@
 
 ---
 
-*Dernière mise à jour / Last updated: 28 mars 2025* ⏰
+*Dernière mise à jour / Last updated: 1 mai 2025* ⏰
