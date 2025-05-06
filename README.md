@@ -100,8 +100,8 @@
 ### 📸 MyInsta / InstaDM  
 **FR : 🇫🇷** MyInsta et InstaDM sont des versions modifiées d’Instagram offrant téléchargement de contenu et mode discret:  
 **EN : 🇬🇧** MyInsta and InstaDM are modified Instagram versions with content downloads and discreet mode:  
-- **MyInsta** : Stable et fiable / Stable and reliable  
-- **InstaDM** : Bêta avec options expérimentales / Beta with experimental features  
+- **MyInsta** : Instagram
+- **InstaDM** : Messenger for Instagram
 
 #### 🎯 Fonctionnalités / Features  
 - 📥 Téléchargement de stories, posts, reels / Download stories, posts, reels  
@@ -281,8 +281,8 @@
 ---
 
 ## 📜 Historique des mises à jour / Changelog
+- **6 mai 2025** : Correction MyInsta/InstaDM
 - **1 mai 2025** : Remplacement de ReVanced Spotify par ReVanced Spotify (Anddea), remplacement de Ninjagram par Momogram
-- **28 mars 2025** : Ajout d'une liste de plugins pour Revenge
 - **21 février 2025** : Création initiale du README  
 
 ---
