@@ -26,7 +26,7 @@
 
 | Catégorie | Description |
 |-----------|-------------|
-| [🎬 Streaming](#-streaming) | YouTube, Xtra |
+| [🎬 Streaming](#-streaming) | YouTube, Twitch |
 | [🌐 Réseaux sociaux](#-réseaux-sociaux) | TikTok, Instagram, Snapchat, Twitter, Reddit |
 | [💬 Messagerie](#-messagerie) | Discord, Telegram |
 | [🎵 Musique](#-musique) | Spotify, YouTube Music |
