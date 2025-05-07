@@ -71,7 +71,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  <img src="https://img.shields.io/badge/ReVanced Extended-ff3859?style=for-the-badge" alt="ReVanced Extended"/>
+  <img src="https://img.shields.io/badge/RVX-ff3859?style=for-the-badge" alt="ReVanced Extended"/>
 </div>
   <img 
 
@@ -127,7 +127,7 @@
 ### 🎵 TikTok Private Plus
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  <img src="https://img.shields.io/badge/TikTok Private Plus-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
 </div>
 
 **🇫🇷** TikTok Private Plus est une version modifiée de TikTok qui permet de télécharger sans filigrane et supprime les pubs. Elle inclut des fonctionnalités supplémentaires accessibles via TikTok Plugin, une application distincte mais complémentaire au mod.  
@@ -250,14 +250,16 @@
 
 ---
 
-### 🗨️ ReVanced Extended Reddit
+### 🗨️ Reddit ReVanced Extended
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ReVanced Extended Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+    <img src="https://img.shields.io/badge/RVX-ff3859?style=for-the-badge" alt="ReVanced Extended"/>
 </div>
+  <img 
 
-**🇫🇷** ReVanced Extended Reddit modifie Reddit pour supprimer les pubs et ajouter des options de navigation ou d'apparence.  
-**🇬🇧** ReVanced Extended Reddit modifies Reddit to remove ads and add navigation or appearance options.  
+**🇫🇷** Reddit ReVanced Extended modifie Reddit pour supprimer les pubs et ajouter des options de navigation ou d'apparence.  
+**🇬🇧** Redfit ReVanced Extended modifies Reddit to remove ads and add navigation or appearance options.  
 
 #### 🎯 Fonctionnalités / Features
 
@@ -303,7 +305,7 @@
 ### ✉️ Momogram 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Momogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </div>
 
 **🇫🇷** Momogram modifie Telegram pour offrir des fonctionnalités avancées comme un choix de fournisseur de traduction et une personnalisation poussée.  
@@ -379,8 +381,10 @@
 ### 🎶 YouTube Music ReVanced Extended
 
 <div align="center">
-  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music"/>
+  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube"/>
+  <img src="https://img.shields.io/badge/RVX-ff3859?style=for-the-badge" alt="ReVanced Extended"/>
 </div>
+  <img 
 
 **🇫🇷** YouTube Music ReVanced Extended est une version modifiée de YouTube Music qui supprime les pubs et offre des fonctionnalités premium comme la lecture en arrière-plan et une qualité audio améliorée.  
 **🇬🇧** YouTube Music ReVanced Extended is a modified version of YouTube Music that removes ads and provides premium features like background playback and enhanced audio quality.  
