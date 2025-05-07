@@ -404,8 +404,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/SECURITY-WARNING-ff0000?style=for-the-badge" alt="Security Warning"/>
 </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/⚠️ ATTENTION-dea618?style=for-the-badge" alt="Attention"/>
+</div>
 
-> **⚠️ Attention :**  
 > 
 > | Risques | Précautions |
 > |--------|------------|
