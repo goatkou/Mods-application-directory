@@ -44,7 +44,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  <img src="https://img.shields.io/badge/ReVanced-8A2BE2?style=for-the-badge" alt="ReVanced"/>
+  <img src="https://img.shields.io/badge/ReVanced-5e63d1?style=for-the-badge" alt="ReVanced"/>
 </div>
 
 **🇫🇷** YouTube ReVanced est une version modifiée de YouTube qui supprime les pubs et ajoute des options comme la lecture en arrière-plan ou la personnalisation de l'interface.  
@@ -55,12 +55,12 @@
 
 | Fonctionnalité | Description |
 |----------------|-------------|
-| 🚫 | Pas de pubs (vidéos ou bannières) / No ads (videos or banners) |
+| 🚫 | Pas de pubs / No ads |
 | 🔄 | Lecture en arrière-plan, écran éteint inclus / Background playback, screen off included |
 | 🌓 | Mode sombre AMOLED / AMOLED dark mode |
 | 🎨 | Changement de thèmes ou d'icônes / Theme or icon changes |
-| 💬 | Commentaires accessibles dans les Shorts / Shorts comments available |
-| ⏩ | Vitesse de lecture ajustable / Adjustable playback speed |
+| ⏭️ | SponsorBlock
+| 👎 | Return YouTube Dislike
 
 **Compatibilité / Compatibility:** Root / Non-root 🔐  
 [**🌐 Site officiel / Official Website**](https://revanced.app/)
@@ -68,6 +68,13 @@
 ---
 
 ### 📹 YouTube ReVanced Extended
+
+<div align="center">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  <img src="https://img.shields.io/badge/ReVanced Extended-ff3859?style=for-the-badge" alt="ReVanced Extended"/>
+</div>
+  <img 
+
 
 **🇫🇷** YouTube ReVanced Extended est une version enrichie de ReVanced, avec des options supplémentaires pour la lecture et une interface plus ajustable.  
 
@@ -77,14 +84,14 @@
 
 | Fonctionnalité | Description |
 |----------------|-------------|
-| 🚫 | Suppression des pubs, y compris sponsorisés / Ad removal, including sponsored segments |
+| 🚫 | Pas de pubs / No ads |
 | 🔄 | Contrôles de lecture améliorés / Improved playback controls |
-| 🌓 | Mode AMOLED ajusté / Adjusted AMOLED mode |
-| 🎨 | Interface avec plus de thèmes / Interface with more themes |
+| 🌓 | Mode AMOLED / AMOLED dark mode |
 | 📌 | Boutons modifiables (like, dislike) / Modifiable buttons (like, dislike) |
 | 🔧 | Réglages pour meilleures performances / Settings for better performance |
-| 💬 | Options ajoutées pour les Shorts / Added Shorts options |
-| ⏹️ | Blocage des intros automatiques / Auto-intro blocking |
+| ⏭️ | SponsorBlock |
+| 👎 | Return YouTube Dislike |
+| 🆔 | Return YouTube Username |
 
 **Compatibilité / Compatibility:** Root / Non-root 🔐  
 [**📢 Telegram**](https://t.me/revanced_extended)
@@ -94,7 +101,7 @@
 ### 📺 Xtra
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+  <img src="https://img.shields.io/badge/Xtra (Twitch)-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
 </div>
 
 **🇫🇷** Xtra modifie Twitch pour donner accès aux rediffusions et ajouter des emotes personnalisées sans restrictions.  
@@ -135,7 +142,6 @@
 | 🎥 | Vidéos téléchargeables sans filigrane en HD / Videos downloadable without watermark in HD |
 | 🔧 | TikTok Plugin pour ajouts / TikTok Plugin for extras |
 | 🛠️ | Réglages de thèmes ou vitesse / Theme or speed settings |
-| 🔍 | Recherche améliorée de vidéos / Enhanced video search |
 
 **Compatibilité / Compatibility:** Non-root 🔓  
 [**📢 Telegram**](https://t.me/tiktokupdatez)
@@ -145,26 +151,24 @@
 
 ---
 
-### 📸 MyInsta / InstaDM
+### 📸 MyInsta
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/MyInsta-1cb0e8?style=for-the-badge&logo=instagram&logoColor=white" alt="MyInsta"/>
 </div>
 
-**🇫🇷** MyInsta et InstaDM sont des versions modifiées d'Instagram offrant téléchargement de contenu et mode discret:  
-**🇬🇧** MyInsta and InstaDM are modified Instagram versions with content downloads and discreet mode:  
-
-- **MyInsta** : Instagram
-- **InstaDM** : Messenger for Instagram
+**🇫🇷** MyInsta est une version modifié d'Instagram offrant téléchargement de contenu et mode discret:  
+**🇬🇧** MyInsta are modified Instagram version with content downloads and discreet mode:  
 
 #### 🎯 Fonctionnalités / Features
 
 | Fonctionnalité | Description |
 |----------------|-------------|
+| 🚫 | Pas de pubs / No ads |
 | 📥 | Téléchargement de stories, posts, reels / Download stories, posts, reels |
 | 👻 | Mode fantôme / Ghost mode |
 | 📨 | Options pour les DM / Added DM options |
-| 🔧 | Thèmes ou polices ajustables / Adjustable themes or fonts |
+| ❌ | Suppression des reels / Deletion of reels
 | 🔎 | Zoom sur les photos / Photo zoom |
 
 **Compatibilité / Compatibility:** Non-root 🔓  
@@ -174,6 +178,10 @@
 
 ### 🌑 InstaEclipse
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Instaeclipse-db224b?style=for-the-badge&logo=instagram&logoColor=white" alt="InstaEclipse"/>
+</div>
+
 **🇫🇷** InstaEclipse est une version modifiée d'Instagram avec des fonctionnalités avancées pour améliorer l'expérience utilisateur.  
 **🇬🇧** InstaEclipse is a modified Instagram version with advanced features to enhance the user experience.  
 
@@ -181,10 +189,10 @@
 
 | Fonctionnalité | Description |
 |----------------|-------------|
-| ⏸️ | Désactiver le défilement automatique des stories / Disable Auto Story Flipping |
-| 🎬 | Désactiver la lecture automatique des vidéos / Disable Auto Play Videos |
-| 👻 | Mode fantôme / Ghost Mode |
-| 🚫 | Expérience sans pubs / Ad-Free Experience |
+| ⏸️ | Désactiver le défilement automatique des stories / Disable auto story flipping |
+| 🎬 | Désactiver la lecture automatique des vidéos / Disable auto play videos |
+| 👻 | Mode fantôme / Ghost mode |
+| 🚫 | Pas de pubs / No ads |
 
 **Compatibilité / Compatibility:** Root / Non-root 🔐  
 [**📢 Telegram**](https://t.me/InstaEclipse)
@@ -194,7 +202,7 @@
 ### 📷 SnapEnhance
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="Snapchat"/>
+  <img src="https://img.shields.io/badge/SnapEnhance-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="Snapchat"/>
 </div>
 
 **🇫🇷** SnapEnhance est une version modifiée de Snapchat qui enrichit l'expérience utilisateur en débloquant des fonctionnalités avancées. Installé via LSPatch, ce mod permet de voir et modifier des messages supprimés, de sauvegarder des snaps et stories discrètement, et d'accéder à des options premium réservées.  
@@ -209,7 +217,6 @@
 | ✏️ | Édition après envoi / Editing after sending |
 | 📥 | Sauvegarde de snaps et stories sans notification / Saving snaps and stories without notification |
 | 🔓 | Accès à certaines fonctions premium / Access to some premium features |
-| 🎨 | Filtres personnalisés / Custom filters |
 
 **Compatibilité / Compatibility:** Root / Non-root 🔐  
 
@@ -221,7 +228,7 @@
 ### 🐦 Piko
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/Piko (Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </div>
 
 **🇫🇷** Piko ajuste Twitter (X) avec des téléchargements vidéo et des options premium, via ReVanced Manager.  
@@ -234,7 +241,7 @@
 | 📥 | Vidéos téléchargeables en bonne qualité / Videos downloadable in good quality |
 | 🌟 | Certaines options premium incluses / Some premium options included |
 | 🔧 | Interface légèrement optimisée / Slightly optimized UI |
-| 🔍 | Recherche avancée de tweets / Advanced tweet search |
+| 🚫 | Pas de pubs / No ads |
 
 **Compatibilité / Compatibility:** Non-root 🔓  
 
@@ -246,7 +253,7 @@
 ### 🗨️ ReVanced Extended Reddit
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  <img src="https://img.shields.io/badge/ReVanced Extended Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
 </div>
 
 **🇫🇷** ReVanced Extended Reddit modifie Reddit pour supprimer les pubs et ajouter des options de navigation ou d'apparence.  
@@ -259,8 +266,7 @@
 | 🚫 | Pas de pubs sur l'appli / No ads on the app |
 | 🎨 | Interface ajustable (thèmes, layouts) / Adjustable UI (themes, layouts) |
 | 🌟 | Certaines fonctions premium gratuites / Some premium features free |
-| 🔧 | Navigation simplifiée / Simplified navigation |
-| 📑 | Filtrage des posts / Post filtering |
+| 🔗 | Ouvre les liens en externe / Open links externally 
 
 **Compatibilité / Compatibility:** Root / Non-root 🔐  
 [**📢 Telegram**](https://t.me/revanced_extended)
@@ -272,7 +278,7 @@
 ### 💬 Revenge
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Revenge (Discord)-bb3b48?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </div>
 
 **🇫🇷** Revenge modifie Discord pour afficher les messages supprimés/édités et les noms des salons privés avec dates via plugins.  
@@ -285,7 +291,7 @@
 | 👀 | Messages supprimés consultables / Deleted messages viewable |
 | ✏️ | Message avant édition visible / Message before visible editing |
 | 🔐 | Noms des salons privés et dernières dates / Private channel names and last dates |
-| 🎤 | Améliorations vocales / Voice enhancements |
+| 🌐 | Traduction des messages  / Translation of messages |
 
 **Compatibilité / Compatibility:** Root / Non-root / iOS 🔏  
 [**😺 GitHub**](https://github.com/revenge-mod)
@@ -307,10 +313,10 @@
 
 | Fonctionnalité | Description |
 |----------------|-------------|
-| 🌐 | Fournisseur de traduction est personnalisable / Customizable translation provider |
+| 🌐 | Fournisseur de traduction personnalisable / Customizable translation provider |
 | 🚫 | Pas de pubs dans l'appli / No in-app ads |
-| 🛠️ | Thèmes et polices personnalisables / Customizable themes and fonts |
 | 🔐 | Verrouillage par empreinte / Fingerprint lock |
+| 🛜 | Désactive la connexion auto / Disable auto login |
 
 **Compatibilité / Compatibility:** Non-root 🔓  
 [**📢 Telegram**](https://t.me/momogram_update)
@@ -322,7 +328,7 @@
 ### 🎧 xManager
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  <img src="https://img.shields.io/badge/xManager (Spotify)-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
 </div>
 
 **🇫🇷** xManager est une appli pour installer et gérer des versions modifiées de Spotify, sans pubs ni limites d'écoute.  
@@ -335,7 +341,6 @@
 | 📌 | Gestion facile des versions Spotify / Easy Spotify version management |
 | 🚫 | Pas de pubs audio ou visuelles / No audio or visual ads |
 | 🔓 | Sauts illimités et restrictions levées / Unlimited skips and restrictions lifted |
-| 🎵 | Mode hors ligne amélioré / Enhanced offline mode |
 
 **Compatibilité / Compatibility:** Root / Non-root 🔐  
 [**📢 Telegram**](https://t.me/xManagerUpdates)
@@ -343,6 +348,10 @@
 ---
 
 ### 🎼 ReVanced Spotify (Anddea)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ReVanced Spotify (Anddea)-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+</div>
 
 **🇫🇷** ReVanced Spotify est une version modifiée de Spotify, patchée via ReVanced Manager, pour une expérience sans pubs ni restrictions.  
 **🇬🇧** ReVanced Spotify is a modified version of Spotify, patched through ReVanced Manager, offering an ad-free and unrestricted experience.  
@@ -354,6 +363,7 @@
 | 📌 | Patch facile via ReVanced Manager / Easy patching with ReVanced Manager |
 | 🚫 | Suppression des pubs audio et visuelles / Removal of audio and visual ads |
 | 🔓 | Sauts illimités et accès premium déverrouillé / Unlimited skips and premium features unlocked |
+| 🔎 | Recherche de paroles / Lyrics search |
 
 **Compatibilité / Compatibility:** Root / Non-root 🔐 
 
@@ -383,7 +393,7 @@
 | 🔄 | Lecture en arrière-plan, écran éteint inclus / Background playback, screen off included |
 | 🎵 | Qualité audio supérieure débloquée / Enhanced audio quality unlocked |
 | 🎨 | Personnalisation de l'interface / UI customization |
-| 🔍 | Recherche de paroles intégrée / Built-in lyrics search |
+| 📌 | Boutons modifiables (like, dislike) / Modifiable buttons (like, dislike) |
 
 **Compatibilité / Compatibility:** Root / Non-root 🔐  
 [**📢 Telegram**](https://t.me/revanced_extended)
@@ -413,8 +423,8 @@
 
 | Date | Modifications |
 |------|---------------|
-| **6 mai 2025** | Mise en page améliorée, Correction MyInsta/InstaDM |
-| **1 mai 2025** | Remplacement de ReVanced Spotify par ReVanced Spotify (Anddea), remplacement de Ninjagram par Momogram |
+| **7 mai 2025** | Corrections des fonctionnalités / description des fonctionnalités, Mise à jour des badges
+| **6 mai 2025** | Mise en page améliorée, Correction MyInsta/InstaDM
 | **21 février 2025** | Création initiale du README |
 
 </div>
@@ -435,7 +445,7 @@
 ---
 
 <div align="center">
-  <i>Dernière mise à jour / Last updated: 6 mai 2025</i> ⏰
+  <i>Dernière mise à jour / Last updated: 7 mai 2025</i> ⏰
   
   <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>
