@@ -42,10 +42,9 @@
 
 ### 🎥 YouTube ReVanced
 
-<div align="center">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  <img src="https://img.shields.io/badge/ReVanced-5e63d1?style=for-the-badge" alt="ReVanced"/>
-</div>
+<div align="center"> 
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  <img src="https://img.shields.io/badge/ReVanced-000000?style=for-the-badge&logo=revanced&logoColor=white" alt="ReVanced"/>
 
 **🇫🇷** YouTube ReVanced est une version modifiée de YouTube qui supprime les pubs et ajoute des options comme la lecture en arrière-plan ou la personnalisation de l'interface.  
 
@@ -69,11 +68,8 @@
 
 ### 📹 YouTube ReVanced Extended
 
-<div align="center">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  <img src="https://img.shields.io/badge/RVX-ff3859?style=for-the-badge" alt="ReVanced Extended"/>
-</div>
-  <img 
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+<img src="https://img.shields.io/badge/RVX-ff3859?style=for-the-badge" alt="ReVanced Extended"/>
 
 
 **🇫🇷** YouTube ReVanced Extended est une version enrichie de ReVanced, avec des options supplémentaires pour la lecture et une interface plus ajustable.  
@@ -102,7 +98,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Xtra (Twitch)-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
-</div>
 
 **🇫🇷** Xtra modifie Twitch pour donner accès aux rediffusions et ajouter des emotes personnalisées sans restrictions.  
 
@@ -154,7 +149,7 @@
 ### 📸 MyInsta
 
 <div align="center">
-  <img src="https://img.shields.io/badge/MyInsta-1cb0e8?style=for-the-badge&logo=instagram&logoColor=white" alt="MyInsta"/>
+  <img src="https://img.shields.io/badge/MyInsta-ffffff?style=for-the-badge&logo=instagram&logoColor=26c5ef" alt="MyInsta"/>
 </div>
 
 **🇫🇷** MyInsta est une version modifié d'Instagram offrant téléchargement de contenu et mode discret:  
@@ -407,12 +402,12 @@
 ## 🚨 Risques et Précautions
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SECURITY-WARNING-red?style=for-the-badge" alt="Security Warning"/>
+  <img src="https://img.shields.io/badge/SECURITY-WARNING-ff0000?style=for-the-badge" alt="Security Warning"/>
 </div>
 
 > **⚠️ Attention :**  
 > 
-> | Risque | Précaution |
+> | Risques | Précautions |
 > |--------|------------|
 > | **Téléchargements** | Utilisez uniquement les liens officiels fournis pour éviter les malwares. |
 > | **Bannissements** | Certains mods (ex. SnapEnhance) peuvent entraîner un bannissement de compte. |
