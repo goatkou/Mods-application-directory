@@ -13,9 +13,9 @@
 **🇫🇷 Bienvenue dans la liste des mods Android !** Voici une sélection d'applications modifiées pour personnaliser et optimiser votre utilisation.  
 
 **🇬🇧 Welcome to the list of Android mods!** Here's a selection of modified apps to customize and optimize your experience. ✨
->
+
 <div align="center"> 
-    <img src="https://img.shields.io/badge/⚠️ Avertissement / Disclamer-yellow?style=for-the-badge&logo=&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/⚠️ Avertissement / Disclamer-yellow?style=for-the-badge&logo=&logoColor=white" alt="Avertissement"/>
   
 > **🇫🇷** Ces mods ne sont pas liés aux applications officielles. À utiliser à vos risques et en respectant les lois locales.  
 > **🇬🇧** These mods are not affiliated with the original apps. Use at your own risk and follow local laws.
