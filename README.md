@@ -278,7 +278,7 @@
 </div>
 
 🇫🇷 Nobook est une version optimisée de Facebook, enrichie de nombreuses fonctionnalités et options personnalisées.
-🇬🇧 Nobook is an enhanced version of Facebook, packed with additional features and customizable options.
+ 🇬🇧 Nobook is an enhanced version of Facebook, packed with additional features and customizable options.
 
 #### 🎯 Fonctionnalités / Features
 
