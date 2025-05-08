@@ -485,7 +485,7 @@
 ---
 
 <div align="center">
-  <i>Dernière mise à jour / Last updated: 8 mai 2025</i> ⏰
+  <i>Dernière mise à jour / Last updated: 9 mai 2025</i> ⏰
   
   <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>
