@@ -17,7 +17,8 @@
 <div align="center"> 
     <img src="https://img.shields.io/badge/⚠️ Avertissement / Disclamer-yellow?style=for-the-badge&logo=&logoColor=white" alt="Avertissement"/>
   
-> **🇫🇷** Ces mods ne sont pas liés aux applications officielles. À utiliser à vos risques et en respectant les lois locales.  
+> **🇫🇷** Ces mods ne sont pas liés aux applications officielles. À utiliser à vos risques et en respectant les lois locales.
+> 
 > **🇬🇧** These mods are not affiliated with the original apps. Use at your own risk and follow local laws.
 
 ---
@@ -101,7 +102,6 @@
   <img src="https://img.shields.io/badge/Xtra (Twitch)-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
 
 **🇫🇷** Xtra modifie Twitch pour donner accès aux rediffusions et ajouter des emotes personnalisées sans restrictions.  
-
 **🇬🇧** Xtra modifies Twitch to provide replay access and add custom emotes without restrictions.  
 
 #### 🎯 Fonctionnalités / Features
@@ -142,7 +142,8 @@
 **Compatibilité / Compatibility:** Non-root 🔓  
 [**📢 Telegram**](https://t.me/tiktokupdatez)
 
-> **🇫🇷 Note :** Une version plus basique, **TikTok Platinum**, offre téléchargements et suppression des pubs, sans options avancées.  
+> **🇫🇷 Note :** Une version plus basique, **TikTok Platinum**, offre téléchargements et suppression des pubs, sans options avancées.
+  
 > **🇬🇧 Note:** A simpler version, **TikTok Platinum**, provides downloads and ad removal, without advanced options.
 
 ---
@@ -153,7 +154,8 @@
   <img src="https://img.shields.io/badge/MyInsta-ffffff?style=for-the-badge&logo=instagram&logoColor=26c5ef" alt="MyInsta"/>
 </div>
 
-**🇫🇷** MyInsta est une version modifié d'Instagram offrant téléchargement de contenu et mode discret:  
+**🇫🇷** MyInsta est une version modifié d'Instagram offrant téléchargement de contenu et mode discret:
+
 **🇬🇧** MyInsta are modified Instagram version with content downloads and discreet mode:  
 
 #### 🎯 Fonctionnalités / Features
@@ -179,6 +181,7 @@
 </div>
 
 **🇫🇷** InstaEclipse est une version modifiée d'Instagram avec des fonctionnalités avancées pour améliorer l'expérience utilisateur.  
+
 **🇬🇧** InstaEclipse is a modified Instagram version with advanced features to enhance the user experience.  
 
 #### 🎯 Fonctionnalités / Features
@@ -227,7 +230,8 @@
   <img src="https://img.shields.io/badge/Piko (Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </div>
 
-**🇫🇷** Piko ajuste Twitter (X) avec des téléchargements vidéo et des options premium, via ReVanced Manager.  
+**🇫🇷** Piko ajuste Twitter (X) avec des téléchargements vidéo et des options premium, via ReVanced Manager. 
+
 **🇬🇧** Piko tweaks Twitter (X) with video downloads and premium options, via ReVanced Manager.  
 
 #### 🎯 Fonctionnalités / Features
@@ -255,6 +259,7 @@
   <img 
 
 **🇫🇷** Reddit ReVanced Extended modifie Reddit pour supprimer les pubs et ajouter des options de navigation ou d'apparence.  
+
 **🇬🇧** Redfit ReVanced Extended modifies Reddit to remove ads and add navigation or appearance options.  
 
 #### 🎯 Fonctionnalités / Features
@@ -278,7 +283,8 @@
 </div>
 
 **🇫🇷** Nobook est une version optimisée de Facebook, enrichie de nombreuses fonctionnalités et options personnalisées.
-  **🇬🇧** Nobook is an enhanced version of Facebook, packed with additional features and customizable options.
+
+**🇬🇧** Nobook is an enhanced version of Facebook, packed with additional features and customizable options.
 
 #### 🎯 Fonctionnalités / Features
 
@@ -303,6 +309,7 @@
 </div>
 
 **🇫🇷** Revenge modifie Discord pour afficher les messages supprimés/édités et les noms des salons privés avec dates via plugins.  
+
 **🇬🇧** Revenge modifies Discord to display deleted/edited messages and private channel names with dates via plugins.  
 
 #### 🎯 Fonctionnalités / Features
@@ -328,6 +335,7 @@
 </div>
 
 **🇫🇷** Momogram modifie Telegram pour offrir des fonctionnalités avancées comme un choix de fournisseur de traduction et une personnalisation poussée.  
+
 **🇬🇧** Momogram enhances Telegram with advanced features like a customizable translation provider and deep customization options.  
 
 #### 🎯 Fonctionnalités / Features
@@ -353,6 +361,7 @@
 </div>
 
 **🇫🇷** xManager est une appli pour installer et gérer des versions modifiées de Spotify, sans pubs ni limites d'écoute.  
+
 **🇬🇧** xManager is an app to install and manage modified Spotify versions, without ads or listening limits.  
 
 #### 🎯 Fonctionnalités / Features
@@ -374,7 +383,8 @@
   <img src="https://img.shields.io/badge/ReVanced Spotify (Anddea)-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
 </div>
 
-**🇫🇷** ReVanced Spotify est une version modifiée de Spotify, patchée via ReVanced Manager, pour une expérience sans pubs ni restrictions.  
+**🇫🇷** ReVanced Spotify est une version modifiée de Spotify, patchée via ReVanced Manager, pour une expérience sans pubs ni restrictions.
+
 **🇬🇧** ReVanced Spotify is a modified version of Spotify, patched through ReVanced Manager, offering an ad-free and unrestricted experience.  
 
 #### 🎯 Fonctionnalités / Features
@@ -392,7 +402,8 @@
 [**⚙️ Guide d'installation / Installation Guide**](https://cdn.discordapp.com/attachments/1354927875651928124/1366341055519260724/Video_tutorial.mp4?ex=6813e385&is=68129205&hm=170d3acb59d51446979edf533938864c6125a16d9e8288aef2b70eddbd7240a8&)  
 [**😺 GitHub**](https://github.com/anddea/revanced-patches)
 
-> **🇫🇷 Note :** **ReVanced Spotify** est plus stable que xManager, qui peut présenter des bugs dus à un blocage récent de Spotify sur les mods.  
+> **🇫🇷 Note :** **ReVanced Spotify** est plus stable que xManager, qui peut présenter des bugs dus à un blocage récent de Spotify sur les mods.
+
 > **🇬🇧 Note:** **ReVanced Spotify** is more stable than xManager, which may experience bugs due to a recent Spotify block on mods.
 
 ---
@@ -406,6 +417,7 @@
   <img 
 
 **🇫🇷** YouTube Music ReVanced Extended est une version modifiée de YouTube Music qui supprime les pubs et offre des fonctionnalités premium comme la lecture en arrière-plan et une qualité audio améliorée.  
+
 **🇬🇧** YouTube Music ReVanced Extended is a modified version of YouTube Music that removes ads and provides premium features like background playback and enhanced audio quality.  
 
 #### 🎯 Fonctionnalités / Features
