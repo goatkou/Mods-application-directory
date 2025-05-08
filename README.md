@@ -13,8 +13,10 @@
 **🇫🇷 Bienvenue dans la liste des mods Android !** Voici une sélection d'applications modifiées pour personnaliser et optimiser votre utilisation.  
 
 **🇬🇧 Welcome to the list of Android mods!** Here's a selection of modified apps to customize and optimize your experience. ✨
-
-> **⚠️ Avertissement / Disclaimer:**  
+>
+<div align="center"> 
+    <img src="https://img.shields.io/badge/⚠️ Avertissement / Disclamer-yellow?style=for-the-badge&logo=&logoColor=white" alt="YouTube"/>
+  
 > **🇫🇷** Ces mods ne sont pas liés aux applications officielles. À utiliser à vos risques et en respectant les lois locales.  
 > **🇬🇧** These mods are not affiliated with the original apps. Use at your own risk and follow local laws.
 
@@ -41,7 +43,6 @@
 ## 🎬 Streaming
 
 ### 🎥 YouTube ReVanced
-
 <div align="center"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   <img src="https://img.shields.io/badge/ReVanced-000000?style=for-the-badge&logo=revanced&logoColor=white" alt="ReVanced"/>
@@ -405,7 +406,7 @@
   <img src="https://img.shields.io/badge/SECURITY-WARNING-ff0000?style=for-the-badge" alt="Security Warning"/>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/⚠️ ATTENTION-dea618?style=for-the-badge" alt="Attention"/>
+  <img src="https://img.shields.io/badge/⚠️ ATTENTION-yellow?style=for-the-badge" alt="Attention"/>
 </div>
 
 > 
@@ -418,7 +419,11 @@
 
 ---
 
-## 📜 Historique des mises à jour / Changelog
+
+
+## <div align="center">
+  <img src="https://img.shields.io/badge/📜 Historique des mises à jour / Changelog-ffc054?style=for-the-badge" alt="Attention"/>
+</div>
 
 <div align="center">
 
@@ -446,7 +451,7 @@
 ---
 
 <div align="center">
-  <i>Dernière mise à jour / Last updated: 7 mai 2025</i> ⏰
+  <i>Dernière mise à jour / Last updated: 8 mai 2025</i> ⏰
   
   <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>
