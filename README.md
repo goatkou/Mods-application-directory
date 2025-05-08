@@ -419,9 +419,10 @@
 
 ---
 
+## 📜 Historique des mises à jour / Changelog
 
 
-## <div align="center">
+ <div align="center">
   <img src="https://img.shields.io/badge/📜 Historique des mises à jour / Changelog-ffc054?style=for-the-badge" alt="Attention"/>
 </div>
 
