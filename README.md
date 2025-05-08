@@ -29,7 +29,7 @@
 | Catégorie | Description |
 |-----------|-------------|
 | [🎬 Streaming](#-streaming) | YouTube, Twitch |
-| [🌐 Réseaux sociaux](#-réseaux-sociaux) | TikTok, Instagram, Snapchat, Twitter, Reddit |
+| [🌐 Réseaux sociaux](#-réseaux-sociaux) | TikTok, Instagram, Snapchat, Twitter, Reddit, Facebook |
 | [💬 Messagerie](#-messagerie) | Discord, Telegram |
 | [🎵 Musique](#-musique) | Spotify, YouTube Music |
 | [🚨 Risques](#-risques-et-précautions) | Précautions à prendre |
@@ -271,6 +271,29 @@
 
 ---
 
+### 🔵 Nobook
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Nobook (Facebook)-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</div>
+
+🇫🇷 Nobook est une version optimisée de Facebook, enrichie de nombreuses fonctionnalités et options personnalisées.
+🇬🇧 Nobook is an enhanced version of Facebook, packed with additional features and customizable options.
+
+#### 🎯 Fonctionnalités / Features
+
+| Fonctionnalité | Description |
+|----------------|-------------|
+| 🚫 | Bloque les publicités sponsorisées / Blocks sponsored ads |
+| ❌ | Bloque les posts suggérés / Blocks suggested posts |
+| ⬇️ | Téléchargement des médias / Downloads media |
+| 🖼️ | Facebook lite interface
+
+**Compatibilité / Compatibility:** Non-root 🔓
+[**😺 GitHub**](https://github.com/ycngmn/Nobook)
+
+---
+
 ## 💬 Messagerie
 
 ### 💬 Revenge
@@ -430,11 +453,9 @@
 
 | Date | Modifications |
 |------|---------------|
+| **8 mai 2025** | Ajout de Nobook
 | **7 mai 2025** | Corrections des fonctionnalités / description des fonctionnalités, Mise à jour des badges
-| **6 mai 2025** | Mise en page améliorée, Correction MyInsta/InstaDM
 | **21 février 2025** | Création initiale du README |
-
-</div>
 
 ---
 
