@@ -296,7 +296,6 @@
 | 🖼️ | Facebook lite interface
 
 **Compatibilité / Compatibility:** Non-root 🔓
-<
 [**😺 GitHub**](https://github.com/ycngmn/Nobook)
 
 ---
