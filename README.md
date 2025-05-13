@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/goatkou/Mods-application-directory/stargazers"><img src="https://img.shields.io/github/stars/goatkou/Mods-application-directory?style=for-the-badge&color=yellow" alt="GitHub stars"></a>
-  <img src="https://img.shields.io/badge/last%20updated-May%202025-blue" alt="Last Updated">
+  <img src="https://img.shields.io/badge/last%20updated-May%202025-blue?style=for-the-badge" alt="Last Updated">
+  <img src="https://img.shields.io/badge/Version-2.0-0fdbd1?style=for-the-badge" alt="Version 2.0">
 </p>
 
 <div align="center">
@@ -58,7 +59,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description                                           |
+| Icône | Description (🇫🇷/🇬🇧)                                          |
 |----------------|-------------------------------------------------------|
 | 🚫             | Pas de pubs / No ads                                  |
 | 🔄             | Lecture en arrière-plan, écran éteint inclus / Background playback, screen off included |
@@ -86,7 +87,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description                                           |
+| Icône | Description (🇫🇷/🇬🇧)                                          |
 |----------------|-------------------------------------------------------|
 | 🚫             | Pas de pubs / No ads                                  |
 | 🔄             | Contrôles de lecture améliorés / Improved playback controls |
@@ -115,7 +116,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description                                           |
+| Icône | Description (🇫🇷/🇬🇧)                                         |
 |----------------|-------------------------------------------------------|
 | 📺             | Rediffusions sans abonnement / Replays without subscription |
 | 😀             | Emotes 7TV, BTTV, FFZ disponibles / 7TV, BTTV, FFZ emotes available |
@@ -142,7 +143,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description                                           |
+| Icône | Description (🇫🇷/🇬🇧)                                         |
 |----------------|-------------------------------------------------------|
 | 🚫             | Pas de pubs dans l'appli / No in-app ads               |
 | 🎥             | Vidéos téléchargeables sans filigrane en HD / Videos downloadable without watermark in HD |
@@ -171,7 +172,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description                                           |
+| Icône | Description (🇫🇷/🇬🇧)                                        |
 |----------------|-------------------------------------------------------|
 | 🚫             | Pas de pubs / No ads                                  |
 | 📥             | Téléchargement de stories, posts, reels / Download stories, posts, reels |
@@ -198,7 +199,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description                                           |
+| Icône | Description (🇫🇷/🇬🇧)                                          |
 |----------------|-------------------------------------------------------|
 | ⏸️             | Désactiver le défilement automatique des stories / Disable auto story flipping |
 | 🎬             | Désactiver la lecture automatique des vidéos / Disable auto play videos |
@@ -223,7 +224,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description                                           |
+| Icône | Description (🇫🇷/🇬🇧)                                          |
 |----------------|-------------------------------------------------------|
 | 👀             | Messages supprimés visibles / Deleted messages visible |
 | ✏️             | Édition après envoi / Editing after sending           |
@@ -249,7 +250,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description                                           |
+| Icône | Description (🇫🇷/🇬🇧)                                          |
 |----------------|-------------------------------------------------------|
 | 📥             | Vidéos téléchargeables en bonne qualité / Videos downloadable in good quality |
 | 🌟             | Certaines options premium incluses / Some premium options included |
@@ -276,7 +277,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description                                           |
+| Icône | Description (🇫🇷/🇬🇧)                                          |
 |----------------|-------------------------------------------------------|
 | 🚫             | Pas de pubs sur l'appli / No ads on the app            |
 | 🎨             | Interface ajustable (thèmes, layouts) / Adjustable UI (themes, layouts) |
@@ -301,7 +302,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description                                           |
+| Icône | Description (🇫🇷/🇬🇧)                                          |
 |----------------|-------------------------------------------------------|
 | 🚫             | Bloque les publicités sponsorisées / Blocks sponsored ads |
 | ❌             | Bloque les posts suggérés / Blocks suggested posts      |
@@ -328,7 +329,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description                                           |
+| Icône | Description (🇫🇷/🇬🇧)                                          |
 |----------------|-------------------------------------------------------|
 | 👀             | Messages supprimés consultables / Deleted messages viewable |
 | ✏️             | Message avant édition visible / Message before visible editing |
@@ -355,7 +356,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description                                           |
+| Icône | Description (🇫🇷/🇬🇧)                                          |
 |----------------|-------------------------------------------------------|
 | 🌐             | Fournisseur de traduction personnalisable / Customizable translation provider |
 | 🚫             | Pas de pubs dans l'appli / No in-app ads               |
@@ -382,7 +383,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description                                           |
+| Icône | Description (🇫🇷/🇬🇧)                                          |
 |----------------|-------------------------------------------------------|
 | 📌             | Gestion facile des versions Spotify / Easy Spotify version management |
 | 🚫             | Pas de pubs audio ou visuelles / No audio or visual ads |
@@ -406,7 +407,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description                                           |
+| Icône | Description (🇫🇷/🇬🇧)                                          |
 |----------------|-------------------------------------------------------|
 | 📌             | Patch facile via ReVanced Manager / Easy patching with ReVanced Manager |
 | 🚫             | Suppression des pubs audio et visuelles / Removal of audio and visual ads |
@@ -438,7 +439,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description                                           |
+| Icône | Description (🇫🇷/🇬🇧)                                          |
 |----------------|-------------------------------------------------------|
 | 🚫             | Pas de pubs audio ou visuelles / No audio or visual ads |
 | 🔄             | Lecture en arrière-plan, écran éteint inclus / Background playback, screen off included |
@@ -481,6 +482,7 @@
 
 | Date             | Modifications                                                                  |
 |------------------|--------------------------------------------------------------------------------|
+| **13 mai 2025** | Amélioration mise en page
 | **8 mai 2025** | Ajout de Nobook                                                                |
 | **7 mai 2025** | Corrections des fonctionnalités / description des fonctionnalités, Mise à jour des badges |
 | **21 fév 2025** | Création initiale du README                                                    |
@@ -506,6 +508,6 @@
 ---
 
 <div align="center">
-  <i>Dernière mise à jour / Last updated: 11 mai 2025</i> ⏰
+  <i>Dernière mise à jour / Last updated: 13 mai 2025</i> ⏰
   <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>
