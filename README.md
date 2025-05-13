@@ -233,7 +233,7 @@
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
-  <p><a href="https://github.com/rhunk/SnapEnhance/wiki/Installation-Guide"><strong>⚙️ Guide d'installation / Installation Guide</strong></a></p>
+  <p><a href="https://t.me/snapenhance_chat/1/194034"><strong>⚙️ Guide d'installation / Installation Guide</strong></a></p>
   <p><a href="https://t.me/snapenhance"><strong>📢 Telegram</strong></a></p>
 </div>
 
