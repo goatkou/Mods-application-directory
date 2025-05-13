@@ -1,7 +1,7 @@
 # 📱 Liste de Mods Android / Android Mods List 📱
 
 <p align="center">
-  <a href="https://github.com/goatkou/Mods-application-directory/stargazers"><img src="https://img.shields.io/github/stars/goatkou/Mods-application-directory?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/goatkou/Mods-application-directory/stargazers"><img src="https://img.shields.io/github/stars/goatkou/Mods-application-directory?style=for-the-badge&color=yellow" alt="GitHub stars"></a>
   <img src="https://img.shields.io/badge/last%20updated-May%202025-blue" alt="Last Updated">
 </p>
 
