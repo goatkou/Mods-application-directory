@@ -31,24 +31,23 @@
 
 <div align="center">
 
-| Catégorie                                                    | Description                                                  |
-|--------------------------------------------------------------|--------------------------------------------------------------|
-| [🎬 Streaming](#-streaming)                                   | YouTube, Twitch                                              |
-| [🌐 Réseaux sociaux](#-réseaux-sociaux)                         | TikTok, Instagram, Snapchat, Twitter, Reddit, Facebook       |
-| [💬 Messagerie](#-messagerie)                                 | Discord, Telegram                                            |
-| [🎵 Musique](#-musique)                                       | Spotify, YouTube Music                                       |
-| [🚨 Risques et Précautions](#-risques-et-précautions)           | Précautions à prendre                                        |
-| [📜 Historique des mises à jour](#-historique-des-mises-à-jour--changelog) | Historique des mises à jour                                  |
-| [🤝 Contributions](#-contributions)                             | Comment contribuer                                           |
+| Catégorie | Description |
+|-----------|-------------|
+| [🎬 Streaming](#-streaming) | YouTube, Twitch |
+| [🌐 Réseaux sociaux](#-réseaux-sociaux) | TikTok, Instagram, Snapchat, Twitter, Reddit, Facebook |
+| [💬 Messagerie](#-messagerie) | Discord, Telegram |
+| [🎵 Musique](#-musique) | Spotify, YouTube Music |
+| [🚨 Risques et Précautions](#-risques-et-précautions) | Précautions à prendre |
+| [📜 Historique des mises à jour](#-historique-des-mises-à-jour--changelog) | Historique des mises à jour |
+| [🤝 Contributions](#-contributions) | Comment contribuer |
 
 </div>
 
 ---
 <div align="center">
-  
+
 ## 🎬 Streaming
 
-  
 ### 🎥 YouTube ReVanced
 <div align="center">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
@@ -61,14 +60,14 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)                                          |
-|----------------|-------------------------------------------------------|
-| 🚫             | Pas de pubs / No ads                                  |
-| 🔄             | Lecture en arrière-plan, écran éteint inclus / Background playback, screen off included |
-| 🌓             | Mode sombre AMOLED / AMOLED dark mode                 |
-| 🎨             | Changement de thèmes ou d'icônes / Theme or icon changes |
-| ⏭️             | SponsorBlock                                          |
-| 👎             | Return YouTube Dislike                                |
+| Icône | Description (🇫🇷/🇬🇧) |
+|-------|------------------------|
+| 🚫 | Pas de pubs / No ads |
+| 🔄 | Lecture en arrière-plan, écran éteint inclus / Background playback, screen off included |
+| 🌓 | Mode sombre AMOLED / AMOLED dark mode |
+| 🎨 | Changement de thèmes ou d'icônes / Theme or icon changes |
+| ⏭️ | SponsorBlock |
+| 👎 | Return YouTube Dislike |
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
@@ -89,16 +88,16 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)                                          |
-|----------------|-------------------------------------------------------|
-| 🚫             | Pas de pubs / No ads                                  |
-| 🔄             | Contrôles de lecture améliorés / Improved playback controls |
-| 🌓             | Mode AMOLED / AMOLED dark mode                        |
-| 📌             | Boutons modifiables (like, dislike) / Modifiable buttons (like, dislike) |
-| 🔧             | Réglages pour meilleures performances / Settings for better performance |
-| ⏭️             | SponsorBlock                                          |
-| 👎             | Return YouTube Dislike                                |
-| 🆔             | Return YouTube Username                               |
+| Icône | Description (🇫🇷/🇬🇧) |
+|-------|------------------------|
+| 🚫 | Pas de pubs / No ads |
+| 🔄 | Contrôles de lecture améliorés / Improved playback controls |
+| 🌓 | Mode AMOLED / AMOLED dark mode |
+| 📌 | Boutons modifiables (like, dislike) / Modifiable buttons (like, dislike) |
+| 🔧 | Réglages pour meilleures performances / Settings for better performance |
+| ⏭️ | SponsorBlock |
+| 👎 | Return YouTube Dislike |
+| 🆔 | Return YouTube Username |
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
@@ -118,12 +117,12 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)                                         |
-|----------------|-------------------------------------------------------|
-| 📺             | Rediffusions sans abonnement / Replays without subscription |
-| 😀             | Emotes 7TV, BTTV, FFZ disponibles / 7TV, BTTV, FFZ emotes available |
-| 🚫             | Limites de chat supprimées / Chat limits removed        |
-| 🌙             | Mode sombre personnalisé / Custom dark mode             |
+| Icône | Description (🇫🇷/🇬🇧) |
+|-------|------------------------|
+| 📺 | Rediffusions sans abonnement / Replays without subscription |
+| 😀 | Emotes 7TV, BTTV, FFZ disponibles / 7TV, BTTV, FFZ emotes available |
+| 🚫 | Limites de chat supprimées / Chat limits removed |
+| 🌙 | Mode sombre personnalisé / Custom dark mode |
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
@@ -139,18 +138,18 @@
   <img src="https://img.shields.io/badge/TikTok Private Plus-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
 </div>
 
-**🇫🇷** TikTok Private Plus est une version modifiée de TikTok qui permet de télécharger sans filigrane et supprime les pubs. Elle inclut des fonctionnalités supplémentaires accessibles via TikTok Plugin, une application distincte mais complémentaire au mod.
+**🇫🇷** TikTok Private Plus est une version modifiée de TikTok qui permet de télécharger sans filigrane et supprime les pubs. Elle inclut des fonctionnalités supplémentaires accessibles via TikTok Plugin.
 
-**🇬🇧** TikTok Private Plus is a modified TikTok version that enables watermark-free downloads and removes ads. It includes extra features available through TikTok Plugin, a separate but complementary app to the mod.
+**🇬🇧** TikTok Private Plus is a modified TikTok version that enables watermark-free downloads and removes ads. It includes extra features available through TikTok Plugin.
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)                                         |
-|----------------|-------------------------------------------------------|
-| 🚫             | Pas de pubs dans l'appli / No in-app ads               |
-| 🎥             | Vidéos téléchargeables sans filigrane en HD / Videos downloadable without watermark in HD |
-| 🔧             | TikTok Plugin pour ajouts / TikTok Plugin for extras    |
-| 🛠️             | Réglages de thèmes ou vitesse / Theme or speed settings |
+| Icône | Description (🇫🇷/🇬🇧) |
+|-------|------------------------|
+| 🚫 | Pas de pubs dans l'appli / No in-app ads |
+| 🎥 | Vidéos téléchargeables sans filigrane en HD / Videos downloadable without watermark in HD |
+| 🔧 | TikTok Plugin pour ajouts / TikTok Plugin for extras |
+| 🛠️ | Réglages de thèmes ou vitesse / Theme or speed settings |
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
@@ -174,14 +173,14 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)                                        |
-|----------------|-------------------------------------------------------|
-| 🚫             | Pas de pubs / No ads                                  |
-| 📥             | Téléchargement de stories, posts, reels / Download stories, posts, reels |
-| 👻             | Mode fantôme / Ghost mode                             |
-| 📨             | Options pour les DM / Added DM options                |
-| ❌             | Suppression des reels / Deletion of reels             |
-| 🔎             | Zoom sur les photos / Photo zoom                      |
+| Icône | Description (🇫🇷/🇬🇧) |
+|-------|------------------------|
+| 🚫 | Pas de pubs / No ads |
+| 📥 | Téléchargement de stories, posts, reels / Download stories, posts, reels |
+| 👻 | Mode fantôme / Ghost mode |
+| 📨 | Options pour les DM / Added DM options |
+| ❌ | Suppression des reels / Deletion of reels |
+| 🔎 | Zoom sur les photos / Photo zoom |
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
@@ -201,12 +200,12 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)                                          |
-|----------------|-------------------------------------------------------|
-| ⏸️             | Désactiver le défilement automatique des stories / Disable auto story flipping |
-| 🎬             | Désactiver la lecture automatique des vidéos / Disable auto play videos |
-| 👻             | Mode fantôme / Ghost mode                             |
-| 🚫             | Pas de pubs / No ads                                  |
+| Icône | Description (🇫🇷/🇬🇧) |
+|-------|------------------------|
+| ⏸️ | Désactiver le défilement automatique des stories / Disable auto story flipping |
+| 🎬 | Désactiver la lecture automatique des vidéos / Disable auto play videos |
+| 👻 | Mode fantôme / Ghost mode |
+| 🚫 | Pas de pubs / No ads |
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
@@ -220,21 +219,21 @@
   <img src="https://img.shields.io/badge/SnapEnhance-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="Snapchat"/>
 </div>
 
-**🇫🇷** SnapEnhance est une version modifiée de Snapchat qui enrichit l'expérience utilisateur en débloquant des fonctionnalités avancées. Installé via LSPatch, ce mod permet de voir et modifier des messages supprimés, de sauvegarder des snaps et stories discrètement, et d'accéder à des options premium réservées.
+**🇫🇷** SnapEnhance est une version modifiée de Snapchat qui enrichit l'expérience utilisateur en débloquant des fonctionnalités avancées.
 
-**🇬🇧** SnapEnhance is a modified version of Snapchat that enhances the user experience by unlocking advanced features. Installed via LSPatch, this mod lets you view and edit deleted messages, discreetly save snaps and stories, and access premium options typically restricted.
+**🇬🇧** SnapEnhance is a modified version of Snapchat that enhances the user experience by unlocking advanced features.
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)                                          |
-|----------------|-------------------------------------------------------|
-| 👀             | Messages supprimés visibles / Deleted messages visible |
-| ✏️             | Édition après envoi / Editing after sending           |
-| 📥             | Sauvegarde de snaps et stories sans notification / Saving snaps and stories without notification |
-| 🔓             | Accès à certaines fonctions premium / Access to some premium features |
+| Icône | Description (🇫🇷/🇬🇧) |
+|-------|------------------------|
+| 👀 | Messages supprimés visibles / Deleted messages visible |
+| ✏️ | Édition après envoi / Editing after sending |
+| 📥 | Sauvegarde de snaps et stories sans notification / Saving snaps and stories without notification |
+| 🔓 | Accès à certaines fonctions premium / Access to some premium features |
 
 <div align="center">
-  <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
+  <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root / iOS 🔏</p>
   <p><a href="https://t.me/snapenhance_chat/1/194034"><strong>⚙️ Guide d'installation / Installation Guide</strong></a></p>
   <p><a href="https://t.me/snapenhance"><strong>📢 Telegram</strong></a></p>
 </div>
@@ -252,12 +251,12 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)                                          |
-|----------------|-------------------------------------------------------|
-| 📥             | Vidéos téléchargeables en bonne qualité / Videos downloadable in good quality |
-| 🌟             | Certaines options premium incluses / Some premium options included |
-| 🔧             | Interface légèrement optimisée / Slightly optimized UI |
-| 🚫             | Pas de pubs / No ads                                  |
+| Icône | Description (🇫🇷/🇬🇧) |
+|-------|------------------------|
+| 📥 | Vidéos téléchargeables en bonne qualité / Videos downloadable in good quality |
+| 🌟 | Certaines options premium incluses / Some premium options included |
+| 🔧 | Interface légèrement optimisée / Slightly optimized UI |
+| 🚫 | Pas de pubs / No ads |
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
@@ -279,12 +278,12 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)                                          |
-|----------------|-------------------------------------------------------|
-| 🚫             | Pas de pubs sur l'appli / No ads on the app            |
-| 🎨             | Interface ajustable (thèmes, layouts) / Adjustable UI (themes, layouts) |
-| 🌟             | Certaines fonctions premium gratuites / Some premium features free |
-| 🔗             | Ouvre les liens en externe / Open links externally    |
+| Icône | Description (🇫🇷/🇬🇧) |
+|-------|------------------------|
+| 🚫 | Pas de pubs sur l'appli / No ads on the app |
+| 🎨 | Interface ajustable (thèmes, layouts) / Adjustable UI (themes, layouts) |
+| 🌟 | Certaines fonctions premium gratuites / Some premium features free |
+| 🔗 | Ouvre les liens en externe / Open links externally |
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
@@ -304,12 +303,12 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)                                          |
-|----------------|-------------------------------------------------------|
-| 🚫             | Bloque les publicités sponsorisées / Blocks sponsored ads |
-| ❌             | Bloque les posts suggérés / Blocks suggested posts      |
-| ⬇️             | Téléchargement des médias / Downloads media           |
-| 🖼️             | Facebook lite interface                               |
+| Icône | Description (🇫🇷/🇬🇧) |
+|-------|------------------------|
+| 🚫 | Bloque les publicités sponsorisées / Blocks sponsored ads |
+| ❌ | Bloque les posts suggérés / Blocks suggested posts |
+| ⬇️ | Téléchargement des médias / Downloads media |
+| 🖼️ | Facebook lite interface |
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
@@ -331,19 +330,24 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)                                          |
-|----------------|-------------------------------------------------------|
-| 👀             | Messages supprimés consultables / Deleted messages viewable |
-| ✏️             | Message avant édition visible / Message before visible editing |
-| 🔐             | Noms des salons privés et dernières dates / Private channel names and last dates |
-| 🌐             | Traduction des messages / Translation of messages     |
+| Icône | Description (🇫🇷/🇬🇧) |
+|-------|------------------------|
+| 👀 | Messages supprimés consultables / Deleted messages viewable |
+| ✏️ | Message avant édition visible / Message before visible editing |
+| 🔐 | Noms des salons privés et dernières dates / Private channel names and last dates |
+| 🌐 | Traduction des messages / Translation of messages |
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root / iOS 🔏</p>
   <p><a href="https://github.com/revenge-mod"><strong>😺 GitHub</strong></a></p>
 </div>
 
-> ✨ **Liste des plugins / Plugins List** : [Explorez la liste ici ! / Explore the list here!](https://purple-eyez.github.io/Plugins-List/)
+<div align="center">
+  <details>
+    <summary>✨ Liste des plugins / Plugins List</summary>
+    <p><a href="https://purple-eyez.github.io/Plugins-List/">Explorez la liste ici ! / Explore the list here!</a></p>
+  </details>
+</div>
 
 ---
 
@@ -358,12 +362,12 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)                                          |
-|----------------|-------------------------------------------------------|
-| 🌐             | Fournisseur de traduction personnalisable / Customizable translation provider |
-| 🚫             | Pas de pubs dans l'appli / No in-app ads               |
-| 🔐             | Verrouillage par empreinte / Fingerprint lock         |
-| 🛜             | Désactive la connexion auto / Disable auto login      |
+| Icône | Description (🇫🇷/🇬🇧) |
+|-------|------------------------|
+| 🌐 | Fournisseur de traduction personnalisable / Customizable translation provider |
+| 🚫 | Pas de pubs dans l'appli / No in-app ads |
+| 🔐 | Verrouillage par empreinte / Fingerprint lock |
+| 🛜 | Désactive la connexion auto / Disable auto login |
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
@@ -385,11 +389,11 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)                                          |
-|----------------|-------------------------------------------------------|
-| 📌             | Gestion facile des versions Spotify / Easy Spotify version management |
-| 🚫             | Pas de pubs audio ou visuelles / No audio or visual ads |
-| 🔓             | Sauts illimités et restrictions levées / Unlimited skips and restrictions lifted |
+| Icône | Description (🇫🇷/🇬🇧) |
+|-------|------------------------|
+| 📌 | Gestion facile des versions Spotify / Easy Spotify version management |
+| 🚫 | Pas de pubs audio ou visuelles / No audio or visual ads |
+| 🔓 | Sauts illimités et restrictions levées / Unlimited skips and restrictions lifted |
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
@@ -409,12 +413,12 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)                                          |
-|----------------|-------------------------------------------------------|
-| 📌             | Patch facile via ReVanced Manager / Easy patching with ReVanced Manager |
-| 🚫             | Suppression des pubs audio et visuelles / Removal of audio and visual ads |
-| 🔓             | Sauts illimités et accès premium déverrouillé / Unlimited skips and premium features unlocked |
-| 🔎             | Recherche de paroles / Lyrics search                  |
+| Icône | Description (🇫🇷/🇬🇧) |
+|-------|------------------------|
+| 📌 | Patch facile via ReVanced Manager / Easy patching with ReVanced Manager |
+| 🚫 | Suppression des pubs audio et visuelles / Removal of audio and visual ads |
+| 🔓 | Sauts illimités et accès premium déverrouillé / Unlimited skips and premium features unlocked |
+| 🔎 | Recherche de paroles / Lyrics search |
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
@@ -423,9 +427,12 @@
   <p><a href="https://github.com/anddea/revanced-patches"><strong>😺 GitHub</strong></a></p>
 </div>
 
-> **🇫🇷 Note :** **ReVanced Spotify** est plus stable que xManager, qui peut présenter des bugs dus à un blocage récent de Spotify sur les mods.
->
-> **🇬🇧 Note:** **ReVanced Spotify** is more stable than xManager, which may experience bugs due to a recent Spotify block on mods.
+<div align="center">
+  <blockquote>
+    <p><strong>🇫🇷 Note :</strong> <strong>ReVanced Spotify</strong> est plus stable que xManager, qui peut présenter des bugs dus à un blocage récent de Spotify sur les mods.</p>
+    <p><strong>🇬🇧 Note:</strong> <strong>ReVanced Spotify</strong> is more stable than xManager, which may experience bugs due to a recent Spotify block on mods.</p>
+  </blockquote>
+</div>
 
 ---
 
@@ -435,19 +442,19 @@
   <img src="https://img.shields.io/badge/RVX-ff3859?style=for-the-badge" alt="ReVanced Extended"/>
 </div>
 
-**🇫🇷** YouTube Music ReVanced Extended est une version modifiée de YouTube Music qui supprime les pubs et offre des fonctionnalités premium comme la lecture en arrière-plan et une qualité audio améliorée.
+**🇫🇷** YouTube Music ReVanced Extended est une version modifiée de YouTube Music qui supprime les pubs et offre des fonctionnalités premium.
 
-**🇬🇧** YouTube Music ReVanced Extended is a modified version of YouTube Music that removes ads and provides premium features like background playback and enhanced audio quality.
+**🇬🇧** YouTube Music ReVanced Extended is a modified version of YouTube Music that removes ads and provides premium features.
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)                                          |
-|----------------|-------------------------------------------------------|
-| 🚫             | Pas de pubs audio ou visuelles / No audio or visual ads |
-| 🔄             | Lecture en arrière-plan, écran éteint inclus / Background playback, screen off included |
-| 🎵             | Qualité audio supérieure débloquée / Enhanced audio quality unlocked |
-| 🎨             | Personnalisation de l'interface / UI customization    |
-| 📌             | Boutons modifiables (like, dislike) / Modifiable buttons (like, dislike) |
+| Icône | Description (🇫🇷/🇬🇧) |
+|-------|------------------------|
+| 🚫 | Pas de pubs audio ou visuelles / No audio or visual ads |
+| 🔄 | Lecture en arrière-plan, écran éteint inclus / Background playback, screen off included |
+| 🎵 | Qualité audio supérieure débloquée / Enhanced audio quality unlocked |
+| 🎨 | Personnalisation de l'interface / UI customization |
+| 📌 | Boutons modifiables (like, dislike) / Modifiable buttons (like, dislike) |
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
@@ -460,17 +467,21 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/SECURITY-WARNING-ff0000?style=for-the-badge" alt="Security Warning"/>
-  <p align="center">
-  <img src="https://img.shields.io/badge/⚠️ ATTENTION-yellow?style=for-the-badge" alt="Attention"/>
+  <p>
+    <img src="https://img.shields.io/badge/⚠️ ATTENTION-yellow?style=for-the-badge" alt="Attention"/>
+  </p>
 </div>
 
->
-> | Risques           | Précautions                                                                 |
-> |-------------------|-----------------------------------------------------------------------------|
-> | **Téléchargements** | Utilisez uniquement les liens officiels fournis pour éviter les malwares.      |
-> | **Bannissements** | Certains mods (ex. SnapEnhance) peuvent entraîner un bannissement de compte. |
-> | **Sécurité** | Vérifiez les permissions demandées par l'APK avant installation.            |
-> | **Légalité** | Respectez les lois locales ; certains mods peuvent violer les conditions d'utilisation des apps officielles. |
+<div align="center">
+
+| Risques | Précautions |
+|---------|-------------|
+| **Téléchargements** | Utilisez uniquement les liens officiels fournis pour éviter les malwares. |
+| **Bannissements** | Certains mods (ex. SnapEnhance) peuvent entraîner un bannissement de compte. |
+| **Sécurité** | Vérifiez les permissions demandées par l'APK avant installation. |
+| **Légalité** | Respectez les lois locales ; certains mods peuvent violer les conditions d'utilisation des apps officielles. |
+
+</div>
 
 ---
 
@@ -482,12 +493,13 @@
 
 <div align="center">
 
-| Date             | Modifications                                                                  |
-|------------------|--------------------------------------------------------------------------------|
-| **13 mai 2025** | Amélioration mise en page
-| **8 mai 2025** | Ajout de Nobook                                                                |
+| Date | Modifications |
+|------|---------------|
+| **15 mai 2025** | Amélioration mise en page |
+| **13 mai 2025** | Amélioration mise en page |
+| **8 mai 2025** | Ajout de Nobook |
 | **7 mai 2025** | Corrections des fonctionnalités / description des fonctionnalités, Mise à jour des badges |
-| **21 fév 2025** | Création initiale du README                                                    |
+| **21 fév 2025** | Création initiale du README |
 
 </div>
 
@@ -510,6 +522,6 @@
 ---
 
 <div align="center">
-  <i>Dernière mise à jour / Last updated: 13 mai 2025</i> ⏰
+  <i>Dernière mise à jour / Last updated: 15 mai 2025</i> ⏰
   <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>
