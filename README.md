@@ -496,7 +496,6 @@
 | Date | Modifications |
 |------|---------------|
 | **15 mai 2025** | Amélioration mise en page |
-| **13 mai 2025** | Amélioration mise en page |
 | **8 mai 2025** | Ajout de Nobook |
 | **7 mai 2025** | Corrections des fonctionnalités / description des fonctionnalités, Mise à jour des badges |
 | **21 fév 2025** | Création initiale du README |
