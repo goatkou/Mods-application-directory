@@ -521,6 +521,6 @@
 ---
 
 <div align="center">
-  <i>Dernière mise à jour / Last updated: 15 mai 2025</i> ⏰
+  <i>Dernière mise à jour / Last updated: 16 mai 2025</i> ⏰
   <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>
