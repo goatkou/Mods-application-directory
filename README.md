@@ -423,7 +423,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
   <p><a href="https://github.com/anddea/revanced-patches/wiki/Sources"><strong>🔗 Sources</strong></a></p>
-  <p><a href="https://discord.com/channels/879099907519168542/1366446776894095611/1366446836919042079"><strong>⚙️ Guide d'installation / Installation Guide</strong></a></p>
+  <p><a href="https://media.discordapp.net/attachments/1348627385918029854/1354332283955576842/lv_0_20250325222218.mp4?ex=682f647a&is=682e12fa&hm=6c229097eaa0a4bda97dec101246a17a9a9d2c52f3231234c33dc0e3b9b3aae1&"><strong>⚙️ Guide d'installation / Installation Guide</strong></a></p>
   <p><a href="https://github.com/anddea/revanced-patches"><strong>😺 GitHub</strong></a></p>
 </div>
 
