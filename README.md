@@ -37,9 +37,40 @@
 | [🌐 Réseaux sociaux](#-réseaux-sociaux) | TikTok, Instagram, Snapchat, Twitter, Reddit, Facebook |
 | [💬 Messagerie](#-messagerie) | Discord, Telegram |
 | [🎵 Musique](#-musique) | Spotify, YouTube Music |
+| [📋 Index Numéroté](#-index-numéroté--numbered-index) | Index numéroté de tous les mods |
 | [🚨 Risques et Précautions](#-risques-et-précautions) | Précautions à prendre |
 | [📜 Historique des mises à jour](#-historique-des-mises-à-jour--changelog) | Historique des mises à jour |
 | [🤝 Contributions](#-contributions) | Comment contribuer |
+
+</div>
+
+---
+
+## 📋 Index Numéroté / Numbered Index
+
+<div align="center">
+  <img src="https://img.shields.io/badge/INDEX-NUMÉROTÉ-6c5ce7?style=for-the-badge" alt="Index Numéroté"/>
+</div>
+
+<div align="center">
+
+| N° | Application | Catégorie |
+|------|-------------|-----------|
+| **1** | [YouTube ReVanced](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-youtube-revanced) | Streaming |
+| **2** | [YouTube ReVanced Extended](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-youtube-revanced-extended) | Streaming |
+| **3** | [Xtra (Twitch)](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-xtra) | Streaming |
+| **4** | [TikTok Private Plus](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-tiktok-private-plus) | Réseaux sociaux |
+| **5** | [MyInsta](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-myinsta) | Réseaux sociaux |
+| **6** | [InstaEclipse](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-instaeclipse) | Réseaux sociaux |
+| **7** | [SnapEnhance](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-snapenhance) | Réseaux sociaux |
+| **8** | [Piko (Twitter)](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-piko) | Réseaux sociaux |
+| **9** | [Reddit ReVanced Extended](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#%EF%B8%8F-reddit-revanced-extended) | Réseaux sociaux |
+| **10** | [Nobook (Facebook)](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-nobook) | Réseaux sociaux |
+| **11** | [Revenge (Discord)](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-revenge) | Messagerie |
+| **12** | [Momogram](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#%EF%B8%8F-momogram) | Messagerie |
+| **13** | [xManager (Spotify)](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-xmanager) | Musique |
+| **14** | [ReVanced Spotify (Anddea)](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-revanced-spotify-anddea) | Musique |
+| **15** | [YouTube Music ReVanced Extended](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-youtube-music-revanced-extended) | Musique |
 
 </div>
 
@@ -72,6 +103,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
   <p><a href="https://revanced.app/"><strong>🌐 Site officiel / Official Website</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -102,6 +134,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
   <p><a href="https://t.me/revanced_extended"><strong>📢 Telegram</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -127,6 +160,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
   <p><a href="https://github.com/crackededed/Xtra"><strong>😺 GitHub</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -154,6 +188,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
   <p><a href="https://t.me/tiktokupdatez"><strong>📢 Telegram</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 > **🇫🇷 Note :** Une version plus basique, **TikTok Platinum**, offre téléchargements et suppression des pubs, sans options avancées.
@@ -185,6 +220,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
   <p><a href="https://t.me/instasmashrepo"><strong>📢 Telegram</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -210,6 +246,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
   <p><a href="https://t.me/InstaEclipse"><strong>📢 Telegram</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -236,6 +273,7 @@
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root / iOS 🔏</p>
   <p><a href="https://t.me/snapenhance_chat/1/194034"><strong>⚙️ Guide d'installation / Installation Guide</strong></a></p>
   <p><a href="https://t.me/snapenhance"><strong>📢 Telegram</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -262,6 +300,7 @@
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
   <p><a href="https://github.com/crimera/piko/blob/main/docs/images/manager.png"><strong>⚙️ Guide d'installation / Installation Guide</strong></a></p>
   <p><a href="https://github.com/crimera/piko"><strong>😺 GitHub</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -288,6 +327,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
   <p><a href="https://t.me/revanced_extended"><strong>📢 Telegram</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -313,6 +353,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
   <p><a href="https://github.com/ycngmn/Nobook"><strong>😺 GitHub</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -340,6 +381,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root / iOS 🔏</p>
   <p><a href="https://github.com/revenge-mod"><strong>😺 GitHub</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 <div align="center">
@@ -372,6 +414,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
   <p><a href="https://t.me/momogram_update"><strong>📢 Telegram</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -398,6 +441,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
   <p><a href="https://t.me/xManagerUpdates"><strong>📢 Telegram</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -417,14 +461,14 @@
 |-------|------------------------|
 | 📌 | Patch facile via ReVanced Manager / Easy patching with ReVanced Manager |
 | 🚫 | Suppression des pubs audio et visuelles / Removal of audio and visual ads |
-| 🔓 | Sauts illimités et accès premium déverrouillé / Unlimited skips and premium features unlocked |
-| 🔎 | Recherche de paroles / Lyrics search |
+| 🔓 | Sauts illimités et accès premium déverrouillé / Unlimit
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
   <p><a href="https://github.com/anddea/revanced-patches/wiki/Sources"><strong>🔗 Sources</strong></a></p>
   <p><a href="https://media.discordapp.net/attachments/1348627385918029854/1354332283955576842/lv_0_20250325222218.mp4?ex=682f647a&is=682e12fa&hm=6c229097eaa0a4bda97dec101246a17a9a9d2c52f3231234c33dc0e3b9b3aae1&"><strong>⚙️ Guide d'installation / Installation Guide</strong></a></p>
   <p><a href="https://github.com/anddea/revanced-patches"><strong>😺 GitHub</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 <div align="center">
@@ -459,6 +503,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
   <p><a href="https://t.me/revanced_extended"><strong>📢 Telegram</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -483,6 +528,10 @@
 
 </div>
 
+<div align="center">
+  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+</div>
+
 ---
 
 ## 📜 Historique des mises à jour / Changelog
@@ -495,11 +544,15 @@
 
 | Date | Modifications |
 |------|---------------|
-| **15 mai 2025** | Amélioration mise en page |
+| **25 mai 2025** | Ajout index numéroté, Retour en haut (test)
 | **8 mai 2025** | Ajout de Nobook |
 | **7 mai 2025** | Corrections des fonctionnalités / description des fonctionnalités, Mise à jour des badges |
 | **21 fév 2025** | Création initiale du README |
 
+</div>
+
+<div align="center">
+  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -518,9 +571,13 @@
   <a href="https://github.com/goatkou/Mods-application-directory/pulls"><strong>📤 Soumettre une idée / Submit an idea</strong></a>
 </p>
 
+<div align="center">
+  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+</div>
+
 ---
 
 <div align="center">
-  <i>Dernière mise à jour / Last updated: 22 mai 2025</i> ⏰
+  <i>Dernière mise à jour / Last updated: 25 mai 2025</i> ⏰
   <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>
