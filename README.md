@@ -48,11 +48,13 @@
 
 ## 📋 Index Numéroté / Numbered Index
 
-<div align="center">
-  <img src="https://img.shields.io/badge/INDEX-NUMÉROTÉ-6c5ce7?style=for-the-badge" alt="Index Numéroté"/>
-</div>
 
 <div align="center">
+<details>
+    <summary><div align="center">
+  <img src="https://img.shields.io/badge/INDEX-NUMÉROTÉ-6c5ce7?style=for-the-badge" alt="Index Numéroté"/>
+</div></summary>
+
 
 | N° | Application | Catégorie |
 |------|-------------|-----------|
@@ -72,6 +74,8 @@
 | **14** | [ReVanced Spotify (Anddea)](#-revanced-spotify-anddea) | Musique |
 | **15** | [YouTube Music ReVanced Extended](#-youtube-music-revanced-extended) | Musique |
 
+  </a></p>
+  </details>
 </div>
 
 ---
