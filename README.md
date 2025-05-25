@@ -64,10 +64,10 @@
 | **6** | [InstaEclipse](#-instaeclipse) | Réseaux sociaux |
 | **7** | [SnapEnhance](#-snapenhance) | Réseaux sociaux |
 | **8** | [Piko (Twitter)](#-piko) | Réseaux sociaux |
-| **9** | [Reddit ReVanced Extended](#-reddit-revanced-extended) | Réseaux sociaux |
+| **9** | [Reddit ReVanced Extended](#%EF%B8%8F-reddit-revanced-extended) | Réseaux sociaux |
 | **10** | [Nobook (Facebook)](#-nobook) | Réseaux sociaux |
 | **11** | [Revenge (Discord)](#-revenge) | Messagerie |
-| **12** | [Momogram](#-momogram) | Messagerie |
+| **12** | [Momogram](#%EF%B8%8F-momogram) | Messagerie |
 | **13** | [xManager (Spotify)](#-xmanager) | Musique |
 | **14** | [ReVanced Spotify (Anddea)](#-revanced-spotify-anddea) | Musique |
 | **15** | [YouTube Music ReVanced Extended](#-youtube-music-revanced-extended) | Musique |
