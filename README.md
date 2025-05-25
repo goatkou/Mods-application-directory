@@ -103,7 +103,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
   <p><a href="https://revanced.app/"><strong>🌐 Site officiel / Official Website</strong></a></p>
-  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
