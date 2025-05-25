@@ -56,21 +56,21 @@
 
 | N° | Application | Catégorie |
 |------|-------------|-----------|
-| **1** | [YouTube ReVanced](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-youtube-revanced) | Streaming |
-| **2** | [YouTube ReVanced Extended](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-youtube-revanced-extended) | Streaming |
-| **3** | [Xtra (Twitch)](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-xtra) | Streaming |
-| **4** | [TikTok Private Plus](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-tiktok-private-plus) | Réseaux sociaux |
-| **5** | [MyInsta](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-myinsta) | Réseaux sociaux |
-| **6** | [InstaEclipse](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-instaeclipse) | Réseaux sociaux |
-| **7** | [SnapEnhance](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-snapenhance) | Réseaux sociaux |
-| **8** | [Piko (Twitter)](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-piko) | Réseaux sociaux |
-| **9** | [Reddit ReVanced Extended](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#%EF%B8%8F-reddit-revanced-extended) | Réseaux sociaux |
-| **10** | [Nobook (Facebook)](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-nobook) | Réseaux sociaux |
-| **11** | [Revenge (Discord)](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-revenge) | Messagerie |
-| **12** | [Momogram](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#%EF%B8%8F-momogram) | Messagerie |
-| **13** | [xManager (Spotify)](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-xmanager) | Musique |
-| **14** | [ReVanced Spotify (Anddea)](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-revanced-spotify-anddea) | Musique |
-| **15** | [YouTube Music ReVanced Extended](https://github.com/goatkou/Mods-application-directory?tab=readme-ov-file#-youtube-music-revanced-extended) | Musique |
+| **1** | [YouTube ReVanced](#-youtube-revanced) | Streaming |
+| **2** | [YouTube ReVanced Extended](#-youtube-revanced-extended) | Streaming |
+| **3** | [Xtra (Twitch)](#-xtra) | Streaming |
+| **4** | [TikTok Private Plus](#-tiktok-private-plus) | Réseaux sociaux |
+| **5** | [MyInsta](#-myinsta) | Réseaux sociaux |
+| **6** | [InstaEclipse](#-instaeclipse) | Réseaux sociaux |
+| **7** | [SnapEnhance](#-snapenhance) | Réseaux sociaux |
+| **8** | [Piko (Twitter)](#-piko) | Réseaux sociaux |
+| **9** | [Reddit ReVanced Extended](#-reddit-revanced-extended) | Réseaux sociaux |
+| **10** | [Nobook (Facebook)](#-nobook) | Réseaux sociaux |
+| **11** | [Revenge (Discord)](#-revenge) | Messagerie |
+| **12** | [Momogram](#-momogram) | Messagerie |
+| **13** | [xManager (Spotify)](#-xmanager) | Musique |
+| **14** | [ReVanced Spotify (Anddea)](#-revanced-spotify-anddea) | Musique |
+| **15** | [YouTube Music ReVanced Extended](#-youtube-music-revanced-extended) | Musique |
 
 </div>
 
