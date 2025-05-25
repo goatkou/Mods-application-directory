@@ -548,7 +548,7 @@
 
 | Date | Modifications |
 |------|---------------|
-| **25 mai 2025** | Ajout index numéroté, Retour en haut (test)
+| **25 mai 2025** | Ajout index numéroté, Retour en haut
 | **8 mai 2025** | Ajout de Nobook |
 | **7 mai 2025** | Corrections des fonctionnalités / description des fonctionnalités, Mise à jour des badges |
 | **21 fév 2025** | Création initiale du README |
