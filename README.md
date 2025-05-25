@@ -134,7 +134,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
   <p><a href="https://t.me/revanced_extended"><strong>📢 Telegram</strong></a></p>
-  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -160,7 +160,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
   <p><a href="https://github.com/crackededed/Xtra"><strong>😺 GitHub</strong></a></p>
-  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -188,7 +188,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
   <p><a href="https://t.me/tiktokupdatez"><strong>📢 Telegram</strong></a></p>
-  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 > **🇫🇷 Note :** Une version plus basique, **TikTok Platinum**, offre téléchargements et suppression des pubs, sans options avancées.
@@ -220,7 +220,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
   <p><a href="https://t.me/instasmashrepo"><strong>📢 Telegram</strong></a></p>
-  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -246,7 +246,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
   <p><a href="https://t.me/InstaEclipse"><strong>📢 Telegram</strong></a></p>
-  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -273,7 +273,7 @@
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root / iOS 🔏</p>
   <p><a href="https://t.me/snapenhance_chat/1/194034"><strong>⚙️ Guide d'installation / Installation Guide</strong></a></p>
   <p><a href="https://t.me/snapenhance"><strong>📢 Telegram</strong></a></p>
-  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -300,7 +300,7 @@
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
   <p><a href="https://github.com/crimera/piko/blob/main/docs/images/manager.png"><strong>⚙️ Guide d'installation / Installation Guide</strong></a></p>
   <p><a href="https://github.com/crimera/piko"><strong>😺 GitHub</strong></a></p>
-  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -327,7 +327,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
   <p><a href="https://t.me/revanced_extended"><strong>📢 Telegram</strong></a></p>
-  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -353,7 +353,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
   <p><a href="https://github.com/ycngmn/Nobook"><strong>😺 GitHub</strong></a></p>
-  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -381,7 +381,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root / iOS 🔏</p>
   <p><a href="https://github.com/revenge-mod"><strong>😺 GitHub</strong></a></p>
-  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 <div align="center">
@@ -414,7 +414,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
   <p><a href="https://t.me/momogram_update"><strong>📢 Telegram</strong></a></p>
-  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -441,7 +441,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
   <p><a href="https://t.me/xManagerUpdates"><strong>📢 Telegram</strong></a></p>
-  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -468,7 +468,7 @@
   <p><a href="https://github.com/anddea/revanced-patches/wiki/Sources"><strong>🔗 Sources</strong></a></p>
   <p><a href="https://media.discordapp.net/attachments/1348627385918029854/1354332283955576842/lv_0_20250325222218.mp4?ex=682f647a&is=682e12fa&hm=6c229097eaa0a4bda97dec101246a17a9a9d2c52f3231234c33dc0e3b9b3aae1&"><strong>⚙️ Guide d'installation / Installation Guide</strong></a></p>
   <p><a href="https://github.com/anddea/revanced-patches"><strong>😺 GitHub</strong></a></p>
-  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 <div align="center">
@@ -503,7 +503,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
   <p><a href="https://t.me/revanced_extended"><strong>📢 Telegram</strong></a></p>
-  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -529,7 +529,7 @@
 </div>
 
 <div align="center">
-  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -552,7 +552,7 @@
 </div>
 
 <div align="center">
-  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -572,7 +572,7 @@
 </p>
 
 <div align="center">
-  <p><a href="#-liste-de-mods-android--android-mods-list"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
