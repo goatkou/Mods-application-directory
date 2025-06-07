@@ -4,7 +4,7 @@
   <a href="https://github.com/goatkou/Mods-application-directory/stargazers"><img src="https://img.shields.io/github/stars/goatkou/Mods-application-directory?style=for-the-badge&color=yellow" alt="GitHub stars"></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20updated-May%202025-blue?style=for-the-badge" alt="Last Updated">
+  <img src="https://img.shields.io/badge/last%20updated-Juney%202025-blue?style=for-the-badge" alt="Last Updated">
   <img src="https://img.shields.io/badge/Version-2.1-0fdbd1?style=for-the-badge" alt="Version 2.1">
 </p>
 
@@ -393,7 +393,7 @@
 <div align="center">
   <details>
     <summary>✨ Liste des plugins / Plugins List</summary>
-    <p><a href="https://purple-eyez.github.io/Plugins-List/">Explorez la liste ici ! / Explore the list here!</a></p>
+    <p><a href="https://plugins-list.pages.dev/">Explorez la liste ici ! / Explore the list here!</a></p>
   </details>
 </div>
 
@@ -472,7 +472,7 @@
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
   <p><a href="https://github.com/anddea/revanced-patches/wiki/Sources"><strong>🔗 Sources</strong></a></p>
-  <p><a href="https://media.discordapp.net/attachments/1348627385918029854/1354332283955576842/lv_0_20250325222218.mp4?ex=682f647a&is=682e12fa&hm=6c229097eaa0a4bda97dec101246a17a9a9d2c52f3231234c33dc0e3b9b3aae1&"><strong>⚙️ Guide d'installation / Installation Guide</strong></a></p>
+  <p><a href="https://uploadnow.io/f/jzMXlYR"><strong>⚙️ Guide d'installation / Installation Guide</strong></a></p>
   <p><a href="https://github.com/anddea/revanced-patches"><strong>😺 GitHub</strong></a></p>
   <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
@@ -549,10 +549,10 @@
 <div align="center">
 
 | Date | Modifications |
-|------|---------------|
-| **25 mai 2025** | Ajout index numéroté, Retour en haut
+|------|--------------- |
+| **7 juin 2025** | Changement lien plugin list Revenge, ajout tuto patch Spotify (Anddea) |
+| **25 mai 2025** | Ajout index numéroté, Retour en haut | 
 | **8 mai 2025** | Ajout de Nobook |
-| **7 mai 2025** | Corrections des fonctionnalités / description des fonctionnalités, Mise à jour des badges |
 | **21 fév 2025** | Création initiale du README |
 
 </div>
@@ -584,6 +584,6 @@
 ---
 
 <div align="center">
-  <i>Dernière mise à jour / Last updated: 26 mai 2025</i> ⏰
+  <i>Dernière mise à jour / Last updated: 7 juin 2025</i> ⏰
   <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>
