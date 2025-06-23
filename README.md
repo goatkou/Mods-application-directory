@@ -63,7 +63,7 @@
 | **1** | [YouTube ReVanced](#-youtube-revanced) | Streaming |
 | **2** | [YouTube ReVanced Extended](#-youtube-revanced-extended) | Streaming |
 | **3** | [Xtra (Twitch)](#-xtra) | Streaming |
-| **4** | [TikTok Private Plus](#-tiktok-private-plus) | Réseaux sociaux |
+| **4** | [TikTokModCloud Z](#-tiktokmodcloud-z) | Réseaux sociaux |
 | **5** | [MyInsta](#-myinsta) | Réseaux sociaux |
 | **6** | [InstaEclipse](#-instaeclipse) | Réseaux sociaux |
 | **7** | [SnapEnhance](#-snapenhance) | Réseaux sociaux |
@@ -173,33 +173,29 @@
 
 ## 🌐 Réseaux sociaux
 
-### 🎵 TikTok Private Plus
+### 🎵 TikTokModCloud Z
 <div align="center">
-  <img src="https://img.shields.io/badge/TikTok Private Plus-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  <img src="https://img.shields.io/badge/TikTokModCloud Z-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
 </div>
 
-**🇫🇷** TikTok Private Plus est une version modifiée de TikTok qui permet de télécharger sans filigrane et supprime les pubs. Elle inclut des fonctionnalités supplémentaires accessibles via TikTok Plugin.
+**🇫🇷** TikTokModCloud Z est une version modifiée de TikTok qui permet de supprimer les pubs, elle permet également d'avoir un thème personnalisé. Elle inclut des fonctionnalités supplémentaires accessibles via TikTok Plugin.
 
-**🇬🇧** TikTok Private Plus is a modified TikTok version that enables watermark-free downloads and removes ads. It includes extra features available through TikTok Plugin.
+**🇬🇧** TikTokModCloud Z is a modified version of TikTok that allows you to remove ads and have a personalized theme. It includes additional features accessible via TikTok Plugin.
 
 #### 🎯 Fonctionnalités / Features
 
 | Icône | Description (🇫🇷/🇬🇧) |
 |-------|------------------------|
 | 🚫 | Pas de pubs dans l'appli / No in-app ads |
-| 🎥 | Vidéos téléchargeables sans filigrane en HD / Videos downloadable without watermark in HD |
+| 💜 | Thème personnalisé  / Customized theme |
 | 🔧 | TikTok Plugin pour ajouts / TikTok Plugin for extras |
-| 🛠️ | Réglages de thèmes ou vitesse / Theme or speed settings |
+| 🛠️ | Réglages de vitesse / Speed settings |
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
-  <p><a href="https://t.me/tiktokupdatez"><strong>📢 Telegram</strong></a></p>
+  <p><a href="https://t.me/TikTokModCloudz"><strong>📢 Telegram</strong></a></p>
   <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
-
-> **🇫🇷 Note :** Une version plus basique, **TikTok Platinum**, offre téléchargements et suppression des pubs, sans options avancées.
->
-> **🇬🇧 Note:** A simpler version, **TikTok Platinum**, provides downloads and ad removal, without advanced options.
 
 ---
 
@@ -549,10 +545,10 @@
 <div align="center">
 
 | Date | Modifications |
-|------|--------------- |
+|------|--------------- 
+| **23 juin 2025** | Suppression Tik Tok Private Plus, Ajout TikTokModCloud Z
 | **7 juin 2025** | Changement lien plugin list Revenge, ajout tuto patch Spotify (Anddea) |
-| **25 mai 2025** | Ajout index numéroté, Retour en haut | 
-| **8 mai 2025** | Ajout de Nobook |
+| **25 mai 2025** | Ajout index numéroté, Retour en haut |
 | **21 fév 2025** | Création initiale du README |
 
 </div>
@@ -584,6 +580,6 @@
 ---
 
 <div align="center">
-  <i>Dernière mise à jour / Last updated: 7 juin 2025</i> ⏰
+  <i>Dernière mise à jour / Last updated: 23 juin 2025</i> ⏰
   <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>
