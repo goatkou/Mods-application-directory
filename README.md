@@ -4,7 +4,7 @@
   <a href="https://github.com/goatkou/Mods-application-directory/stargazers"><img src="https://img.shields.io/github/stars/goatkou/Mods-application-directory?style=for-the-badge&color=yellow" alt="GitHub stars"></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20updated-June%202025-blue?style=for-the-badge" alt="Last Updated">
+  <img src="https://img.shields.io/badge/last%20updated-July%202025-blue?style=for-the-badge" alt="Last Updated">
   <img src="https://img.shields.io/badge/Version-2.1-0fdbd1?style=for-the-badge" alt="Version 2.1">
 </p>
 
@@ -272,7 +272,7 @@
 | 🔓 | Accès à certaines fonctions premium / Access to some premium features |
 
 <div align="center">
-  <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root / iOS 🔏</p>
+  <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
   <p><a href="https://t.me/snapenhance_chat/1/194034"><strong>⚙️ Guide d'installation / Installation Guide</strong></a></p>
   <p><a href="https://t.me/snapenhance"><strong>📢 Telegram</strong></a></p>
   <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
@@ -381,7 +381,7 @@
 | 🌐 | Traduction des messages / Translation of messages |
 
 <div align="center">
-  <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root / iOS 🔏</p>
+  <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
   <p><a href="https://github.com/revenge-mod"><strong>😺 GitHub</strong></a></p>
   <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
@@ -546,6 +546,7 @@
 
 | Date | Modifications |
 |------|--------------- 
+| **5 juillet 2025** | Corrections
 | **23 juin 2025** | Suppression Tik Tok Private Plus, Ajout TikTokModCloud Z
 | **7 juin 2025** | Changement lien plugin list Revenge, ajout tuto patch Spotify (Anddea) |
 | **25 mai 2025** | Ajout index numéroté, Retour en haut |
@@ -580,6 +581,6 @@
 ---
 
 <div align="center">
-  <i>Dernière mise à jour / Last updated: 23 juin 2025</i> ⏰
+  <i>Dernière mise à jour / Last updated: 5 juillet 2025</i> ⏰
   <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>
