@@ -73,7 +73,7 @@
 | **11** | [Revenge (Discord)](#-revenge) | Messagerie |
 | **12** | [Momogram](#%EF%B8%8F-momogram) | Messagerie |
 | **13** | [xManager (Spotify)](#-xmanager) | Musique |
-| **14** | [ReVanced Spotify (Anddea)](#-revanced-spotify-anddea) | Musique |
+| **14** | [ReVanced Spotify](#-revanced-spotify) | Musique |
 | **15** | [YouTube Music ReVanced Extended](#-youtube-music-revanced-extended) | Musique |
 
   </a></p>
@@ -448,9 +448,9 @@
 
 ---
 
-### 🎼 ReVanced Spotify (Anddea)
+### 🎼 ReVanced Spotify
 <div align="center">
-  <img src="https://img.shields.io/badge/ReVanced Spotify (Anddea)-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  <img src="https://img.shields.io/badge/ReVanced Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
 </div>
 
 **🇫🇷** ReVanced Spotify est une version modifiée de Spotify, patchée via ReVanced Manager, pour une expérience sans pubs ni restrictions.
@@ -467,17 +467,8 @@
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
-  <p><a href="https://github.com/anddea/revanced-patches/wiki/Sources"><strong>🔗 Sources</strong></a></p>
-  <p><a href="https://uploadnow.io/f/jzMXlYR"><strong>⚙️ Guide d'installation / Installation Guide</strong></a></p>
-  <p><a href="https://github.com/anddea/revanced-patches"><strong>😺 GitHub</strong></a></p>
+ <p><a href="https://revanced.app/"><strong>🌐 Site officiel / Official Website</strong></a></p>
   <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
-</div>
-
-<div align="center">
-  <blockquote>
-    <p><strong>🇫🇷 Note :</strong> <strong>ReVanced Spotify</strong> est plus stable que xManager, qui peut présenter des bugs dus à un blocage récent de Spotify sur les mods.</p>
-    <p><strong>🇬🇧 Note:</strong> <strong>ReVanced Spotify</strong> is more stable than xManager, which may experience bugs due to a recent Spotify block on mods.</p>
-  </blockquote>
 </div>
 
 ---
@@ -546,10 +537,9 @@
 
 | Date | Modifications |
 |------|--------------- 
+| **12 juillet 2025** | Remplacement de ReVanced Spotify (Anddea) par ReVanced Spotify |
 | **5 juillet 2025** | Corrections
-| **23 juin 2025** | Suppression Tik Tok Private Plus, Ajout TikTokModCloud Z
-| **7 juin 2025** | Changement lien plugin list Revenge, ajout tuto patch Spotify (Anddea) |
-| **25 mai 2025** | Ajout index numéroté, Retour en haut |
+| **23 juin 2025** | Remplacement de Tik Tok Private Plus par TikTokModCloud Z |
 | **21 fév 2025** | Création initiale du README |
 
 </div>
@@ -581,6 +571,6 @@
 ---
 
 <div align="center">
-  <i>Dernière mise à jour / Last updated: 5 juillet 2025</i> ⏰
+  <i>Dernière mise à jour / Last updated: 12 juillet 2025</i> ⏰
   <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>
