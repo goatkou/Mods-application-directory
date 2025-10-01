@@ -4,7 +4,7 @@
   <a href="https://github.com/goatkou/Mods-application-directory/stargazers"><img src="https://img.shields.io/github/stars/goatkou/Mods-application-directory?style=for-the-badge&color=yellow" alt="GitHub stars"></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20updated-July%202025-blue?style=for-the-badge" alt="Last Updated">
+  <img src="https://img.shields.io/badge/last%20updated-October%202025-blue?style=for-the-badge" alt="Last Updated">
   <img src="https://img.shields.io/badge/Version-2.1-0fdbd1?style=for-the-badge" alt="Version 2.1">
 </p>
 
@@ -463,7 +463,7 @@
 |-------|------------------------|
 | 📌 | Patch facile via ReVanced Manager / Easy patching with ReVanced Manager |
 | 🚫 | Suppression des pubs audio et visuelles / Removal of audio and visual ads |
-| 🔓 | Sauts illimités et accès premium déverrouillé / Unlimit
+| 🔓 | Sauts illimités et accès premium déverrouillé / Unlimit |
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
@@ -536,7 +536,7 @@
 <div align="center">
 
 | Date | Modifications |
-|------|--------------- 
+|------|--------------- |
 | **12 juillet 2025** | Remplacement de ReVanced Spotify (Anddea) par ReVanced Spotify |
 | **5 juillet 2025** | Corrections
 | **23 juin 2025** | Remplacement de Tik Tok Private Plus par TikTokModCloud Z |
@@ -571,6 +571,6 @@
 ---
 
 <div align="center">
-  <i>Dernière mise à jour / Last updated: 12 juillet 2025</i> ⏰
+  <i>Dernière mise à jour / Last updated: 1 octobre 2025</i> ⏰
   <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>
