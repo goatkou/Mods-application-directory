@@ -538,7 +538,7 @@
 | Date | Modifications |
 |------|--------------- |
 | **12 juillet 2025** | Remplacement de ReVanced Spotify (Anddea) par ReVanced Spotify |
-| **5 juillet 2025** | Corrections
+| **5 juillet 2025** | Corrections |
 | **23 juin 2025** | Remplacement de Tik Tok Private Plus par TikTokModCloud Z |
 | **21 fév 2025** | Création initiale du README |
 
