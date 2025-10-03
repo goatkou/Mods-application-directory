@@ -64,7 +64,7 @@
 | **2** | [YouTube ReVanced Extended](#-youtube-revanced-extended) | Streaming |
 | **3** | [Xtra (Twitch)](#-xtra) | Streaming |
 | **4** | [TikTokModCloud Z](#-tiktokmodcloud-z) | Réseaux sociaux |
-| **5** | [MyInsta](#-myinsta) | Réseaux sociaux |
+| **5** | [InstaPrime](#-instaprime) | Réseaux sociaux |
 | **6** | [InstaEclipse](#-instaeclipse) | Réseaux sociaux |
 | **7** | [SnapEnhance](#-snapenhance) | Réseaux sociaux |
 | **8** | [Piko (Twitter)](#-piko) | Réseaux sociaux |
@@ -199,14 +199,14 @@
 
 ---
 
-### 📸 MyInsta
+### 📸 InstaPrime
 <div align="center">
-  <img src="https://img.shields.io/badge/MyInsta-ffffff?style=for-the-badge&logo=instagram&logoColor=26c5ef" alt="MyInsta"/>
+  <img src="https://img.shields.io/badge/InstaPrime-ec4c66?style=for-the-badge&logo=instagram&logoColor=3b3738" alt="MyInsta"/>
 </div>
 
-**🇫🇷** MyInsta est une version modifiée d'Instagram offrant téléchargement de contenu et mode discret.
+**🇫🇷** InstaPrime est une version modifiée d'Instagram offrant téléchargement de contenu et mode discret.
 
-**🇬🇧** MyInsta is a modified Instagram version with content downloads and discreet mode.
+**🇬🇧** InstaPrime is a modified Instagram version with content downloads and discreet mode.
 
 #### 🎯 Fonctionnalités / Features
 
@@ -221,7 +221,7 @@
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
-  <p><a href="https://t.me/instasmashrepo"><strong>📢 Telegram</strong></a></p>
+  <p><a href="https://t.me/instaprimeofficial"><strong>📢 Telegram</strong></a></p>
   <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
@@ -537,9 +537,8 @@
 
 | Date | Modifications |
 |------|--------------- |
-| **12 juillet 2025** | Remplacement de ReVanced Spotify (Anddea) par ReVanced Spotify |
+| ** 3 octobre 2025** | Remplacement de MyInsta par InstaPrime
 | **5 juillet 2025** | Corrections |
-| **23 juin 2025** | Remplacement de Tik Tok Private Plus par TikTokModCloud Z |
 | **21 fév 2025** | Création initiale du README |
 
 </div>
