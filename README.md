@@ -537,7 +537,7 @@
 
 | Date | Modifications |
 |------|--------------- |
-| ** 3 octobre 2025** | Remplacement de MyInsta par InstaPrime
+| **3 octobre 2025** | Remplacement de MyInsta par InstaPrime
 | **5 juillet 2025** | Corrections |
 | **21 fév 2025** | Création initiale du README |
 
@@ -570,6 +570,6 @@
 ---
 
 <div align="center">
-  <i>Dernière mise à jour / Last updated: 1 octobre 2025</i> ⏰
+  <i>Dernière mise à jour / Last updated: 4 octobre 2025</i> ⏰
   <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>
