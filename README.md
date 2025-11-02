@@ -4,7 +4,7 @@
   <a href="https://github.com/goatkou/Mods-application-directory/stargazers"><img src="https://img.shields.io/github/stars/goatkou/Mods-application-directory?style=for-the-badge&color=yellow" alt="GitHub stars"></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20updated-October%202025-blue?style=for-the-badge" alt="Last Updated">
+  <img src="https://img.shields.io/badge/last%20updated-November%202025-blue?style=for-the-badge" alt="Last Updated">
   <img src="https://img.shields.io/badge/Version-2.1-0fdbd1?style=for-the-badge" alt="Version 2.1">
 </p>
 
@@ -395,14 +395,14 @@
 
 ---
 
-### ✉️ Momogram
+### ✉️ NagramX
 <div align="center">
-  <img src="https://img.shields.io/badge/Momogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/NagramX-white?style=for-the-badge&logo=telegram&logoColor=0094FD" alt="Telegram"/>
 </div>
 
-**🇫🇷** Momogram modifie Telegram pour offrir des fonctionnalités avancées comme un choix de fournisseur de traduction et une personnalisation poussée.
+**🇫🇷** NagramX modifie Telegram pour offrir des fonctionnalités avancées comme un choix de fournisseur de traduction et une personnalisation poussée.
 
-**🇬🇧** Momogram enhances Telegram with advanced features like a customizable translation provider and deep customization options.
+**🇬🇧** NagramX enhances Telegram with advanced features like a customizable translation provider and deep customization options.
 
 #### 🎯 Fonctionnalités / Features
 
@@ -410,7 +410,7 @@
 |-------|------------------------|
 | 🌐 | Fournisseur de traduction personnalisable / Customizable translation provider |
 | 🚫 | Pas de pubs dans l'appli / No in-app ads |
-| 🔐 | Verrouillage par empreinte / Fingerprint lock |
+| 👀 | Messages supprimés consultables / Deleted messages viewable |
 | 🛜 | Désactive la connexion auto / Disable auto login |
 
 <div align="center">
@@ -537,7 +537,8 @@
 
 | Date | Modifications |
 |------|--------------- |
-| **3 octobre 2025** | Remplacement de MyInsta par InstaPrime
+| **2 novembre 2025** | Remplacement de Momogram par NagramX |
+| **3 octobre 2025** | Remplacement de MyInsta par InstaPrime |
 | **5 juillet 2025** | Corrections |
 | **21 fév 2025** | Création initiale du README |
 
@@ -557,7 +558,7 @@
 
 **🇫🇷** Une suggestion ou un mod à proposer ? Ouvrez une issue ou une pull request sur GitHub !
 
-**🇬🇧** Got a suggestion or mod to add? Open an issue or pull request on GitHub!
+**🇬🇧** Got a suggestion or mod to add? Open an issue or pull request on GitHub !
 
 <p align="center">
   <a href="https://github.com/goatkou/Mods-application-directory/pulls"><strong>📤 Soumettre une idée / Submit an idea</strong></a>
@@ -570,6 +571,6 @@
 ---
 
 <div align="center">
-  <i>Dernière mise à jour / Last updated: 4 octobre 2025</i> ⏰
+  <i>Dernière mise à jour / Last updated: 2 novembre 2025</i> ⏰
   <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>
