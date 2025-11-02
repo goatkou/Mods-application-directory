@@ -71,7 +71,7 @@
 | **9** | [Reddit ReVanced Extended](#%EF%B8%8F-reddit-revanced-extended) | Réseaux sociaux |
 | **10** | [Nobook (Facebook)](#-nobook) | Réseaux sociaux |
 | **11** | [Revenge (Discord)](#-revenge) | Messagerie |
-| **12** | [Momogram](#%EF%B8%8F-momogram) | Messagerie |
+| **12** | [NagramX](#%EF%B8%8F-nagramx) | Messagerie |
 | **13** | [xManager (Spotify)](#-xmanager) | Musique |
 | **14** | [ReVanced Spotify](#-revanced-spotify) | Musique |
 | **15** | [YouTube Music ReVanced Extended](#-youtube-music-revanced-extended) | Musique |
@@ -415,7 +415,7 @@
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
-  <p><a href="https://t.me/momogram_update"><strong>📢 Telegram</strong></a></p>
+  <p><a href="https://github.com/risin42/NagramX"><strong>😺 GitHub</strong></a></p>
   <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
