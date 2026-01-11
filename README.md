@@ -4,8 +4,8 @@
   <a href="https://github.com/goatkou/Mods-application-directory/stargazers"><img src="https://img.shields.io/github/stars/goatkou/Mods-application-directory?style=for-the-badge&color=yellow" alt="GitHub stars"></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20updated-November%202025-blue?style=for-the-badge" alt="Last Updated">
-  <img src="https://img.shields.io/badge/Version-2.1-0fdbd1?style=for-the-badge" alt="Version 2.1">
+  <img src="https://img.shields.io/badge/last%20updated-January%202026-blue?style=for-the-badge" alt="Last Updated">
+  <img src="https://img.shields.io/badge/Version-2.5 (Tempo)-0fdbd1?style=for-the-badge" alt="Version 2.5 (Tempo)">
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 | N° | Application | Catégorie |
 |------|-------------|-----------|
 | **1** | [YouTube ReVanced](#-youtube-revanced) | Streaming |
-| **2** | [YouTube ReVanced Extended](#-youtube-revanced-extended) | Streaming |
+| **2** | [YouTube Morphe](#-youtube-morphe) | Streaming |
 | **3** | [Xtra (Twitch)](#-xtra) | Streaming |
 | **4** | [TikTokModCloud Z](#-tiktokmodcloud-z) | Réseaux sociaux |
 | **5** | [InstaPrime](#-instaprime) | Réseaux sociaux |
@@ -114,15 +114,15 @@
 
 ---
 
-### 📹 YouTube ReVanced Extended
+### 📹 YouTube Morphe
 <div align="center">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  <img src="https://img.shields.io/badge/RVX-ff3859?style=for-the-badge" alt="ReVanced Extended"/>
+  <img src="https://img.shields.io/badge/Morphe-1f5aa8?style=for-the-badge" alt="Morphe"/>
 </div>
 
-**🇫🇷** YouTube ReVanced Extended est une version enrichie de ReVanced, avec des options supplémentaires pour la lecture et une interface plus ajustable.
+**🇫🇷** YouTube Morphe est une version parallèle à YouTube ReVanced crée par d'anciens contributeurs de celui-ci, le mod est actuellement en cours de développement donc pas d'évolution majeur par rapport à ReVanced.
 
-**🇬🇧** YouTube ReVanced Extended is an enhanced version of ReVanced, offering extra playback options and a more adjustable interface.
+**🇬🇧** YouTube Morphe is a parallel version to YouTube ReVanced, created by former contributors to the latter. The mod is currently under development, so there are no major evolutions or improvements compared to ReVanced
 
 #### 🎯 Fonctionnalités / Features
 
@@ -135,11 +135,10 @@
 | 🔧 | Réglages pour meilleures performances / Settings for better performance |
 | ⏭️ | SponsorBlock |
 | 👎 | Return YouTube Dislike |
-| 🆔 | Return YouTube Username |
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
-  <p><a href="https://t.me/revanced_extended"><strong>📢 Telegram</strong></a></p>
+  <p><a href="https://github.com/morpheapp"><strong>😺 GitHub</strong></a></p>
   <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
@@ -537,8 +536,8 @@
 
 | Date | Modifications |
 |------|--------------- |
+| **12 janvier 2026** | Remplacement de YouTube ReVanced Extended par Morphe
 | **2 novembre 2025** | Remplacement de Momogram par NagramX |
-| **3 octobre 2025** | Remplacement de MyInsta par InstaPrime |
 | **5 juillet 2025** | Corrections |
 | **21 fév 2025** | Création initiale du README |
 
@@ -571,6 +570,6 @@
 ---
 
 <div align="center">
-  <i>Dernière mise à jour / Last updated: 2 novembre 2025</i> ⏰
+  <i>Dernière mise à jour / Last updated: 12 janvier 2026</i> ⏰
   <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>
