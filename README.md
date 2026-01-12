@@ -123,7 +123,7 @@
 
 **🇫🇷** YouTube Morphe est une version parallèle à YouTube ReVanced crée par d'anciens contributeurs de celui-ci, le mod est actuellement en cours de développement donc pas d'évolution majeur par rapport à ReVanced.
 
-**🇬🇧** YouTube Morphe is a parallel version to YouTube ReVanced, created by former contributors to the latter. The mod is currently under development, so there are no major evolutions or improvements compared to ReVanced
+**🇬🇧** YouTube Morphe is a parallel version to YouTube ReVanced, created by former contributors to the latter. The mod is currently under development, so there are no major evolutions compared to ReVanced
 
 #### 🎯 Fonctionnalités / Features
 
