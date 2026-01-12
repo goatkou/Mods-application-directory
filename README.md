@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/last%20updated-January%202026-blue?style=for-the-badge" alt="Last Updated">
-  <img src="https://img.shields.io/badge/Version-2.5 (Tempo)-0fdbd1?style=for-the-badge" alt="Version 2.5 (Tempo)">
+  <img src="https://img.shields.io/badge/Version-2.5-1b0466?style=for-the-badge" alt="Version 2.5">
 </p>
 
 <div align="center">
@@ -66,15 +66,16 @@
 | **4** | [TikTokModCloud Z](#-tiktokmodcloud-z) | Réseaux sociaux |
 | **5** | [InstaPrime](#-instaprime) | Réseaux sociaux |
 | **6** | [InstaEclipse](#-instaeclipse) | Réseaux sociaux |
-| **7** | [SnapEnhance](#-snapenhance) | Réseaux sociaux |
-| **8** | [Piko (Twitter)](#-piko) | Réseaux sociaux |
-| **9** | [Reddit ReVanced Extended](#%EF%B8%8F-reddit-revanced-extended) | Réseaux sociaux |
-| **10** | [Nobook (Facebook)](#-nobook) | Réseaux sociaux |
-| **11** | [Revenge (Discord)](#-revenge) | Messagerie |
-| **12** | [NagramX](#%EF%B8%8F-nagramx) | Messagerie |
-| **13** | [xManager (Spotify)](#-xmanager) | Musique |
-| **14** | [ReVanced Spotify](#-revanced-spotify) | Musique |
-| **15** | [YouTube Music ReVanced Extended](#-youtube-music-revanced-extended) | Musique |
+| **7** | [SnapEnhance](#-snapenhance) | Résaux sociaux |
+| **8** | [PurrfectSnap](#-purrfectsnap) | Réseaux sociaux |
+| **9** | [Piko (Twitter)](#-piko) | Réseaux sociaux |
+| **10** | [Reddit RVX Morphed](#-reddit-rvx-morphed) | Réseaux sociaux |
+| **11** | [Nobook (Facebook)](#-nobook) | Réseaux sociaux |
+| **12** | [Revenge (Discord)](#-revenge) | Messagerie |
+| **13** | [NagramX](#%EF%B8%8F-nagramx) | Messagerie |
+| **14** | [xManager (Spotify)](#-xmanager) | Musique |
+| **15** | [ReVanced Spotify](#-revanced-spotify) | Musique |
+| **16** | [YouTube Music ReVanced Extended](#-youtube-music-revanced-extended) | Musique |
 
   </a></p>
   </details>
@@ -117,7 +118,7 @@
 ### 📹 YouTube Morphe
 <div align="center">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  <img src="https://img.shields.io/badge/Morphe-1f5aa8?style=for-the-badge" alt="Morphe"/>
+  <img src="https://img.shields.io/badge/Morphe-0993ad?style=for-the-badge" alt="Morphe"/>
 </div>
 
 **🇫🇷** YouTube Morphe est une version parallèle à YouTube ReVanced crée par d'anciens contributeurs de celui-ci, le mod est actuellement en cours de développement donc pas d'évolution majeur par rapport à ReVanced.
@@ -279,6 +280,34 @@
 
 ---
 
+### 📸 PurrfectSnap
+<div align="center">
+  <img src="https://img.shields.io/badge/PurrfectSnap-F0AE61?style=for-the-badge&logo=snapchat&logoColor=white" alt="Snapchat"/>
+</div>
+
+**🇫🇷** PurrfectSnap est une version améliorée de SnapEnhance qui ajoute des options supplémentaires au mod de base SnapEnhance
+
+**🇬🇧** PurrfectSnap is an enhanced version of SnapEnhance that adds additional options to the core SnapEnhance mod
+
+#### 🎯 Fonctionnalités / Features
+
+| Icône | Description (🇫🇷/🇬🇧) |
+|-------|------------------------|
+| 👀 | Messages supprimés visibles / Deleted messages visible |
+| ✏️ | Édition après envoi / Editing after sending |
+| 📥 | Sauvegarde de snaps et stories sans notification / Saving snaps and stories without notification |
+| 🔓 | Accès à certaines fonctions premium / Access to some premium features |
+| 🤖 | Réponse auto. généré par IA / Auto-generated response by AI |
+
+<div align="center">
+  <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
+  <p><a
+  href="https://t.me/purrfectsnap_official"><strong>📢 Telegram</strong></a></p>
+  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+</div>
+
+---
+
 ### 🐦 Piko
 <div align="center">
   <img src="https://img.shields.io/badge/Piko (Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
@@ -306,15 +335,13 @@
 
 ---
 
-### 🗨️ Reddit ReVanced Extended
+### 🗨️ Reddit RVX Morphed
 <div align="center">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
-  <img src="https://img.shields.io/badge/RVX-ff3859?style=for-the-badge" alt="ReVanced Extended"/>
-</div>
+  <img src="https://img.shields.io/badge/Reddit RVX Morphed-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit RVX Morphed"/>
 
-**🇫🇷** Reddit ReVanced Extended modifie Reddit pour supprimer les pubs et ajouter des options de navigation ou d'apparence.
+**🇫🇷** Reddit RVX Morphed modifie Reddit pour supprimer les pubs et ajouter des options de navigation ou d'apparence.
 
-**🇬🇧** Reddit ReVanced Extended modifies Reddit to remove ads and add navigation or appearance options.
+**🇬🇧** Reddit RVX Morphed modifies Reddit to remove ads and add navigation or appearance options.
 
 #### 🎯 Fonctionnalités / Features
 
@@ -327,7 +354,7 @@
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
-  <p><a href="https://t.me/revanced_extended"><strong>📢 Telegram</strong></a></p>
+  <p><a href="https://github.com/wchill/rvx-morphed"><strong>😺 GitHub</strong></a></p>
   <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
@@ -536,7 +563,7 @@
 
 | Date | Modifications |
 |------|--------------- |
-| **12 janvier 2026** | Remplacement de YouTube ReVanced Extended par Morphe
+| **12 janvier 2026** | Ajout de PurrfectSnap, Remplacement de YouTube ReVanced Extended par Morphe, Remplacement de Reddit RVX par RVX Morphed
 | **2 novembre 2025** | Remplacement de Momogram par NagramX |
 | **5 juillet 2025** | Corrections |
 | **21 fév 2025** | Création initiale du README |
