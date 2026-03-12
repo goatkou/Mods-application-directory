@@ -199,7 +199,7 @@
 
 ---
 
-### 🎵 TikTokYou
+### 📱 TikTokYou
 <div align="center">
   <img src="https://img.shields.io/badge/TikTokYou-c8b4fc?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
 </div>
