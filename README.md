@@ -299,7 +299,7 @@
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
-  <p><a href="https://t.me/snapenhance_chat/1/194034"><strong>⚙️ Guide d'installation / Installation Guide</strong></a></p>
+  <p><a href="https://hypernotepad.com/n/ec03baa34f4665df"><strong>⚙️ Guide d'installation / Installation Guide</strong></a></p>
   <p><a href="https://t.me/snapenhance"><strong>📢 Telegram</strong></a></p>
   <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
