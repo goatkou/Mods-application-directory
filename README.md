@@ -71,7 +71,7 @@
 | **9** | [Reddit Morphe](#%EF%B8%8F-reddit-morphe) | Réseaux sociaux |
 | **10** | [Nobook (Facebook)](#-nobook) | Réseaux sociaux |
 | **11** | [Revenge (Discord)](#-revenge) | Messagerie |
-| **12** | [NagramX](#%EF%B8%8F-nagramx) | Messagerie |
+| **12** | [NagramX (Telegram)](#%EF%B8%8F-nagramx) | Messagerie |
 | **13** | [Spotilol (Spotify)](#-spotilol) | Musique |
 | **14** | [YouTube Music Morphe](#-youtube-music-morphe) | Musique |
 
@@ -539,6 +539,6 @@
 ---
 
 <div align="center">
-  <i>Dernière mise à jour / Last updated: 12 mars 2026</i> ⏰
+  <i>Dernière mise à jour / Last updated: 11 septembre 2026</i> ⏰
   <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>
