@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/last%20updated-March%202026-blue?style=for-the-badge" alt="Last Updated">
-  <img src="https://img.shields.io/badge/Version-2.6-1b0466?style=for-the-badge" alt="Version 2.6">
+  <img src="https://img.shields.io/badge/Version-3.0-#a12854?style=for-the-badge" alt="Version 3.0">
 </p>
 
 <div align="center">
@@ -60,23 +60,20 @@
 
 | N° | Application | Catégorie |
 |------|-------------|-----------|
-| **1** | [YouTube ReVanced](#-youtube-revanced) | Streaming |
-| **2** | [YouTube Morphe](#-youtube-morphe) | Streaming |
+| **1** | [YouTube Morphe](#-youtube-morphe) | Streaming |
 | **3** | [Xtra (Twitch)](#-xtra) | Streaming |
 | **4** | [TikTokModCloud](#-tiktokmodcloud) | Réseaux sociaux |
 | **5** | [TikTokYou](#-tiktokyou) | Réseaux sociaux |
-| **6** | [InstaPrime](#-instaprime) | Réseaux sociaux |
-| **7** | [InstaEclipse](#-instaeclipse) | Réseaux sociaux |
+| **6** | [Instagram Piko](#-instaprime) | Réseaux sociaux |
 | **8** | [SnapEnhance](#-snapenhance) | Résaux sociaux |
 | **9** | [PurrfectSnap](#-purrfectsnap) | Réseaux sociaux |
-| **10** | [Piko (Twitter)](#-piko) | Réseaux sociaux |
+| **10** | [Twitter (X) Piko](#-piko) | Réseaux sociaux |
 | **11** | [Reddit Morphe](#%EF%B8%8F-reddit-morphe) | Réseaux sociaux |
 | **12** | [Nobook (Facebook)](#-nobook) | Réseaux sociaux |
 | **13** | [Revenge (Discord)](#-revenge) | Messagerie |
 | **14** | [NagramX](#%EF%B8%8F-nagramx) | Messagerie |
-| **15** | [xManager (Spotify)](#-xmanager) | Musique |
-| **16** | [ReVanced Spotify](#-revanced-spotify) | Musique |
-| **17** | [YouTube Music ReVanced Extended](#-youtube-music-revanced-extended) | Musique |
+| **15** | [Spotilol (Spotify)(#-xmanager) | Musique |
+| **17** | [YouTube Music Morphe](#-youtube-music-revanced-extended) | Musique |
 
   </a></p>
   </details>
@@ -86,35 +83,6 @@
 <div align="center">
 
 ## 🎬 Streaming
-
-### 🎥 YouTube ReVanced
-<div align="center">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  <img src="https://img.shields.io/badge/ReVanced-000000?style=for-the-badge&logo=revanced&logoColor=white" alt="ReVanced"/>
-</div>
-
-**🇫🇷** YouTube ReVanced est une version modifiée de YouTube qui supprime les pubs et ajoute des options comme la lecture en arrière-plan ou la personnalisation de l'interface.
-
-**🇬🇧** YouTube ReVanced is a modified version of YouTube that removes ads and adds features like background playback or UI customization.
-
-#### 🎯 Fonctionnalités / Features
-
-| Icône | Description (🇫🇷/🇬🇧) |
-|-------|------------------------|
-| 🚫 | Pas de pubs / No ads |
-| 🔄 | Lecture en arrière-plan, écran éteint inclus / Background playback, screen off included |
-| 🌓 | Mode sombre AMOLED / AMOLED dark mode |
-| 🎨 | Changement de thèmes ou d'icônes / Theme or icon changes |
-| ⏭️ | SponsorBlock |
-| 👎 | Return YouTube Dislike |
-
-<div align="center">
-  <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
-  <p><a href="https://revanced.app/"><strong>🌐 Site officiel / Official Website</strong></a></p>
-  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
-</div>
-
----
 
 ### 📹 YouTube Morphe
 <div align="center">
@@ -225,14 +193,14 @@
   
 ---
 
-### 🤳 InstaPrime
+### 🤳 Instagram Piko
 <div align="center">
-  <img src="https://img.shields.io/badge/InstaPrime-ec4c66?style=for-the-badge&logo=instagram&logoColor=3b3738" alt="MyInsta"/>
+  <img src="https://img.shields.io/badge/Instagram Piko-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Piko"/>
 </div>
 
-**🇫🇷** InstaPrime est une version modifiée d'Instagram offrant téléchargement de contenu et mode discret.
+**🇫🇷** Instagram Piko une version modifiée d'Instagram offrant téléchargement de contenu et mode fantôme compatible avec Morphe Manager
 
-**🇬🇧** InstaPrime is a modified Instagram version with content downloads and discreet mode.
+**🇬🇧** Instagram Piko is a modified version of Instagram that offers content downloading and a ghost mode, compatible with Morphe Manager.
 
 #### 🎯 Fonctionnalités / Features
 
@@ -246,34 +214,8 @@
 | 🔎 | Zoom sur les photos / Photo zoom |
 
 <div align="center">
-  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
-  <p><a href="https://t.me/instaprimeofficial"><strong>📢 Telegram</strong></a></p>
-  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
-</div>
-
----
-
-### 🌑 InstaEclipse
-<div align="center">
-  <img src="https://img.shields.io/badge/Instaeclipse-db224b?style=for-the-badge&logo=instagram&logoColor=white" alt="InstaEclipse"/>
-</div>
-
-**🇫🇷** InstaEclipse est une version modifiée d'Instagram avec des fonctionnalités avancées pour améliorer l'expérience utilisateur.
-
-**🇬🇧** InstaEclipse is a modified Instagram version with advanced features to enhance the user experience.
-
-#### 🎯 Fonctionnalités / Features
-
-| Icône | Description (🇫🇷/🇬🇧) |
-|-------|------------------------|
-| ⏸️ | Désactiver le défilement automatique des stories / Disable auto story flipping |
-| 🎬 | Désactiver la lecture automatique des vidéos / Disable auto play videos |
-| 👻 | Mode fantôme / Ghost mode |
-| 🚫 | Pas de pubs / No ads |
-
-<div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
-  <p><a href="https://t.me/InstaEclipse"><strong>📢 Telegram</strong></a></p>
+  <p><a href="https://github.com/crimera/piko"><strong>😺 GitHub</strong></a></p>
   <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
@@ -327,21 +269,20 @@
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
-  <p><a
-  href="https://t.me/purrfectsnap_official"><strong>📢 Telegram</strong></a></p>
+  <p><a href="https://t.me/purrfectsnap_official"><strong>📢 Telegram</strong></a></p>
   <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
 
-### 🐦 Piko
+### 🐦 Twitter Piko
 <div align="center">
-  <img src="https://img.shields.io/badge/Piko (Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/Twitter (X) Piko-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </div>
 
-**🇫🇷** Piko ajuste Twitter (X) avec des téléchargements vidéo et des options premium, via ReVanced Manager.
+**🇫🇷** Twitter Piko améliore Twitter (X) avec le téléchargement de vidéos et des options premium via Morphe Manager.
 
-**🇬🇧** Piko tweaks Twitter (X) with video downloads and premium options, via ReVanced Manager.
+**🇬🇧** Twitter Piko enhances Twitter (X) with video downloads and premium features via Morphe Manager.
 
 #### 🎯 Fonctionnalités / Features
 
@@ -353,8 +294,6 @@
 | 🚫 | Pas de pubs / No ads |
 
 <div align="center">
-  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
-  <p><a href="https://github.com/crimera/piko/blob/main/docs/images/manager.png"><strong>⚙️ Guide d'installation / Installation Guide</strong></a></p>
   <p><a href="https://github.com/crimera/piko"><strong>😺 GitHub</strong></a></p>
   <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
@@ -451,7 +390,7 @@
 
 ### ✉️ NagramX
 <div align="center">
-  <img src="https://img.shields.io/badge/NagramX-white?style=for-the-badge&logo=telegram&logoColor=0094FD" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/NagramX (Telegram)-white?style=for-the-badge&logo=telegram&logoColor=0094FD" alt="Telegram"/>
 </div>
 
 **🇫🇷** NagramX modifie Telegram pour offrir des fonctionnalités avancées comme un choix de fournisseur de traduction et une personnalisation poussée.
@@ -477,65 +416,40 @@
 
 ## 🎵 Musique
 
-### 🎧 xManager
+### 🎼 Spotilol
 <div align="center">
-  <img src="https://img.shields.io/badge/xManager (Spotify)-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  <img src="https://img.shields.io/badge/Spotilol (Spotify)-fcd69d?style=for-the-badge&logo=spotify&logoColor=1c1411" alt="Spotify"/>
 </div>
 
-**🇫🇷** xManager est une appli pour installer et gérer des versions modifiées de Spotify, sans pubs ni limites d'écoute.
+**🇫🇷** Spotilol est une application Android qui intègre le lecteur web de Spotify avec un bloqueur de publicités, sans root ni modification de l’application.
 
-**🇬🇧** xManager is an app to install and manage modified Spotify versions, without ads or listening limits.
+**🇬🇧** Spotilol is an Android app that wraps Spotify’s web player with built-in ad blocking, without root or app modifications.
 
 #### 🎯 Fonctionnalités / Features
 
 | Icône | Description (🇫🇷/🇬🇧) |
 |-------|------------------------|
-| 📌 | Gestion facile des versions Spotify / Easy Spotify version management |
-| 🚫 | Pas de pubs audio ou visuelles / No audio or visual ads |
-| 🔓 | Sauts illimités et restrictions levées / Unlimited skips and restrictions lifted |
-
-<div align="center">
-  <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
-  <p><a href="https://t.me/xManagerUpdates"><strong>📢 Telegram</strong></a></p>
-  <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
-</div>
-
----
-
-### 🎼 ReVanced Spotify
-<div align="center">
-  <img src="https://img.shields.io/badge/ReVanced Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
-</div>
-
-**🇫🇷** ReVanced Spotify est une version modifiée de Spotify, patchée via ReVanced Manager, pour une expérience sans pubs ni restrictions.
-
-**🇬🇧** ReVanced Spotify is a modified version of Spotify, patched through ReVanced Manager, offering an ad-free and unrestricted experience.
-
-#### 🎯 Fonctionnalités / Features
-
-| Icône | Description (🇫🇷/🇬🇧) |
-|-------|------------------------|
-| 📌 | Patch facile via ReVanced Manager / Easy patching with ReVanced Manager |
+| ⚫ | Thème AMOLED / AMOLED Theme |
 | 🚫 | Suppression des pubs audio et visuelles / Removal of audio and visual ads |
 | 🔓 | Sauts illimités et accès premium déverrouillé / Unlimit |
 
 <div align="center">
-  <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
- <p><a href="https://revanced.app/"><strong>🌐 Site officiel / Official Website</strong></a></p>
+  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
+  <p><a href="https://github.com/lyssadev/Spotilol"><strong>😺 GitHub</strong></a></p>
   <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
 
-### 🎶 YouTube Music ReVanced Extended
+### 🎶 YouTube Music Morphe
 <div align="center">
   <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music"/>
-  <img src="https://img.shields.io/badge/RVX-ff3859?style=for-the-badge" alt="ReVanced Extended"/>
+  <img src="https://img.shields.io/badge/Morphe-0993ad?style=for-the-badge" alt="Morphe"/>
 </div>
 
-**🇫🇷** YouTube Music ReVanced Extended est une version modifiée de YouTube Music qui supprime les pubs et offre des fonctionnalités premium.
+**🇫🇷** YouTube Music Morphe est une version modifiée de YouTube Music qui supprime les pubs et offre des fonctionnalités premium.
 
-**🇬🇧** YouTube Music ReVanced Extended is a modified version of YouTube Music that removes ads and provides premium features.
+**🇬🇧** YouTube Music Morphe is a modified version of YouTube Music that removes ads and provides premium features.
 
 #### 🎯 Fonctionnalités / Features
 
@@ -549,7 +463,7 @@
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
-  <p><a href="https://t.me/revanced_extended"><strong>📢 Telegram</strong></a></p>
+  <p><a href="https://github.com/morpheapp"><strong>😺 GitHub</strong></a></p>
   <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
@@ -567,9 +481,9 @@
 <div align="center">
 
 | Risques | Précautions |
-|---------|-------------|
+|---------|------------- |
 | **Téléchargements** | Utilisez uniquement les liens officiels fournis pour éviter les malwares. |
-| **Bannissements** | Certains mods (ex. SnapEnhance) peuvent entraîner un bannissement de compte. |
+| **Bannissements** | Certains mods (ex. SnapEnhance, PurrfectSnap) peuvent entraîner un bannissement de compte. |
 | **Sécurité** | Vérifiez les permissions demandées par l'APK avant installation. |
 | **Légalité** | Respectez les lois locales ; certains mods peuvent violer les conditions d'utilisation des apps officielles. |
 
@@ -591,6 +505,7 @@
 
 | Date | Modifications |
 |------|--------------- |
+| **11 septembre 2026** | Ajout de Instagram Piko, Spotilol, YT Music Morphe / YouTube ReVanced, InstaPrime, InstaEclipse, xManager, ReVanced Spotify retirées |
 | **12 mars 2026** | Ajout de TikTokYou, Remplacement de Reddit RVX Morphed par Morphe, correction |
 | **12 janvier 2026** | Ajout de PurrfectSnap, Remplacement de YouTube ReVanced Extended par Morphe, Remplacement de Reddit RVX par RVX Morphed |
 | **21 fév 2025** | Création initiale du README |
