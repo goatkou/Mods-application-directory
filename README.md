@@ -4,8 +4,8 @@
   <a href="https://github.com/goatkou/Mods-application-directory/stargazers"><img src="https://img.shields.io/github/stars/goatkou/Mods-application-directory?style=for-the-badge&color=yellow" alt="GitHub stars"></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20updated-March%202026-blue?style=for-the-badge" alt="Last Updated">
-  <img src="https://img.shields.io/badge/Version-3.0-#a12854?style=for-the-badge" alt="Version 3.0">
+  <img src="https://img.shields.io/badge/last%20updated-September%202026-blue?style=for-the-badge" alt="Last Updated">
+  <img src="https://img.shields.io/badge/Version-3.0-a12854?style=for-the-badge" alt="Version 3.0">
 </p>
 
 <div align="center">
@@ -61,19 +61,19 @@
 | N° | Application | Catégorie |
 |------|-------------|-----------|
 | **1** | [YouTube Morphe](#-youtube-morphe) | Streaming |
-| **3** | [Xtra (Twitch)](#-xtra) | Streaming |
-| **4** | [TikTokModCloud](#-tiktokmodcloud) | Réseaux sociaux |
-| **5** | [TikTokYou](#-tiktokyou) | Réseaux sociaux |
-| **6** | [Instagram Piko](#-instaprime) | Réseaux sociaux |
-| **8** | [SnapEnhance](#-snapenhance) | Résaux sociaux |
-| **9** | [PurrfectSnap](#-purrfectsnap) | Réseaux sociaux |
-| **10** | [Twitter (X) Piko](#-piko) | Réseaux sociaux |
-| **11** | [Reddit Morphe](#%EF%B8%8F-reddit-morphe) | Réseaux sociaux |
-| **12** | [Nobook (Facebook)](#-nobook) | Réseaux sociaux |
-| **13** | [Revenge (Discord)](#-revenge) | Messagerie |
-| **14** | [NagramX](#%EF%B8%8F-nagramx) | Messagerie |
-| **15** | [Spotilol (Spotify)(#-xmanager) | Musique |
-| **17** | [YouTube Music Morphe](#-youtube-music-revanced-extended) | Musique |
+| **2** | [Xtra (Twitch)](#-xtra) | Streaming |
+| **3** | [TikTokModCloud](#-tiktokmodcloud) | Réseaux sociaux |
+| **4** | [TikTokYou](#-tiktokyou) | Réseaux sociaux |
+| **5** | [Instagram Piko](#-instagram-piko) | Réseaux sociaux |
+| **6** | [SnapEnhance](#-snapenhance) | Résaux sociaux |
+| **7** | [PurrfectSnap](#-purrfectsnap) | Réseaux sociaux |
+| **8** | [Twitter (X) Piko](#-twitter-piko) | Réseaux sociaux |
+| **9** | [Reddit Morphe](#%EF%B8%8F-reddit-morphe) | Réseaux sociaux |
+| **10** | [Nobook (Facebook)](#-nobook) | Réseaux sociaux |
+| **11** | [Revenge (Discord)](#-revenge) | Messagerie |
+| **12** | [NagramX](#%EF%B8%8F-nagramx) | Messagerie |
+| **13** | [Spotilol (Spotify)](#-spotilol) | Musique |
+| **14** | [YouTube Music Morphe](#-youtube-music-morphe) | Musique |
 
   </a></p>
   </details>
