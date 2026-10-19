@@ -4,8 +4,8 @@
   <a href="https://github.com/goatkou/Mods-application-directory/stargazers"><img src="https://img.shields.io/github/stars/goatkou/Mods-application-directory?style=for-the-badge&color=yellow" alt="GitHub stars"></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20updated-September%202026-blue?style=for-the-badge" alt="Last Updated">
-  <img src="https://img.shields.io/badge/Version-3.0-a12854?style=for-the-badge" alt="Version 3.0">
+  <img src="https://img.shields.io/badge/last%20updated-October%202026-blue?style=for-the-badge" alt="Last Updated">
+  <img src="https://img.shields.io/badge/Version-3.1-a12854?style=for-the-badge" alt="Version 3.1">
 </p>
 
 <div align="center">
@@ -69,10 +69,10 @@
 | **7** | [PurrfectSnap](#-purrfectsnap) | Réseaux sociaux |
 | **8** | [Twitter (X) Piko](#-twitter-piko) | Réseaux sociaux |
 | **9** | [Reddit Morphe](#%EF%B8%8F-reddit-morphe) | Réseaux sociaux |
-| **10** | [Nobook (Facebook)](#-nobook) | Réseaux sociaux |
+| **10** | [HushFacebook (Facebook)](#-hushfacebook) | Réseaux sociaux |
 | **11** | [Revenge (Discord)](#-revenge) | Messagerie |
-| **12** | [NagramX (Telegram)](#%EF%B8%8F-nagramx) | Messagerie |
-| **13** | [Spotilol (Spotify)](#-spotilol) | Musique |
+| **12** | [NagramXF (Telegram)](#%EF%B8%8F-nagramxf) | Messagerie |
+| **13** | [MySpoti (Spotify)](#-myspoti) | Musique |
 | **14** | [YouTube Music Morphe](#-youtube-music-morphe) | Musique |
 
   </a></p>
@@ -294,6 +294,7 @@
 | 🚫 | Pas de pubs / No ads |
 
 <div align="center">
+  <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
   <p><a href="https://github.com/crimera/piko"><strong>😺 GitHub</strong></a></p>
   <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
@@ -327,14 +328,14 @@
 
 ---
 
-### 🔵 Nobook
+### 🔵 HushFacebook
 <div align="center">
-  <img src="https://img.shields.io/badge/Nobook (Facebook)-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/HushFacebook (Facebook)-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </div>
 
-**🇫🇷** Nobook est une version optimisée de Facebook, enrichie de nombreuses fonctionnalités et options personnalisées.
+**🇫🇷** HushFacebook est une version optimisée de Facebook, enrichie de nombreuses fonctionnalités et options personnalisées.
 
-**🇬🇧** Nobook is an enhanced version of Facebook, packed with additional features and customizable options.
+**🇬🇧** HushFacebook is an enhanced version of Facebook, packed with additional features and customizable options.
 
 #### 🎯 Fonctionnalités / Features
 
@@ -343,11 +344,11 @@
 | 🚫 | Bloque les publicités sponsorisées / Blocks sponsored ads |
 | ❌ | Bloque les posts suggérés / Blocks suggested posts |
 | ⬇️ | Téléchargement des médias / Downloads media |
-| 🖼️ | Facebook lite interface |
+| 🖼️ | Interface personnalisable / Customizable interface |
 
 <div align="center">
-  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
-  <p><a href="https://github.com/ycngmn/Nobook"><strong>😺 GitHub</strong></a></p>
+  <p><strong>Compatibilité / Compatibility:</strong> Root / Non-root 🔐</p>
+  <p><a href="https://github.com/SysAdminDoc/Hushfacebook"><strong>😺 GitHub</strong></a></p>
   <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
@@ -388,14 +389,14 @@
 
 ---
 
-### ✉️ NagramX
+### ✉️ NagramXF
 <div align="center">
-  <img src="https://img.shields.io/badge/NagramX (Telegram)-white?style=for-the-badge&logo=telegram&logoColor=0094FD" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/NagramXF (Telegram)-white?style=for-the-badge&logo=telegram&logoColor=0094FD" alt="Telegram"/>
 </div>
 
-**🇫🇷** NagramX modifie Telegram pour offrir des fonctionnalités avancées comme un choix de fournisseur de traduction et une personnalisation poussée.
+**🇫🇷** NagramXF modifie Telegram pour offrir des fonctionnalités avancées comme un choix de fournisseur de traduction et une personnalisation poussée.
 
-**🇬🇧** NagramX enhances Telegram with advanced features like a customizable translation provider and deep customization options.
+**🇬🇧** NagramXF enhances Telegram with advanced features like a customizable translation provider and deep customization options.
 
 #### 🎯 Fonctionnalités / Features
 
@@ -408,7 +409,7 @@
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
-  <p><a href="https://github.com/risin42/NagramX"><strong>😺 GitHub</strong></a></p>
+  <p><a href="https://github.com/Keeperorowner/NagramXF"><strong>😺 GitHub</strong></a></p>
   <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
@@ -416,14 +417,14 @@
 
 ## 🎵 Musique
 
-### 🎼 Spotilol
+### 🎼 Myspoti
 <div align="center">
-  <img src="https://img.shields.io/badge/Spotilol (Spotify)-fcd69d?style=for-the-badge&logo=spotify&logoColor=1c1411" alt="Spotify"/>
+  <img src="https://img.shields.io/badge/Myspoti (Spotify)-121212?style=for-the-badge&logo=spotify&logoColor=21d'-&" alt="Spotify"/>
 </div>
 
-**🇫🇷** Spotilol est une application Android qui intègre le lecteur web de Spotify avec un bloqueur de publicités, sans root ni modification de l’application.
+**🇫🇷** MySpoti est une application Android qui exécute le lecteur Web de Spotify dans une WebView avec un bloqueur de publicités, sans root ni modification de Spotify.
 
-**🇬🇧** Spotilol is an Android app that wraps Spotify’s web player with built-in ad blocking, without root or app modifications.
+**🇬🇧** MySpoti is an Android app that runs Spotify’s Web Player in a WebView with an ad blocker, without requiring root access or modifying Spotify.
 
 #### 🎯 Fonctionnalités / Features
 
@@ -432,10 +433,11 @@
 | ⚫ | Thème AMOLED / AMOLED Theme |
 | 🚫 | Suppression des pubs audio et visuelles / Removal of audio and visual ads |
 | 🔓 | Sauts illimités et accès premium déverrouillé / Unlimit |
+| ⬇️ | Téléchargements hors-ligne / Offline downloads |
 
 <div align="center">
   <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
-  <p><a href="https://github.com/lyssadev/Spotilol"><strong>😺 GitHub</strong></a></p>
+  <p><a href="https://github.com/kota-zo/myspoti"><strong>😺 GitHub</strong></a></p>
   <p><a href="#-liste-de-mods-android--android-mods-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
@@ -505,6 +507,7 @@
 
 | Date | Modifications |
 |------|--------------- |
+| **19 octobre 2026** | Remplacement de Nobook par HushFacebook, NagramX par NagramXF et Spotilol par Myspoti |
 | **11 septembre 2026** | Ajout de Instagram Piko, Spotilol, YT Music Morphe / YouTube ReVanced, InstaPrime, InstaEclipse, xManager, ReVanced Spotify retirées |
 | **12 mars 2026** | Ajout de TikTokYou, Remplacement de Reddit RVX Morphed par Morphe, correction |
 | **12 janvier 2026** | Ajout de PurrfectSnap, Remplacement de YouTube ReVanced Extended par Morphe, Remplacement de Reddit RVX par RVX Morphed |
