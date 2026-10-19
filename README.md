@@ -198,7 +198,7 @@
   <img src="https://img.shields.io/badge/Instagram Piko-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Piko"/>
 </div>
 
-**🇫🇷** Instagram Piko une version modifiée d'Instagram offrant téléchargement de contenu et mode fantôme compatible avec Morphe Manager
+**🇫🇷** Instagram Piko une version modifiée d'Instagram offrant téléchargement de contenu et mode fantôme, compatible avec Morphe Manager
 
 **🇬🇧** Instagram Piko is a modified version of Instagram that offers content downloading and a ghost mode, compatible with Morphe Manager.
 
@@ -333,9 +333,9 @@
   <img src="https://img.shields.io/badge/HushFacebook (Facebook)-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </div>
 
-**🇫🇷** HushFacebook est une version optimisée de Facebook, enrichie de nombreuses fonctionnalités et options personnalisées.
+**🇫🇷** HushFacebook est une version optimisée de Facebook, enrichie de nombreuses fonctionnalités et options personnalisées, compatible avec Morphe Manager.
 
-**🇬🇧** HushFacebook is an enhanced version of Facebook, packed with additional features and customizable options.
+**🇬🇧** HushFacebook is an enhanced version of Facebook, packed with additional features and customizable options, compatible with Morphe Manager.
 
 #### 🎯 Fonctionnalités / Features
 
