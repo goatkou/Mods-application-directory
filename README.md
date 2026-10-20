@@ -507,10 +507,9 @@
 
 | Date | Modifications |
 |------|--------------- |
+| **20 octobre 2026** | Ajout des inspirations de la création du dépot, correction date |
 | **19 octobre 2026** | Remplacement de Nobook par HushFacebook, NagramX par NagramXF et Spotilol par Myspoti |
 | **11 septembre 2026** | Ajout de Instagram Piko, Spotilol, YT Music Morphe / YouTube ReVanced, InstaPrime, InstaEclipse, xManager, ReVanced Spotify retirées |
-| **12 mars 2026** | Ajout de TikTokYou, Remplacement de Reddit RVX Morphed par Morphe, correction |
-| **12 janvier 2026** | Ajout de PurrfectSnap, Remplacement de YouTube ReVanced Extended par Morphe, Remplacement de Reddit RVX par RVX Morphed |
 | **21 fév 2025** | Création initiale du README |
 
 </div>
@@ -542,6 +541,7 @@
 ---
 
 <div align="center">
-  <i>Dernière mise à jour / Last updated: 11 septembre 2026</i> ⏰
+  <i>Dernière mise à jour / Last updated: 20 octobre 2026</i> ⏰
   <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
+  <p>Inspired by <a href="https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties">Discord3rdparties</a></p>
 </div>
